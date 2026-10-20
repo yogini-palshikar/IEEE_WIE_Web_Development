@@ -1,0 +1,122 @@
+[
+    {
+        "incident_id": "INC-1007",
+        "center_latitude": 12.971593,
+        "center_longitude": 79.158502,
+        "dominant_category": "water_main_leak",
+        "severity_score": 96,
+        "total_reports_correlated": 50
+    },
+    {
+        "incident_id": "INC-1011",
+        "center_latitude": 12.999012,
+        "center_longitude": 79.175012,
+        "dominant_category": "water_main_leak",
+        "severity_score": 96,
+        "total_reports_correlated": 50
+    },
+    {
+        "incident_id": "INC-1013",
+        "center_latitude": 12.947998,
+        "center_longitude": 79.140018,
+        "dominant_category": "water_main_leak",
+        "severity_score": 96,
+        "total_reports_correlated": 50
+    },
+    {
+        "incident_id": "INC-1008",
+        "center_latitude": 12.954992,
+        "center_longitude": 79.169959,
+        "dominant_category": "water_main_leak",
+        "severity_score": 95,
+        "total_reports_correlated": 50
+    },
+    {
+        "incident_id": "INC-1014",
+        "center_latitude": 12.981968,
+        "center_longitude": 79.14501,
+        "dominant_category": "water_main_leak",
+        "severity_score": 95,
+        "total_reports_correlated": 50
+    },
+    {
+        "incident_id": "INC-1001",
+        "center_latitude": 13.005005,
+        "center_longitude": 79.164979,
+        "dominant_category": "sewer_overflow",
+        "severity_score": 80,
+        "total_reports_correlated": 40
+    },
+    {
+        "incident_id": "INC-1004",
+        "center_latitude": 12.955021,
+        "center_longitude": 79.134998,
+        "dominant_category": "sewer_overflow",
+        "severity_score": 79,
+        "total_reports_correlated": 40
+    },
+    {
+        "incident_id": "INC-1005",
+        "center_latitude": 12.995029,
+        "center_longitude": 79.185016,
+        "dominant_category": "sewer_overflow",
+        "severity_score": 79,
+        "total_reports_correlated": 40
+    },
+    {
+        "incident_id": "INC-1003",
+        "center_latitude": 12.944985,
+        "center_longitude": 79.145028,
+        "dominant_category": "drain_blockage",
+        "severity_score": 77,
+        "total_reports_correlated": 41
+    },
+    {
+        "incident_id": "INC-1006",
+        "center_latitude": 12.975019,
+        "center_longitude": 79.154992,
+        "dominant_category": "drain_blockage",
+        "severity_score": 77,
+        "total_reports_correlated": 40
+    },
+    {
+        "incident_id": "INC-1002",
+        "center_latitude": 12.949988,
+        "center_longitude": 79.174995,
+        "dominant_category": "pipe_leak",
+        "severity_score": 65,
+        "total_reports_correlated": 50
+    },
+    {
+        "incident_id": "INC-1012",
+        "center_latitude": 12.965005,
+        "center_longitude": 79.150006,
+        "dominant_category": "pipe_leak",
+        "severity_score": 65,
+        "total_reports_correlated": 50
+    },
+    {
+        "incident_id": "INC-1010",
+        "center_latitude": 12.990009,
+        "center_longitude": 79.160003,
+        "dominant_category": "pipe_leak",
+        "severity_score": 64,
+        "total_reports_correlated": 50
+    },
+    {
+        "incident_id": "INC-1015",
+        "center_latitude": 12.94,
+        "center_longitude": 79.157753,
+        "dominant_category": "waterlogging",
+        "severity_score": 48,
+        "total_reports_correlated": 3
+    },
+    {
+        "incident_id": "INC-1009",
+        "center_latitude": 13.01,
+        "center_longitude": 79.13,
+        "dominant_category": "waterlogging",
+        "severity_score": 41,
+        "total_reports_correlated": 6
+    }
+]

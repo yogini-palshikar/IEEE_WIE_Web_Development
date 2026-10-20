@@ -1,0 +1,1001 @@
+report_id,timestamp,latitude,longitude,description,category,severity,image_path
+R-2001,2026-09-04T00:05:52,13.005134,79.164989,"The storm drain on the corner of 5th and Elm is completely clogged with wet leaves and debris, causing water to pool over the curb every time it drizzles.",drain_blockage,58,images/drain_02.jpg
+R-2002,2026-09-04T00:24:59,12.949934,79.174936,There is a tiny puddle near the curb that never dries up even in the hot sun. It has been there since yesterday afternoon and it hasn't rained.,pipe_leak,44,images/trickle_04.jpg
+R-2003,2026-09-04T00:28:31,12.944912,79.145135,"Raw sewage is bubbling up right out of the manhole cover near the bus stop, smells terrible.",sewer_overflow,66,images/drain_03.jpg
+R-2004,2026-09-04T00:46:24,12.959999,79.18187,There is a deep pothole right on the corner of Elm and 4th that almost wrecked my tire this morning.,normal_road,10,images/noise_05.jpg
+R-2005,2026-09-04T00:50:20,12.954935,79.134981,Black wastewater is backing up onto the sidewalk on 4th street and it's making people gag from the smell.,sewer_overflow,77,images/drain_01.jpg
+R-2006,2026-09-04T00:56:35,13.002389,79.148103,Streetlight outside number 42 has been flickering constantly for three nights straight and needs a new bulb.,normal_road,14,images/noise_02.jpg
+R-2007,2026-09-04T01:12:56,12.992375,79.131692,Someone dumped a massive pile of old mattresses and trash bags right next to the public recycling bins.,normal_road,19,images/noise_05.jpg
+R-2008,2026-09-04T01:14:57,12.954847,79.134883,There is foul smelling dirty water spilling out of the storm drain intersection. Plz send help.,sewer_overflow,64,images/drain_04.jpg
+R-2009,2026-09-04T01:35:29,12.994966,79.184643,Standing water is getting deeper near the catch basin in front of our driveway because trash bags are blocking the grates.,drain_blockage,62,images/drain_05.jpg
+R-2010,2026-09-04T01:50:31,12.974735,79.155111,Drain grate is covered in thick sludge and plastic bottles. Water is backing up into the street and won't go down.,drain_blockage,72,images/drain_02.jpg
+R-2011,2026-09-04T01:56:07,12.95721,79.165741,A very skittish stray dog has been hanging around the playground area near the community center all afternoon.,normal_road,18,images/noise_03.jpg
+R-2012,2026-09-04T02:17:27,12.988418,79.178204,The stop sign on Oak street is completely twisted around and hard for drivers to see coming from the west.,normal_road,15,images/noise_06.jpg
+R-2013,2026-09-04T02:27:07,12.978702,79.174541,"Concrete slab on the sidewalk by the bus stop is lifted up pretty high, creating a bad tripping hazard.",normal_road,20,images/noise_04.jpg
+R-2014,2026-09-04T02:36:00,12.982452,79.170491,"Weird dark damp patch on the pavement in the alley behind Main Street, not sure what it is but it smells a bit.",normal_road,16,images/noise_02.jpg
+R-2015,2026-09-04T02:37:35,12.945092,79.145086,Manhole overflowing with disgusting brown sludge right in front of my driveway.,sewer_overflow,60,images/drain_01.jpg
+R-2016,2026-09-04T02:38:00,12.995128,79.184787,Major backup on elm street. Black waste water is pooling all over the pavement and stinks to high heaven.,sewer_overflow,68,images/drain_05.jpg
+R-2017,2026-09-04T02:48:27,12.975045,79.15492,Hey someone needs to clear the storm drain on Maple St. The whole cover is jammed with sticks and dirty water is spilling into people's yards.,drain_blockage,63,images/drain_04.jpg
+R-2018,2026-09-04T02:57:23,12.950107,79.175013,Water keeps seeping out from under the asphalt right by the mailbox. Its just a small constant trickle that makes a little swamp patch.,pipe_leak,52,images/trickle_04.jpg
+R-2019,2026-09-04T03:00:30,12.974994,79.154968,The sewer main seems busted cause gross smelly water is coming up from the street grate.,sewer_overflow,61,images/drain_02.jpg
+R-2020,2026-09-04T03:01:08,12.995126,79.185094,"The drain is blocked solid with dirt and pine needles. Whenever it rains hard, dirty water pools up right by the pedestrian crosswalk.",drain_blockage,55,images/drain_01.jpg
+R-2021,2026-09-04T03:18:00,13.005208,79.164739,Water is pooling near the storm drain cover on Oak Avenue. The grate looks jammed with construction debris or gravel.,drain_blockage,52,images/drain_03.jpg
+R-2022,2026-09-04T03:32:59,12.986207,79.132612,Huge crack forming across the pedestrian crossing on Pine Avenue that needs patching up soon.,normal_road,25,images/noise_03.jpg
+R-2023,2026-09-04T03:47:25,12.94492,79.145008,Standing water mixed with sewage is flooding the sidewalk near the park entrance. Horrible odor!,sewer_overflow,65,images/drain_01.jpg
+R-2024,2026-09-04T03:51:57,13.004987,79.164895,Manhole is overflowing near my apartment building. Dark murky water everywhere and it smells like a dead animal.,sewer_overflow,74,images/drain_01.jpg
+R-2025,2026-09-04T03:55:34,12.980226,79.134011,The street lamp pole near the park entrance looks like it got backed into and is leaning at a weird angle.,normal_road,15,images/noise_03.jpg
+R-2026,2026-09-04T04:09:09,13.003585,79.17537,Bag of garbage ripped open by raccoons spread all over the sidewalk in front of the vacant lot.,normal_road,13,images/noise_06.jpg
+R-2027,2026-09-04T04:30:51,12.994895,79.185155,Disgusting black wastewater is overflowing from the street manhole and running down the gutter.,sewer_overflow,69,images/drain_01.jpg
+R-2028,2026-09-04T04:38:14,12.975078,79.154909,Massive puddle forming because the drain grate is plugged up with garbage. Pls send someone to clean it out before it floods the sidewalk.,drain_blockage,65,images/drain_04.jpg
+R-2029,2026-09-04T04:52:03,12.974913,79.155023,The storm drain by the bus stop is totally jammed up. Nasty brown water is backing up and splashing onto people waiting for the bus.,drain_blockage,63,images/drain_01.jpg
+R-2030,2026-09-04T04:57:41,12.949446,79.165453,"Cat stuck up in the oak tree near number 15 for at least two days now, meowing constantly.",normal_road,5,images/noise_01.jpg
+R-2031,2026-09-04T05:08:31,12.971634,79.1585,"Massive water main burst on 5th Ave, water is shooting like six feet into the air and tearing up the asphalt right in front of the diner!",water_main_leak,76,images/burst_02.jpg
+R-2032,2026-09-04T05:12:28,12.971495,79.158246,OMG there is a massive geyser shooting right up through the middle of Elm street near 5th. Water is gushing everywhere and the whole intersection is flooding fast!,pipe_leak,79,images/burst_03.jpg
+R-2033,2026-09-04T05:13:39,12.954793,79.169849,"Urgent: A huge underground pipe cracked open near the intersection, causing a heavy flow of water that is flooding the entire road in seconds.",water_main_leak,75,images/burst_07.jpg
+R-2034,2026-09-04T05:19:15,12.945072,79.144961,"Clogged storm drain on Pine street is causing a huge puddle of stagnant, dirty water to sit right by the bike lane.",drain_blockage,69,images/drain_06.jpg
+R-2035,2026-09-04T05:31:57,13.005101,79.165166,There is a massive sewage leak coming out of the manhole on maple ave. The stench is unreal.,sewer_overflow,77,images/drain_04.jpg
+R-2036,2026-09-04T05:33:12,12.971618,79.158481,omg the street is totally buckling on Elm St cause a huge water main broke and its just gushing everywhere filling up car tires!,water_main_leak,78,images/burst_06.jpg
+R-2037,2026-09-04T05:33:48,12.971675,79.158568,"Critical emergency report: Severe water main rupture creating a massive geyser, asphalt is actively crumbling and traffic is completely blocked by rushing water.",water_main_leak,79,images/burst_08.jpg
+R-2038,2026-09-04T05:36:27,12.955064,79.169914,"Water is bubbling up violently through huge cracks in the pavement on Oak street, looks like a major main gave out and it's starting to flood driveways.",water_main_leak,81,images/burst_06.jpg
+R-2039,2026-09-04T05:41:04,12.996664,79.155228,Speed limit sign is knocked down flat on the grass by the middle school entrance.,normal_road,20,images/noise_06.jpg
+R-2040,2026-09-04T05:43:41,12.971624,79.15851,"hey u guys need to send someone quick, a pipe broke under the pavement near maple and now water is shooting out like crazy and lifting the road up.",water_main_leak,82,images/burst_05.jpg
+R-2041,2026-09-04T05:45:19,12.97168,79.15832,"A catastrophic water main failure has occurred on Broadway; high-pressure water is gushing uncontrollably, washing away chunks of the concrete roadway.",water_main_leak,77,images/burst_05.jpg
+R-2042,2026-09-04T05:45:33,13.005032,79.164869,Drain cover is completely buried under wet mulch and trash. Water is backing up and creating a lake in the middle of the intersection.,drain_blockage,75,images/drain_01.jpg
+R-2043,2026-09-04T05:48:37,12.97139,79.158487,"The asphalt just caved in where a heavy flow of water is bubbling up from a broken underground main, hazard level is extreme.",water_main_leak,79,images/burst_01.jpg
+R-2044,2026-09-04T05:50:42,12.975006,79.154822,Waste water backing up onto the street from a capped manhole cover. Very strong foul odor present.,sewer_overflow,67,images/drain_03.jpg
+R-2045,2026-09-04T05:53:55,12.971702,79.15845,"water main broke down by the industrial park and its literally a river out here right now, pavement is totally cracking apart from the pressure.",water_main_leak,80,images/burst_02.jpg
+R-2046,2026-09-04T06:02:07,12.954742,79.170085,"Immediate dispatch needed: Water main has completely blown out, sending torrents of water across all lanes while the road surface rapidly breaks apart.",water_main_leak,81,images/burst_02.jpg
+R-2047,2026-09-04T06:04:30,12.971505,79.15851,"Huge underground pipe failure at Pine and 12th, water shooting straight out of the asphalt and flooding neighboring properties at an alarming rate.",water_main_leak,76,images/burst_08.jpg
+R-2048,2026-09-04T06:06:18,12.971704,79.158475,"yo there is a crazy leak on 8th street, water is bubbling up like a boiling pot and the whole street is about to wash out.",water_main_leak,78,images/burst_05.jpg
+R-2049,2026-09-04T06:08:46,12.955046,79.170133,Urgent notification: Major water main fracture resulting in heavy gushing flows that are rapidly submerging vehicles and fracturing the street structure.,water_main_leak,83,images/burst_01.jpg
+R-2050,2026-09-04T06:17:41,12.977681,79.174756,Tree roots busted through the sidewalk blocks making it impossible to walk past with a stroller.,normal_road,8,images/noise_02.jpg
+R-2051,2026-09-04T06:18:59,13.005024,79.165152,"Hey someone needs to check the sewer line on oak street, dirty water is spilling out onto the road.",sewer_overflow,60,images/drain_06.jpg
+R-2052,2026-09-04T06:19:44,12.972302,79.170894,Mysterious slick patch on the road near the curve on Cedar road causing cars to skid slightly when turning.,normal_road,18,images/noise_05.jpg
+R-2053,2026-09-04T06:27:51,12.971355,79.158381,Urgent: A water main just blew completely apart in front of 402 Oak Ave. High pressure water is blasting like six feet in the air and washing away the gravel.,pipe_leak,84,images/burst_02.jpg
+R-2054,2026-09-04T06:30:34,12.954999,79.169667,Underground pipe busted big time on Pine Rd. The asphalt actually cracked open and now millions of gallons of water are rushing down toward the lower blocks.,pipe_leak,84,images/burst_03.jpg
+R-2055,2026-09-04T06:34:36,12.971534,79.158527,"Hey someone need to send crew quick to Maple and 12th. A pipe burst underground and water is surging up with crazy pressure, flooding driveways already.",pipe_leak,81,images/burst_06.jpg
+R-2056,2026-09-04T06:35:09,13.007495,79.134526,Couple of nasty potholes forming right in the middle of the residential lane on Maple Court.,normal_road,17,images/noise_04.jpg
+R-2057,2026-09-04T06:35:13,12.971794,79.15867,"CRITICAL EMERGENCY: Water main rupture at the corner of Cedar and Broadway. Massive flooding happening right now, water is shooting out from under the pavement.",pipe_leak,80,images/burst_07.jpg
+R-2058,2026-09-04T06:36:37,12.950095,79.174988,The pavement on oak street is permanently damp right over where the main line runs. Noticed it about two days ago and the weather has been totally dry.,pipe_leak,58,images/trickle_04.jpg
+R-2059,2026-09-04T06:37:21,12.954824,79.169914,"An intense geyser of water is erupting from a fractured main on Cedar Lane, tearing the tarmac apart and creating a dangerous flash flood.",water_main_leak,81,images/burst_07.jpg
+R-2060,2026-09-04T06:39:08,12.971633,79.158441,"major water main just blew up near the gas station, water is shooting super high and the blacktop is cracking open everywhere.",water_main_leak,88,images/burst_02.jpg
+R-2061,2026-09-04T06:40:36,12.954985,79.170045,High-priority alert: Subterranean water main rupture causing a massive volume of water to flood the roadway while the pavement splits wide open.,water_main_leak,83,images/burst_07.jpg
+R-2062,2026-09-04T06:44:48,12.971709,79.158715,There is a busted pipe under Washington St spewing water like crazy. The street is turning into a river and the pressure sounds like a jet engine.,pipe_leak,75,images/burst_05.jpg
+R-2063,2026-09-04T06:54:35,12.950023,79.174953,A weird little stream of water is trickling down the gutter even though there was no rain. Looks like a slow leak coming up from a crack in the road.,pipe_leak,63,images/trickle_04.jpg
+R-2064,2026-09-04T07:03:50,12.95493,79.169866,"Water is gushing out of a massive split in the asphalt on Washington Blvd, forming a deep pool that is rapidly trapping morning commuters.",water_main_leak,77,images/burst_02.jpg
+R-2065,2026-09-04T07:05:24,12.955118,79.169997,Water main break on 8th street is out of control. Huge amounts of water are gushing from a crack in the blacktop and basements are at risk.,pipe_leak,77,images/burst_08.jpg
+R-2066,2026-09-04T07:08:37,12.971576,79.158562,Emergency report: underground water line exploded near the community center. Water is spraying high into the air and flooding the entire parking lot.,pipe_leak,78,images/burst_07.jpg
+R-2067,2026-09-04T07:17:15,12.99477,79.185015,There is a blocked catch basin on 12th Street. Water is backing up and starting to creep toward the front steps of the nearby houses.,drain_blockage,63,images/drain_06.jpg
+R-2068,2026-09-04T07:17:21,12.97137,79.158638,"Major pipe burst on Sunset Boulevard! The asphalt buckled and now water is shooting straight up with intense pressure, blocking traffic completely.",pipe_leak,78,images/burst_08.jpg
+R-2069,2026-09-04T07:19:48,12.95001,79.174994,Ever since Sunday night there has been a soggy spot on the grass strip next to the sidewalk. It is squishy when you step on it and the water just wont go away.,pipe_leak,42,images/trickle_01.jpg
+R-2070,2026-09-04T07:19:59,12.954036,79.154909,The overhead street light is completely out on the dark stretch by the library parking lot.,normal_road,16,images/noise_04.jpg
+R-2071,2026-09-04T07:20:25,12.954823,79.170269,omg a pipe bust open right in the middle of our block and water is bubbling up so fast the street is literally floating away.,water_main_leak,76,images/burst_02.jpg
+R-2072,2026-09-04T07:22:51,12.954946,79.170069,"Severe infrastructure failure: Main water line shattered, generating a high-pressure jet that is tearing up the roadbed and flooding local intersections.",water_main_leak,82,images/burst_03.jpg
+R-2073,2026-09-04T07:23:57,12.971515,79.158453,"Rapidly worsening situation as a broken water main pumps thousands of gallons onto the street, causing the asphalt to buckle and break apart.",water_main_leak,85,images/burst_08.jpg
+R-2074,2026-09-04T07:26:24,12.971644,79.158357,hey guys hurry up the street is cracking and water is shooting right up out of the ground like a fountain by the park.,water_main_leak,81,images/burst_04.jpg
+R-2075,2026-09-04T07:31:34,12.955056,79.134786,Raw sewage overflowing into the bike lane from a loose manhole. Smells like rotten eggs and garbage.,sewer_overflow,64,images/drain_01.jpg
+R-2076,2026-09-04T07:32:37,12.954898,79.170079,"Emergency advisory: Catastrophic underground pipe break producing heavy, unchecked water flow that is actively eroding the pavement and flooding the block.",water_main_leak,84,images/burst_04.jpg
+R-2077,2026-09-04T07:38:18,12.949855,79.175012,Water is bubbling up very slowly through a tiny hole in the blacktop. It's been flowing continuously for over twenty four hours with zero precipitation.,pipe_leak,52,images/trickle_06.jpg
+R-2078,2026-09-04T07:44:22,12.95485,79.169765,The pavement is breaking up into huge chunks because a massive water main just ruptured underneath and is flooding everything in sight.,water_main_leak,78,images/burst_06.jpg
+R-2079,2026-09-04T07:44:54,12.97179,79.158503,Help! A water pipe just burst underneath the road on 3rd Ave. Water is gushing out rapidly and flooding the local shops.,pipe_leak,87,images/burst_02.jpg
+R-2080,2026-09-04T07:45:41,12.954971,79.169908,URGENT: massive underground leak or burst on Industrial Parkway. Water is bubbling up aggressively through the cracks and starting to pool deep.,pipe_leak,75,images/burst_04.jpg
+R-2081,2026-09-04T07:46:36,12.971427,79.158566,"urgent fix needed now, water main broke and its gushing out so hard that the asphalt is completely cracking in half.",water_main_leak,82,images/burst_06.jpg
+R-2082,2026-09-04T08:00:58,12.994759,79.16758,Old sofa and broken chairs left abandoned right on the grass strip beside the sidewalk on 8th street.,normal_road,18,images/noise_02.jpg
+R-2083,2026-09-04T08:03:04,13.00498,79.164947,Dark grey waste water is bubbling out of the drain and pooling across the entire sidewalk.,sewer_overflow,76,images/drain_02.jpg
+R-2084,2026-09-04T08:05:19,12.971702,79.158516,"Critical water main breach producing a torrential overflow, with pressurized water bubbling aggressively through splitting pavement across both lanes.",water_main_leak,88,images/burst_05.jpg
+R-2085,2026-09-04T08:05:38,12.989309,79.188772,Pack of stray cats congregating around the alley dumpsters causing a ruckus every night.,normal_road,24,images/noise_05.jpg
+R-2086,2026-09-04T08:06:46,12.995136,79.18492,Drain grate is blocked by old cardboard boxes and leaves. Water is pooling badly and won't drain at all.,drain_blockage,69,images/drain_03.jpg
+R-2087,2026-09-04T08:12:56,12.971327,79.158438,Street is caving in on 14th street because a water pipe burst below. Water is blasting out with huge force and flooding the intersection.,pipe_leak,77,images/burst_06.jpg
+R-2088,2026-09-04T08:15:34,12.971531,79.158494,"Yo, water main just blew on Market St near the bank. Water is shooting like a fountain right out of the asphalt and cars are swerving.",pipe_leak,80,images/burst_07.jpg
+R-2089,2026-09-04T08:23:09,12.955096,79.170073,"Massive torrent of water erupting from a fractured main on 4th street, asphalt is completely shattering and washing down the block.",water_main_leak,83,images/burst_04.jpg
+R-2090,2026-09-04T08:26:01,12.975183,79.155126,The storm drain in the alley behind Main St is clogged with yard waste. Stagnant water is pooling and smelling really bad.,drain_blockage,73,images/drain_01.jpg
+R-2091,2026-09-04T08:32:37,12.955106,79.169733,"Severe pipe rupture on Highland Ave. Water is rushing out with tremendous pressure, creating a massive flood hazard for pedestrians.",pipe_leak,79,images/burst_05.jpg
+R-2092,2026-09-04T08:34:04,12.974827,79.154956,Overflowing manhole spewing foul sewage water onto the asphalt. Nasty smell drifting into nearby homes.,sewer_overflow,77,images/drain_05.jpg
+R-2093,2026-09-04T08:34:09,12.94988,79.174916,There is a perpetual wet spot in the middle of our driveway entrance. It feels like an underground pipe is weeping because it never gets a chance to dry out.,pipe_leak,50,images/trickle_04.jpg
+R-2094,2026-09-04T08:34:53,12.971606,79.158622,dude a massive pipe just blew underneath the road by the school and water is shooting way up in the air like a crazy fountain.,water_main_leak,84,images/burst_06.jpg
+R-2095,2026-09-04T08:41:31,12.954872,79.16985,Emergency dispatch needed at Birch and Lake St. An underground pipe popped and water is gushing across all lanes instantly.,pipe_leak,80,images/burst_07.jpg
+R-2096,2026-09-04T08:45:02,12.971802,79.158312,There's a crazy water pressure blow out on 21st Ave. Water is shooting through the road cracks and flooding the curb in seconds.,pipe_leak,82,images/burst_04.jpg
+R-2097,2026-09-04T08:47:56,12.985281,79.178813,One way sign is hidden behind overgrown tree branches and nobody can read it until they turn.,normal_road,5,images/noise_05.jpg
+R-2098,2026-09-04T08:48:43,12.949937,79.174977,A slow leak seems to be happening near the storm drain. The ground is saturated and water is trickling out steadily since yesterday morning.,pipe_leak,47,images/trickle_04.jpg
+R-2099,2026-09-04T08:49:29,12.975065,79.154961,Blocked storm drain grates are causing water to back up onto the sidewalk near the park entrance. Please unclog.,drain_blockage,59,images/drain_04.jpg
+R-2100,2026-09-04T08:49:56,12.974962,79.154814,Water is pooling knee deep near the storm drain cover because someone dumped grass clippings right over the grate.,drain_blockage,76,images/drain_03.jpg
+R-2101,2026-09-04T08:55:49,12.97174,79.158485,Critical emergency: Catastrophic underground pipe failure causing a violent gush of water that is rapidly inundating the entire intersection.,water_main_leak,83,images/burst_03.jpg
+R-2102,2026-09-04T08:59:45,12.950028,79.174997,Noticed a damp patch on the side street that smells like clean tap water. It has been pooling slightly for a couple of days now without any rain.,pipe_leak,53,images/trickle_04.jpg
+R-2103,2026-09-04T09:03:57,12.971558,79.158573,URGENT: Water main cracked open on Grand Avenue. Immense pressure is sending water shooting into the air and flooding storefronts.,pipe_leak,80,images/burst_02.jpg
+R-2104,2026-09-04T09:07:17,12.971713,79.158437,"The blacktop is literally peeling back as a high pressure water main bursts open, flooding the whole street in a matter of minutes.",water_main_leak,78,images/burst_03.jpg
+R-2105,2026-09-04T09:07:21,12.960573,79.161754,Sidewalk tile is missing entirely leaving a deep hole right outside the bakery entrance.,normal_road,23,images/noise_03.jpg
+R-2106,2026-09-04T09:08:25,12.97173,79.158527,"urgent water main break on cherry st, huge bubbles coming up through the pavement and its starting to flood people's front yards.",water_main_leak,81,images/burst_04.jpg
+R-2107,2026-09-04T09:09:14,12.971581,79.158379,Pipe burst beneath the pavement on Victoria Street. Water is gushing heavily and the whole block is starting to flood.,pipe_leak,86,images/burst_04.jpg
+R-2108,2026-09-04T09:15:54,12.954901,79.170067,Major emergency at 10th and Central: water main just ruptured underground. Water is bursting up through the asphalt like a fountain.,pipe_leak,85,images/burst_08.jpg
+R-2109,2026-09-04T09:17:45,12.955033,79.169885,"Severe infrastructure breach with a ruptured subterranean pipe unleashing a heavy, uncontrolled torrent that is tearing the road apart.",water_main_leak,76,images/burst_05.jpg
+R-2110,2026-09-04T09:26:44,12.954998,79.169959,Alert! Underground water pipe failure on Riverside Drive. Water is gushing furiously and washing out the side of the road.,pipe_leak,84,images/burst_03.jpg
+R-2111,2026-09-04T09:27:41,12.971614,79.158609,"Water is shooting straight out of deep cracks in the asphalt on Sunset Blvd, creating an immediate flooding hazard for drivers.",water_main_leak,90,images/burst_04.jpg
+R-2112,2026-09-04T09:29:49,12.971664,79.158389,Crazy water main break on King Street. The pressure is so high water is shooting out of the ground and flooding the intersection.,pipe_leak,92,images/burst_07.jpg
+R-2113,2026-09-04T09:30:06,13.008636,79.154455,Weird oily patch on the asphalt near the station drop-off zone that looks slippery.,normal_road,8,images/noise_02.jpg
+R-2114,2026-09-04T09:32:00,12.971657,79.158273,"Urgent assistance required on Miller Road. A massive pipe blew underneath, and water is rushing out in torrents, flooding yards.",pipe_leak,81,images/burst_02.jpg
+R-2115,2026-09-04T09:42:24,12.971685,79.158386,"omg the street just cracked wide open and water is gushing out like crazy, completely flooding the turn lane near the mall.",water_main_leak,87,images/burst_05.jpg
+R-2116,2026-09-04T09:42:48,12.971673,79.158608,Immediate attention required: Major water line fracture producing a high velocity jet that is aggressively breaking up the surrounding pavement.,water_main_leak,90,images/burst_07.jpg
+R-2117,2026-09-04T09:43:25,12.963981,79.132719,Jagged edge on a pothole near the hardware store blew out my neighbor's tire yesterday.,normal_road,10,images/noise_03.jpg
+R-2118,2026-09-04T09:45:25,12.955128,79.169998,"A huge underground water main gave way near the bridge, sending an overwhelming volume of water rushing across the lanes and destroying the road.",water_main_leak,80,images/burst_05.jpg
+R-2119,2026-09-04T09:46:48,12.955099,79.170163,"hey someone needs to get out here fast, a pipe broke and water is bubbling up so hard the whole street is turning into a lake.",water_main_leak,81,images/burst_04.jpg
+R-2120,2026-09-04T10:00:32,12.971459,79.158686,"Urgent alert: Severe water main rupture sending pressurized water skyward, causing the concrete roadway to rapidly buckle and disintegrate.",water_main_leak,92,images/burst_08.jpg
+R-2121,2026-09-04T10:01:23,12.971563,79.158606,"Water is gushing out in thick sheets from a busted main on Miller Avenue, eroding the asphalt and trapping cars in the flood.",water_main_leak,96,images/burst_03.jpg
+R-2122,2026-09-04T10:06:04,12.955204,79.169859,"Emergency: water main exploded on Park Place. Water is gushing up through the cracks with immense pressure, causing rapid flooding.",pipe_leak,90,images/burst_06.jpg
+R-2123,2026-09-04T10:10:27,12.975116,79.155141,The manhole lid is pushed up and dirty black water is gushing out onto the street corner.,sewer_overflow,65,images/drain_06.jpg
+R-2124,2026-09-04T10:11:52,13.004867,79.164871,The drainage grate is completely plugged with trash and silt. Dirty water is pooling all over the bike lane and making it unsafe.,drain_blockage,70,images/drain_05.jpg
+R-2125,2026-09-04T10:20:41,12.994777,79.18509,Storm drain on Cedar Lane is blocked by a bunch of branches. Water is backing up and flooding the street edge.,drain_blockage,71,images/drain_06.jpg
+R-2126,2026-09-04T10:20:51,12.949084,79.174286,Broken glass all over the bike lane on University Avenue from some smashed bottles.,normal_road,18,images/noise_01.jpg
+R-2127,2026-09-04T10:21:16,12.971549,79.158503,A huge underground water pipe just burst near the station on Lincoln St. Water is shooting out of the asphalt and flooding fast.,pipe_leak,94,images/burst_01.jpg
+R-2128,2026-09-04T10:23:11,12.975077,79.155175,Strong sewage stench and dirty water backing up from the manhole cover near the grocery store.,sewer_overflow,55,images/drain_06.jpg
+R-2129,2026-09-04T10:24:03,12.955082,79.170033,"major pipe bust near the grocery store, water is shooting out of the cracks and the street surface is totally breaking up.",water_main_leak,83,images/burst_07.jpg
+R-2130,2026-09-04T10:25:03,12.975011,79.155011,Disgusting brown sludge and waste water overflowing onto the walking path by the creek.,sewer_overflow,72,images/drain_01.jpg
+R-2131,2026-09-04T10:25:08,12.971505,79.158605,Critical situation on Summit Ave where a water main has completely given way. Water is blasting through the pavement and flooding everything.,pipe_leak,89,images/burst_07.jpg
+R-2132,2026-09-04T10:26:13,12.954894,79.169863,"Critical water main failure generating an intense geyser, rapidly flooding the roadway while large chunks of pavement break away.",water_main_leak,86,images/burst_01.jpg
+R-2133,2026-09-04T10:26:45,12.945038,79.145087,Sewer backup is flooding the intersection with filthy water. The odor is completely unbearable.,sewer_overflow,58,images/drain_02.jpg
+R-2134,2026-09-04T10:27:53,12.955023,79.170034,Emergency crew needed right now at 9th and Pine. A water line just gave way underground and water is shooting up through the blacktop like crazy.,pipe_leak,78,images/burst_08.jpg
+R-2135,2026-09-04T10:31:19,12.971561,79.158375,"URGENT: Major water main break on Cooper St. The street is literally lifting up as water gushes out with insane pressure, flooding the neighborhood.",pipe_leak,85,images/burst_08.jpg
+R-2136,2026-09-04T10:32:47,12.971451,79.158698,"Subterranean pipe explosion on 22nd street, heavy flows of water are bubbling up aggressively and flooding the surrounding neighborhood.",water_main_leak,84,images/burst_04.jpg
+R-2137,2026-09-04T10:34:07,12.971652,79.158372,yo the road is caving in because a huge water main broke right underneath and its gushing water everywhere super fast.,water_main_leak,83,images/burst_06.jpg
+R-2138,2026-09-04T10:35:22,12.971943,79.158456,Emergency dispatch needed: Massive water main breach creating a torrential overflow that is aggressively tearing up the asphalt roadway.,water_main_leak,87,images/burst_06.jpg
+R-2139,2026-09-04T10:36:16,13.004969,79.165043,Manhole is overflowing with foul smelling greywater right in front of the elementary school.,sewer_overflow,55,images/drain_04.jpg
+R-2140,2026-09-04T10:39:15,12.943784,79.143077,"Stray pit bull roaming around the school bus stop without a collar, kids are scared.",normal_road,18,images/noise_04.jpg
+R-2141,2026-09-04T10:48:17,13.005032,79.164876,Black wastewater is spilling out of the manhole and creating a huge toxic puddle on the street.,sewer_overflow,56,images/drain_03.jpg
+R-2142,2026-09-04T10:55:09,12.971368,79.158712,"Water is bubbling up violently through fracturing pavement on Grand Avenue, pointing to a catastrophic underground main failure.",water_main_leak,88,images/burst_08.jpg
+R-2143,2026-09-04T10:58:01,12.95501,79.135004,Terrible foul smell coming from the street where dirty waste water is backing up out of the drain.,sewer_overflow,63,images/drain_03.jpg
+R-2144,2026-09-04T10:59:10,12.949922,79.175081,There is a tiny stream coming out from under the curb. It is a slow leak that has been running non stop since Saturday afternoon.,pipe_leak,58,images/trickle_06.jpg
+R-2145,2026-09-04T11:00:35,12.971519,79.158561,omg a water pipe just exploded on our street and its shooting water like ten feet high while the pavement cracks in half.,water_main_leak,87,images/burst_05.jpg
+R-2146,2026-09-04T11:15:01,12.971736,79.158367,Water pipe exploded under the pavement on Oxford Road. Huge volume of water is blasting out and turning the whole block into a lake.,pipe_leak,92,images/burst_04.jpg
+R-2147,2026-09-04T11:17:47,12.95,79.174969,The soil around the utility cover is completely soaked through. Water has been slowly oozing out of the earth for more than a day now.,pipe_leak,56,images/trickle_05.jpg
+R-2148,2026-09-04T11:26:34,12.954822,79.169762,"High priority incident: Major water main break causing a heavy, unchecked flow that is washing away the street and flooding intersections.",water_main_leak,79,images/burst_05.jpg
+R-2149,2026-09-04T11:26:54,12.954978,79.169938,"The pavement is actively lifting and breaking apart as a high-pressure underground water line ruptures, sending torrents across the road.",water_main_leak,88,images/burst_01.jpg
+R-2150,2026-09-04T11:27:27,12.971466,79.158638,"hey hurry up and fix this, a water main totally blew out and its gushing so much water the whole street is flooding out.",water_main_leak,87,images/burst_08.jpg
+R-2151,2026-09-04T11:39:58,12.945059,79.14521,Overflowing sewer manhole is leaking foul smelling waste water all over the sidewalk and curb.,sewer_overflow,54,images/drain_06.jpg
+R-2152,2026-09-04T11:53:09,12.9713,79.15848,Critical emergency report: Severe underground pipe break producing a massive water fountain that is tearing up the tarmac and flooding the block.,water_main_leak,88,images/burst_03.jpg
+R-2153,2026-09-04T11:56:35,12.971598,79.158636,"A massive water main has split wide open near the station, sending heavy streams of water across the lanes and breaking the pavement apart.",water_main_leak,93,images/burst_06.jpg
+R-2154,2026-09-04T12:03:12,12.990242,79.133838,Yield sign is faded so badly that drivers are just blowing right through the intersection.,normal_road,21,images/noise_02.jpg
+R-2155,2026-09-04T12:04:54,12.988904,79.171515,Massive pothole right in front of the post office is tearing up suspension systems if you hit it too fast.,normal_road,12,images/noise_02.jpg
+R-2156,2026-09-04T12:05:51,12.955132,79.169965,"Emergency dispatch: A major water main has split open by the plaza, sending a heavy, uncontrolled torrent across the lanes and breaking the tarmac apart.",water_main_leak,89,images/burst_02.jpg
+R-2157,2026-09-04T12:06:31,12.975134,79.15488,Gross black water is pooling on the road because the manhole is overflowing again.,sewer_overflow,67,images/drain_03.jpg
+R-2158,2026-09-04T12:10:40,12.959582,79.140918,The streetlamp at the corner of 7th and Birch is buzzing loudly and strobing like a disco ball.,normal_road,10,images/noise_01.jpg
+R-2159,2026-09-04T12:11:49,12.954647,79.170139,omg the street is totally lifting up and cracking because a huge pipe broke underneath and its shooting water like crazy!,water_main_leak,88,images/burst_08.jpg
+R-2160,2026-09-04T12:37:58,12.954907,79.169928,Critical water main failure on 9th street; pressurized water is bubbling up aggressively through splitting pavement and flooding the entire intersection.,water_main_leak,87,images/burst_06.jpg
+R-2161,2026-09-04T12:43:55,12.95501,79.169867,Help! Underground water pipe busted on Sheridan Ave. Water is shooting six feet in the air right out of a crack in the street.,pipe_leak,85,images/burst_06.jpg
+R-2162,2026-09-04T12:46:34,12.995063,79.185202,Sewage backup flooding the crosswalk with dirty water and a terrible stench filling the air.,sewer_overflow,68,images/drain_03.jpg
+R-2163,2026-09-04T12:48:13,12.94481,79.14493,Filthy black liquid is gushing out of the manhole on 5th Ave and smelling up the whole block.,sewer_overflow,75,images/drain_02.jpg
+R-2164,2026-09-04T12:48:15,12.955059,79.169851,Urgent alert: Subterranean pipe rupture producing an intense geyser that is rapidly washing away the asphalt and flooding local driveways.,water_main_leak,80,images/burst_07.jpg
+R-2165,2026-09-04T12:52:40,12.955186,79.169798,"hey u gotta send help right now, a water main blew and its gushing so hard the whole road is turning into a raging river.",water_main_leak,84,images/burst_04.jpg
+R-2166,2026-09-04T12:55:41,12.955016,79.16985,"Severe infrastructure breakdown: Main water line shattered, unleashing a massive volume of water that is fracturing the road surface.",water_main_leak,78,images/burst_07.jpg
+R-2167,2026-09-04T13:07:37,12.954994,79.134789,Raw sewage overflow pooling by the curb. The stench of waste water is driving us crazy.,sewer_overflow,70,images/drain_06.jpg
+R-2168,2026-09-04T13:08:28,12.954939,79.17007,"Water is shooting straight up out of deep fissures in the pavement on 14th Avenue, creating an immediate and dangerous flash flood.",water_main_leak,91,images/burst_06.jpg
+R-2169,2026-09-04T13:13:35,12.949913,79.174941,A small puddle by the corner has stayed the exact same size for two days. No rain lately so it must be a cracked pipe underneath.,pipe_leak,45,images/trickle_01.jpg
+R-2170,2026-09-04T13:13:47,12.954835,79.170085,CRITICAL: Water main ruptured on Madison Street near the diner. Flooding is happening super fast and water is gushing out under high pressure.,pipe_leak,83,images/burst_03.jpg
+R-2171,2026-09-04T13:18:07,12.955048,79.169941,"dude a pipe just exploded by the bus stop and water is bubbling up through the cracks like a boiling spring, total chaos.",water_main_leak,86,images/burst_02.jpg
+R-2172,2026-09-04T13:31:56,12.955066,79.169878,Yo a water pipe just blew up under the road by the bus stop on 4th. Water is surging out of the ground like a crazy fountain.,pipe_leak,88,images/burst_03.jpg
+R-2173,2026-09-04T13:35:26,12.995161,79.185234,There's dark contaminated water spilling from the sewer cap onto the pedestrian crossing. Nasty smell!,sewer_overflow,72,images/drain_06.jpg
+R-2174,2026-09-04T13:36:51,12.944837,79.14493,Manhole is spewing foul smelling sludge into the street. Looks like a serious backup.,sewer_overflow,65,images/drain_02.jpg
+R-2175,2026-09-04T13:42:45,12.955175,79.169936,Emergency on Fletcher Ave: underground pipe failure is causing massive flooding. Water is blasting through the asphalt with intense force.,pipe_leak,91,images/burst_05.jpg
+R-2176,2026-09-04T13:48:48,12.950087,79.17494,Water is weeping through the pavement joints near my house. It forms a little puddle that stays there overnight and through the afternoon.,pipe_leak,56,images/trickle_03.jpg
+R-2177,2026-09-04T13:48:50,12.954923,79.170031,Immediate attention required: Catastrophic underground pipe break resulting in a high-velocity jet of water that is tearing up the roadway.,water_main_leak,89,images/burst_04.jpg
+R-2178,2026-09-04T13:49:27,12.945254,79.144917,Gross looking water is pooling near the drain cover outside the grocery store. The grates are choked with plastic bags and paper cups.,drain_blockage,73,images/drain_06.jpg
+R-2179,2026-09-04T14:01:50,12.945002,79.145189,Disgusting black water overflowing from the drainage system right outside our shop door.,sewer_overflow,76,images/drain_05.jpg
+R-2180,2026-09-04T14:07:44,12.944931,79.145089,The drain is blocked by mud and leaves from the recent storm. Water is backing up and won't recede.,drain_blockage,64,images/drain_03.jpg
+R-2181,2026-09-04T14:09:11,12.955234,79.170168,"A massive water main gave out near the library, causing water to gush in thick sheets and rapidly submerge parked cars.",water_main_leak,94,images/burst_08.jpg
+R-2182,2026-09-04T14:09:41,12.95498,79.135074,Sewage water is backing up onto the pavement near the subway station. Unbearable odor.,sewer_overflow,71,images/drain_02.jpg
+R-2183,2026-09-04T14:17:48,12.982401,79.150721,Discarded drywall and old paint cans dumped illegally beside the community garden fence.,normal_road,20,images/noise_05.jpg
+R-2184,2026-09-04T14:21:25,12.963118,79.177824,"Injured stray cat limping around the parking lot behind the grocery store, someone should check on it.",normal_road,22,images/noise_05.jpg
+R-2185,2026-09-04T14:23:04,12.950026,79.175003,The side of the road has a continuous wet patch that wont dry up. It has been trickling slowly for a day and a half with clear skies.,pipe_leak,55,images/trickle_06.jpg
+R-2186,2026-09-04T14:24:47,12.968205,79.13158,Street name sign is missing completely from the pole at the intersection of Washington and 2nd.,normal_road,10,images/noise_05.jpg
+R-2187,2026-09-04T14:30:53,12.940789,79.158807,"Sidewalk concrete is completely crumbled near the dental office, terrible for elderly folks walking by.",normal_road,22,images/noise_03.jpg
+R-2188,2026-09-04T14:43:58,12.945018,79.144886,Standing dirty water pooling around the storm drain on 8th Ave. The grates are totally plugged with street litter.,drain_blockage,68,images/drain_05.jpg
+R-2189,2026-09-04T14:46:15,12.955168,79.169928,"urgent water pipe bust on orchard rd, the blacktop is cracking in half and water is shooting way up into the air.",water_main_leak,87,images/burst_04.jpg
+R-2190,2026-09-04T14:48:37,12.955052,79.170221,High-priority incident: Severe water main rupture generating a torrential overflow that is aggressively eroding the asphalt structure.,water_main_leak,79,images/burst_05.jpg
+R-2191,2026-09-04T14:52:23,12.955193,79.169754,"Water is bubbling up violently through large cracks in the road near the corner store, indicating a major underground main failure.",water_main_leak,78,images/burst_07.jpg
+R-2192,2026-09-04T14:57:06,12.974805,79.154995,Blocked storm drain on Washington Street. Water is backing up into the parking spaces and creating a huge hazard.,drain_blockage,65,images/drain_04.jpg
+R-2193,2026-09-04T15:07:08,12.954967,79.170142,"Urgent report for water main explosion on Franklin St. Pressure is extremely high, sending water gushing across all four lanes.",pipe_leak,95,images/burst_08.jpg
+R-2194,2026-09-04T15:21:03,12.954972,79.170045,Major pipe burst under the pavement on Hamilton Road. Water is rushing out uncontrollably and washing away chunks of the street.,pipe_leak,89,images/burst_05.jpg
+R-2195,2026-09-04T15:22:27,12.971238,79.133119,Unexplained damp spot on the sidewalk by the dry cleaners that stays wet even on hot sunny days.,normal_road,19,images/noise_04.jpg
+R-2196,2026-09-04T15:37:21,12.955139,79.134858,Street manhole cover is displaced and foul black waste water is flooding the parking lot entrance.,sewer_overflow,68,images/drain_01.jpg
+R-2197,2026-09-04T15:38:28,12.995149,79.184777,Gross sewage is coming out of the ground near the alleyway. The smell is making neighbors sick.,sewer_overflow,58,images/drain_04.jpg
+R-2198,2026-09-04T15:40:33,12.954873,79.169877,"man the street just caved in where a heavy flow of water is gushing out from a broken main, its flooding everything super fast.",water_main_leak,92,images/burst_01.jpg
+R-2199,2026-09-04T15:44:51,12.955039,79.1699,Danger! Water main just blew out near the school on Church St. Water is shooting up through the cracks and flooding yards instantly.,pipe_leak,91,images/burst_05.jpg
+R-2200,2026-09-04T16:06:57,12.950052,79.175008,"Found a soft, soggy area on the park strip where water is slowly bubbling up. This has been going on since yesterday and there was no storm.",pipe_leak,55,images/trickle_06.jpg
+R-2201,2026-09-04T16:08:37,12.982945,79.171436,Cluster of three sharp potholes forming in the left lane approaching the roundabout on Grand Avenue.,normal_road,21,images/noise_06.jpg
+R-2202,2026-09-04T16:09:11,12.975065,79.154854,The drain grate is jammed with twigs and mud. Water is pooling right in the middle of the crosswalk.,drain_blockage,63,images/drain_01.jpg
+R-2203,2026-09-04T16:09:56,12.954923,79.169812,Critical emergency: Major water line breach creating a powerful fountain that is breaking up the pavement and flooding adjacent properties.,water_main_leak,86,images/burst_01.jpg
+R-2204,2026-09-04T16:27:35,12.944831,79.144944,Dark murky waste water is bubbling up from the storm drain on pine street. Please fix asap.,sewer_overflow,64,images/drain_03.jpg
+R-2205,2026-09-04T16:45:52,12.944738,79.163673,Lamp post access panel is hanging wide open with exposed wires dangling out near the elementary school.,normal_road,16,images/noise_01.jpg
+R-2206,2026-09-04T16:52:31,12.945103,79.14512,Storm drain is clogged with autumn leaves and trash. Water is backing up and forming a massive puddle near the curb.,drain_blockage,65,images/drain_05.jpg
+R-2207,2026-09-04T17:04:00,12.965573,79.13843,street flooded from storm drain backup right outside my driveway after last nights heavy rain.,waterlogging,40,images/waterlog_03.jpg
+R-2208,2026-09-04T17:07:28,12.961898,79.132118,"Road surface is still pretty damp following the morning rain shower, causing a bit of tire spray when cars drive past.",wet_road,37,images/wetroad_03.jpg
+R-2209,2026-09-04T17:07:41,12.994832,79.185169,Overflowing manhole producing a river of dirty sewage across the asphalt. Terrible stench.,sewer_overflow,65,images/drain_01.jpg
+R-2210,2026-09-04T17:09:05,12.943628,79.151823,Massive pools of stagnant rainwater sitting in the middle of Oak Street because the catch basin is totally clogged.,waterlogging,29,images/waterlog_05.jpg
+R-2211,2026-09-04T17:11:43,12.970035,79.157767,"Water is barely moving down the gutter, leaving huge standing puddles across the entire lane since this morning's downpour.",waterlogging,41,images/waterlog_02.jpg
+R-2212,2026-09-04T17:15:30,12.969719,79.158662,The recent heavy storm left our whole block underwater and the drainage system is just too slow to handle it.,waterlogging,38,images/waterlog_08.jpg
+R-2213,2026-09-04T17:17:40,12.954958,79.161601,"Just some lingering wet patches on the asphalt after that brief downpour earlier, nothing major to worry about.",wet_road,26,images/wetroad_01.jpg
+R-2214,2026-09-04T17:26:13,13.005145,79.164959,A mix of black water and solid waste is spilling out from the sewer grate into the street.,sewer_overflow,54,images/drain_06.jpg
+R-2215,2026-09-04T17:26:16,12.944929,79.144977,Dirty water is pooling all around the storm drain cover on Birch Street because the grates are completely blocked with debris.,drain_blockage,59,images/drain_05.jpg
+R-2216,2026-09-04T17:26:28,12.957808,79.136487,"The street is rather slick right now due to the light rain we just had, so just taking it slow around the corners.",wet_road,50,images/wetroad_02.jpg
+R-2217,2026-09-04T17:33:25,12.96429,79.146426,Stagnant rainwater has been pooling by the crosswalk for hours following the severe weather.,waterlogging,43,images/waterlog_05.jpg
+R-2218,2026-09-04T17:34:52,12.955654,79.142531,Street flooded from storm runoff and now there is dirty water reaching the sidewalk.,waterlogging,50,images/waterlog_02.jpg
+R-2219,2026-09-04T17:40:50,12.96377,79.143386,Extremely slow drainage on 5th Ave is causing deep standing puddles across every lane after the rain.,waterlogging,36,images/waterlog_07.jpg
+R-2220,2026-09-04T17:43:27,12.947274,79.143016,"After the storm passed, we are left with knee-deep water on Elm Street because the drain is blocked.",waterlogging,40,images/waterlog_07.jpg
+R-2221,2026-09-04T17:44:29,12.950049,79.175037,A thin layer of water is running down the edge of the street constantly. It looks like a slow underground leak that started sometime on the weekend.,pipe_leak,52,images/trickle_01.jpg
+R-2222,2026-09-04T17:55:39,12.970567,79.138047,Stagnant puddles everywhere on the road due to poor drainage during the heavy rainfall.,waterlogging,40,images/waterlog_07.jpg
+R-2223,2026-09-04T17:56:24,12.975032,79.154868,Strong odor of sewage and dirty waste water flooding the sidewalk near the community center.,sewer_overflow,63,images/drain_06.jpg
+R-2224,2026-09-04T18:00:58,12.965831,79.13,Passing vehicles are kicking up quite a bit of water from the rain puddles left on the tarmac.,wet_road,28,images/wetroad_02.jpg
+R-2225,2026-09-04T18:05:03,12.965675,79.131646,"Roads are a bit damp out here from the weather, making my tires make a sloshing sound as I drive.",wet_road,34,images/wetroad_01.jpg
+R-2226,2026-09-04T18:05:12,12.94507,79.14502,Manhole is bubbling over with dark brown effluent right in the middle of traffic.,sewer_overflow,55,images/drain_06.jpg
+R-2227,2026-09-04T18:06:10,12.944828,79.144963,Nasty sewage backup running down the gutter from a loose manhole cover. Smells awful.,sewer_overflow,77,images/drain_04.jpg
+R-2228,2026-09-04T18:06:50,12.946523,79.151516,Street flooded from storm surge and water is taking forever to recede into the storm sewer.,waterlogging,46,images/waterlog_03.jpg
+R-2229,2026-09-04T18:07:44,13.005193,79.147259,"Got some minor dampness across the whole lane following the recent rain, but traction seems fine overall.",wet_road,32,images/wetroad_04.jpg
+R-2230,2026-09-04T18:08:15,12.964749,79.13,Big lake forming on the asphalt because of yesterday's heavy rain and blocked grates.,waterlogging,41,images/waterlog_02.jpg
+R-2231,2026-09-04T18:08:39,13.001162,79.133186,Slow drainage is turning this neighborhood street into a swamp after every rain shower.,waterlogging,42,images/waterlog_07.jpg
+R-2232,2026-09-04T18:09:02,13.003351,79.13,"Cars speeding by are splashing standing water from the recent rain up onto the sidewalk, heads up for pedestrians.",wet_road,38,images/wetroad_04.jpg
+R-2233,2026-09-04T18:09:28,13.01,79.14098,Standing puddles across the entire lane making it impossible to walk without getting soaked from passing cars after the storm.,waterlogging,30,images/waterlog_05.jpg
+R-2234,2026-09-04T18:19:59,12.973793,79.136828,The heavy rain caused severe waterlogging and now there is stagnant rainwater attracting bugs.,waterlogging,36,images/waterlog_06.jpg
+R-2235,2026-09-04T18:20:44,12.975341,79.140769,Street flooded from storm water overflow near the park entrance.,waterlogging,25,images/waterlog_01.jpg
+R-2236,2026-09-04T18:22:59,12.996914,79.158385,"The pavement has a thin film of water on it because of the passing storm, pretty typical slick conditions.",wet_road,27,images/wetroad_04.jpg
+R-2237,2026-09-04T18:23:45,12.950929,79.151786,Just wanted to report that the street is damp and shiny after the rain stopped a few minutes ago.,wet_road,32,images/wetroad_02.jpg
+R-2238,2026-09-04T18:26:45,12.98724,79.147589,Drainage is way too slow here; water is still sitting across both lanes hours after the rain stopped.,waterlogging,39,images/waterlog_01.jpg
+R-2239,2026-09-04T18:28:00,12.999177,79.14873,Massive standing puddles across the lane after last night's fierce weather event.,waterlogging,28,images/waterlog_05.jpg
+R-2240,2026-09-04T18:29:24,12.973402,79.132251,Cardboard boxes and broken plastic crates piled high against the brick wall of the alleyway.,normal_road,20,images/noise_04.jpg
+R-2241,2026-09-04T18:31:11,12.976722,79.143885,Unbelievable flooding on Main Street due to torrential rain and completely plugged storm drains.,waterlogging,41,images/waterlog_03.jpg
+R-2242,2026-09-04T18:32:31,12.966921,79.148494,Noticed some slippery spots on the road surface where the rain hasn't fully evaporated yet.,wet_road,30,images/wetroad_02.jpg
+R-2243,2026-09-04T18:32:31,12.94496,79.144852,The catch basin grate is sealed shut with packed dirt and leaves. Water is backing up onto the asphalt and creating a traffic hazard.,drain_blockage,71,images/drain_01.jpg
+R-2244,2026-09-04T18:33:01,12.963745,79.150594,Stagnant rainwater covering the whole intersection because the municipal drains are overwhelmed from the storm.,waterlogging,27,images/waterlog_08.jpg
+R-2245,2026-09-04T18:33:28,12.993353,79.16404,Street flooded from storm downpours and the water level is rising instead of going down.,waterlogging,42,images/waterlog_03.jpg
+R-2246,2026-09-04T18:37:32,13.008627,79.13,The recent rain left the blacktop looking wet and glossy with some light splashing from traffic.,wet_road,28,images/wetroad_03.jpg
+R-2247,2026-09-04T18:38:36,13.01,79.13,Slow drainage means we have massive puddles spanning the whole road following this morning's rain.,waterlogging,41,images/waterlog_05.jpg
+R-2248,2026-09-04T18:38:39,12.970151,79.15181,Dirty stagnant rainwater is pooling across the driving lane because of the recent heavy rainstorms.,waterlogging,21,images/waterlog_07.jpg
+R-2249,2026-09-04T18:39:19,12.998222,79.140156,Street flooded from storm runoff and nothing is draining properly near the railway bridge.,waterlogging,49,images/waterlog_04.jpg
+R-2250,2026-09-04T18:39:50,12.970725,79.147633,"Damp road conditions following the wet weather today, driving is normal though a bit splashy.",wet_road,36,images/wetroad_01.jpg
+R-2251,2026-09-04T18:39:53,12.997541,79.13,Deep standing puddles across the lane forcing cars to swerve into oncoming traffic after the heavy rain.,waterlogging,25,images/waterlog_04.jpg
+R-2252,2026-09-04T18:41:03,12.974913,79.155026,The storm drain on 4th and Grand has a grate covered in soda cans and wrappers. Water is backing up into the bike lane.,drain_blockage,69,images/drain_02.jpg
+R-2253,2026-09-04T18:41:04,12.98395,79.161067,The heavy weather left behind terrible waterlogging with slow drainage backing up into yards.,waterlogging,49,images/waterlog_03.jpg
+R-2254,2026-09-04T18:41:11,12.97324,79.149537,Some damp patches remaining on the avenue after the morning rainstorm passed through the neighborhood.,wet_road,27,images/wetroad_01.jpg
+R-2255,2026-09-04T18:45:38,12.969782,79.136234,"Roads are slightly damp from the drizzle, causing a bit of spray behind the cars in front of me.",wet_road,30,images/wetroad_04.jpg
+R-2256,2026-09-04T18:46:53,12.995954,79.156797,"Pavement is wet from the recent rain, resulting in light water splashing as vehicles go past.",wet_road,28,images/wetroad_02.jpg
+R-2257,2026-09-04T18:48:03,13.005161,79.165116,Filthy grey waste water is pooling on the sidewalk from an overflowing street drain.,sewer_overflow,62,images/drain_03.jpg
+R-2258,2026-09-04T18:48:05,13.001251,79.13,Street flooded from storm water overflow and the entire block is practically impassable since the heavy rain started.,waterlogging,43,images/waterlog_06.jpg
+R-2259,2026-09-04T18:48:13,12.999975,79.13,Stagnant rainwater has been sitting in huge pools across the pavement all afternoon because of the recent severe weather.,waterlogging,40,images/waterlog_04.jpg
+R-2260,2026-09-04T18:50:36,12.973583,79.172115,Aggressive stray german shepherd barking at people walking their dogs down by the creek trail.,normal_road,16,images/noise_06.jpg
+R-2261,2026-09-04T18:52:50,12.95863,79.144507,Slow drainage on the south side of the square means water is lingering across every lane long after the rain stopped.,waterlogging,22,images/waterlog_08.jpg
+R-2262,2026-09-04T18:55:28,12.958748,79.138907,"Surface water from the storm is pooling slightly, leading to minor splashing from passing traffic.",wet_road,35,images/wetroad_03.jpg
+R-2263,2026-09-04T18:55:46,12.950954,79.137748,"The road feels a bit greasy and damp after the rain cleared up, just taking extra care.",wet_road,27,images/wetroad_03.jpg
+R-2264,2026-09-04T19:01:58,13.001591,79.13,Light rain left the road surface damp with some scattered puddles causing minor spray.,wet_road,43,images/wetroad_02.jpg
+R-2265,2026-09-04T19:03:26,12.996667,79.15338,Standing puddles across the lane are splashing pedestrians every time a truck drives by following the massive downpour.,waterlogging,27,images/waterlog_04.jpg
+R-2266,2026-09-04T19:03:45,12.957323,79.14222,Street flooded from storm runoff right near the bus stop after yesterday's relentless rainstorms.,waterlogging,37,images/waterlog_02.jpg
+R-2267,2026-09-04T19:07:01,12.972414,79.154686,The recent heavy storm left deep stagnant rainwater that refuses to drain into the blocked catch basins.,waterlogging,35,images/waterlog_02.jpg
+R-2268,2026-09-04T19:08:27,13.01,79.13,Terrible slow drainage is keeping water pooled across the alleyway following this morning's fierce rain.,waterlogging,22,images/waterlog_03.jpg
+R-2269,2026-09-04T19:11:30,12.955233,79.134909,There is a massive sewage leak coming from the manhole near the playground. Very gross.,sewer_overflow,76,images/drain_02.jpg
+R-2270,2026-09-04T19:14:30,13.01,79.141825,Street flooded from storm surge and the water level is creeping closer to our front steps due to the continuous rain.,waterlogging,40,images/waterlog_02.jpg
+R-2271,2026-09-04T19:14:46,13.01,79.140484,"Streets are still damp from the earlier weather, causing cars to throw up mist and spray.",wet_road,30,images/wetroad_03.jpg
+R-2272,2026-09-04T19:15:30,12.994892,79.184768,Blocked drain cover on Hickory St. Filthy water is pooling all over the sidewalk and smelling like garbage.,drain_blockage,59,images/drain_05.jpg
+R-2273,2026-09-04T19:16:56,12.950027,79.175053,The pavement stays dark and soaked in a circular spot right by the water meter cover. It has been like that for over a day without any rain.,pipe_leak,49,images/trickle_05.jpg
+R-2274,2026-09-04T19:18:57,12.980543,79.136807,Massive standing puddles across the lane are trapping cars because the drainage system is completely overwhelmed by the heavy weather.,waterlogging,34,images/waterlog_04.jpg
+R-2275,2026-09-04T19:19:21,12.963943,79.154118,"A bit of dampness on the highway following the rain shower, traffic is moving smoothly though.",wet_road,23,images/wetroad_03.jpg
+R-2276,2026-09-04T19:22:56,13.000691,79.138915,The asphalt is damp and reflective because of the recent rain we had this afternoon.,wet_road,32,images/wetroad_01.jpg
+R-2277,2026-09-04T19:23:05,12.96607,79.148727,"Just wet road conditions left over from the rain, vehicles are kicking up some water spray.",wet_road,28,images/wetroad_01.jpg
+R-2278,2026-09-04T19:23:15,13.009174,79.155863,Stagnant rainwater is breeding mosquitoes near the curb after the severe thunderstorm dumped inches of rain.,waterlogging,29,images/waterlog_06.jpg
+R-2279,2026-09-04T19:24:46,12.95239,79.149292,Street flooded from storm overflow and drivers are getting stuck because the water won't recede from the heavy rain.,waterlogging,49,images/waterlog_04.jpg
+R-2280,2026-09-04T19:26:36,12.950083,79.174967,There is a little pool of water that refuses to evaporate on the asphalt. It is fed by a very slow trickle coming from a crack in the road.,pipe_leak,50,images/trickle_05.jpg
+R-2281,2026-09-04T19:27:14,13.00475,79.164849,Black sludge is backing up onto the road surface and creating a hazardous mess.,sewer_overflow,64,images/drain_04.jpg
+R-2282,2026-09-04T19:28:04,12.965067,79.13447,Slow drainage is causing an enormous puddle to take up both lanes after today's unexpected cloudburst.,waterlogging,27,images/waterlog_01.jpg
+R-2283,2026-09-04T19:31:32,12.971398,79.150364,"Minor damp patches on the street surface due to the wet weather, completely safe to drive on.",wet_road,31,images/wetroad_04.jpg
+R-2284,2026-09-04T19:32:05,12.968825,79.160419,Standing puddles across the lane make cycling extremely hazardous following the recent heavy rainfall.,waterlogging,44,images/waterlog_07.jpg
+R-2285,2026-09-04T19:38:04,12.951787,79.13,"Street flooded from storm runoff, leaving muddy stagnant rainwater across the entire intersection after last night's gale.",waterlogging,38,images/waterlog_05.jpg
+R-2286,2026-09-04T19:39:26,12.955588,79.152455,"The road is slightly slick from the passing rain cloud, but nothing dangerous to report.",wet_road,25,images/wetroad_01.jpg
+R-2287,2026-09-04T19:39:55,12.965967,79.134822,"The heavy rain caused severe waterlogging, and stagnant rainwater is now spilling over the curbs.",waterlogging,39,images/waterlog_02.jpg
+R-2288,2026-09-04T19:42:10,12.949581,79.131595,Slow drainage by the marketplace has turned the street into a pond after the persistent rain.,waterlogging,45,images/waterlog_03.jpg
+R-2289,2026-09-04T19:44:32,12.968961,79.13244,Water splashing from cars driving through the damp patches left by the recent rain shower.,wet_road,35,images/wetroad_01.jpg
+R-2290,2026-09-04T19:45:18,13.01,79.13,"The pavement is holding onto a bit of moisture after the drizzle, causing tires to swish softly.",wet_road,34,images/wetroad_02.jpg
+R-2291,2026-09-04T19:45:21,12.96831,79.13897,"Just reporting some damp tarmac left behind by the weather front, cars are kicking up fine mist.",wet_road,36,images/wetroad_03.jpg
+R-2292,2026-09-04T19:46:36,12.957979,79.163123,Street flooded from storm downpours and the blocked drains aren't taking any of the heavy rainwater.,waterlogging,42,images/waterlog_01.jpg
+R-2293,2026-09-04T19:46:50,12.965592,79.134433,Standing puddles across the lane are hiding massive potholes after the severe weather passed through.,waterlogging,33,images/waterlog_06.jpg
+R-2294,2026-09-04T19:48:12,12.946249,79.144166,"The street is still drying out from the rain earlier, making it slightly slick in spots.",wet_road,37,images/wetroad_01.jpg
+R-2295,2026-09-04T19:48:18,12.963991,79.151657,Stagnant rainwater fills the low spots on our street because the municipal drainage failed during the heavy storm.,waterlogging,45,images/waterlog_04.jpg
+R-2296,2026-09-04T19:51:59,12.942699,79.144862,Street flooded from storm water accumulation and the slow drainage is making the commute miserable after the rain.,waterlogging,48,images/waterlog_06.jpg
+R-2297,2026-09-04T19:52:48,13.002212,79.13,Massive pools of stagnant rainwater have formed across the asphalt due to inadequate drainage during the heavy rain.,waterlogging,33,images/waterlog_05.jpg
+R-2298,2026-09-04T19:53:36,12.965809,79.148176,Street flooded from storm runoff and the water is refusing to flow down the drains after today's storms.,waterlogging,45,images/waterlog_01.jpg
+R-2299,2026-09-04T19:54:00,13.01,79.154601,Passing auto mobile traffic is throwing up some surface water from the rain we just had.,wet_road,41,images/wetroad_02.jpg
+R-2300,2026-09-04T19:54:14,12.973201,79.139913,Slow drainage has left large standing puddles across the lane right outside the apartment complex following the heavy rain.,waterlogging,41,images/waterlog_04.jpg
+R-2301,2026-09-04T19:55:00,12.997307,79.13,"Roads are somewhat damp from the recent wet weather, though traffic is moving just fine.",wet_road,34,images/wetroad_04.jpg
+R-2302,2026-09-04T19:57:54,12.976861,79.13,"A light sheen of water remains on the road following the rain, causing minor splashing from vehicles.",wet_road,34,images/wetroad_02.jpg
+R-2303,2026-09-04T19:59:28,13.01,79.13,Stagnant rainwater is covering the entire turning lane because the recent heavy rain overloaded the sewers.,waterlogging,21,images/waterlog_05.jpg
+R-2304,2026-09-04T19:59:59,12.955437,79.154421,"The blacktop is damp from the weather system that just rolled through, creating faint spray behind cars.",wet_road,22,images/wetroad_02.jpg
+R-2305,2026-09-04T20:06:59,13.01,79.156285,"Noticed some damp patches on the asphalt after the shower stopped, nothing to be concerned about.",wet_road,27,images/wetroad_01.jpg
+R-2306,2026-09-04T20:07:22,13.01,79.13,Street flooded from storm backups and the standing water is remaining stagnant long after the rain cleared.,waterlogging,25,images/waterlog_05.jpg
+R-2307,2026-09-04T20:08:26,12.990636,79.131351,Street flooded from storm water piling up near the grocery store after hours of heavy rain.,waterlogging,48,images/waterlog_08.jpg
+R-2308,2026-09-04T20:10:03,12.95507,79.13498,There is a clogged storm drain near the elementary school. Grates are plugged with dirt and water is creeping onto the playground path.,drain_blockage,50,images/drain_04.jpg
+R-2309,2026-09-04T20:12:23,13.01,79.13809,Stagnant rainwater is taking over the parking bays because the storm drainage is completely broken following the heavy weather.,waterlogging,31,images/waterlog_06.jpg
+R-2310,2026-09-04T20:17:33,13.01,79.139226,"The road surface has some residual dampness from today's rain, leading to a bit of tire splash.",wet_road,36,images/wetroad_04.jpg
+R-2311,2026-09-04T20:20:54,13.01,79.146358,Slow drainage on the north avenue means water remains pooled across the tarmac since this morning's rainstorms.,waterlogging,33,images/waterlog_05.jpg
+R-2312,2026-09-04T20:25:38,13.004865,79.13,Standing puddles across the lane are deep enough to stall smaller cars after the massive downpour.,waterlogging,44,images/waterlog_02.jpg
+R-2313,2026-09-04T20:26:10,12.945127,79.144738,"The sewer is overflowing again on cedar street, sending smelly dirty water across the pavement.",sewer_overflow,71,images/drain_06.jpg
+R-2314,2026-09-04T20:30:57,12.978679,79.164674,Disabled parking sign is bent completely in half after some idiot backed their truck into it.,normal_road,16,images/noise_02.jpg
+R-2315,2026-09-04T20:32:35,12.997976,79.152149,Street flooded from storm runoff and now murky water is creeping onto residential driveways following the heavy rain.,waterlogging,49,images/waterlog_04.jpg
+R-2316,2026-09-04T20:35:57,13.00343,79.13851,"The recent heavy storm caused terrible slow drainage, leaving a huge lake of water sitting across the intersection.",waterlogging,40,images/waterlog_06.jpg
+R-2317,2026-09-04T20:45:28,13.01,79.130549,Stagnant rainwater has been sitting undisturbed in deep pools along the curb ever since the heavy rain stopped.,waterlogging,37,images/waterlog_06.jpg
+R-2318,2026-09-04T20:55:50,12.985511,79.1493,Cars driving by are spraying up light puddles left over from the afternoon rain shower.,wet_road,33,images/wetroad_01.jpg
+R-2319,2026-09-04T20:58:43,12.993087,79.156262,Street flooded from storm backup and the water level refuses to drop despite the heavy rain easing up.,waterlogging,36,images/waterlog_04.jpg
+R-2320,2026-09-04T21:00:34,12.996648,79.156882,Heaved pavement blocks on the pedestrian path by the library making people trip left and right.,normal_road,13,images/noise_06.jpg
+R-2321,2026-09-04T21:11:04,12.990664,79.13,Slow drainage is causing severe waterlogging with huge standing puddles blocking the entire lane after today's heavy rain.,waterlogging,43,images/waterlog_07.jpg
+R-2322,2026-09-04T21:11:51,12.997048,79.140967,"Streets are damp and slick right now because of the rain, so everyone is driving carefully.",wet_road,33,images/wetroad_03.jpg
+R-2323,2026-09-04T21:13:15,13.01,79.13,"Just a bit of moisture on the ground due to the recent rain, causing cars to throw up light spray.",wet_road,25,images/wetroad_04.jpg
+R-2324,2026-09-04T21:17:27,13.002717,79.151294,Standing puddles across the lane are causing traffic to crawl at a snail's pace following the severe storm.,waterlogging,40,images/waterlog_06.jpg
+R-2325,2026-09-04T21:38:22,12.988658,79.143397,Street flooded from storm surges near the bridge and the heavy rain left the drains totally jammed.,waterlogging,42,images/waterlog_07.jpg
+R-2326,2026-09-04T21:40:37,12.94999,79.174993,Ground is super mushy right next to the sidewalk slab. Water has been slowly leaking out of the ground for nearly two days straight.,pipe_leak,50,images/trickle_01.jpg
+R-2327,2026-09-04T21:42:45,12.955028,79.134951,Standing water is pooling right over the drain cover because the slots are jammed with roofing shingle granules.,drain_blockage,65,images/drain_02.jpg
+R-2328,2026-09-04T21:52:45,13.01,79.139608,"The lane is slightly wet from the weather, resulting in gentle splashing as cars pass by.",wet_road,27,images/wetroad_01.jpg
+R-2329,2026-09-04T21:58:30,13.01,79.160753,Stagnant rainwater is filling every pothole on the block because of inadequate drainage during yesterday's heavy rain.,waterlogging,26,images/waterlog_08.jpg
+R-2330,2026-09-04T21:59:01,12.999262,79.143088,"Dark greasy stain covering half the lane on Orchard Road near the auto shop, very slick.",normal_road,20,images/noise_02.jpg
+R-2331,2026-09-04T22:06:24,13.002509,79.144289,Two deep potholes right on the bend of Sunset Boulevard causing drivers to swerve into oncoming traffic.,normal_road,15,images/noise_05.jpg
+R-2332,2026-09-04T22:09:54,12.995983,79.134879,Entire row of pedestrian lights is dead along the dark walking path behind the community pool.,normal_road,15,images/noise_02.jpg
+R-2333,2026-09-04T22:15:08,12.97173,79.186697,Heap of rotting yard waste and tree branches blocking half the pedestrian walkway on 12th street.,normal_road,17,images/noise_03.jpg
+R-2334,2026-09-04T22:15:14,12.949883,79.174973,A tiny stream of clean water is crossing the walkway continuously. It started yesterday and has been flowing at the same slow rate ever since.,pipe_leak,62,images/trickle_06.jpg
+R-2335,2026-09-04T22:19:34,12.974554,79.142833,Scared little dog running loose in traffic near the highway offramp on Lincoln street.,normal_road,21,images/noise_04.jpg
+R-2336,2026-09-04T23:18:16,12.944975,79.145089,The storm drain grate by the apartment complex is choked with plastic wrappers. Water won't drain and is forming a big pool.,drain_blockage,63,images/drain_02.jpg
+R-2337,2026-09-04T23:24:54,12.949936,79.175064,The dirt near the fire hydrant is completely saturated and muddy. It has been holding standing water for over twenty four hours with no rain.,pipe_leak,52,images/trickle_04.jpg
+R-2338,2026-09-04T23:36:49,13.004814,79.165176,Drain is plugged tight with wet grass and twigs. Nasty standing water is backing up into the driveway.,drain_blockage,58,images/drain_05.jpg
+R-2339,2026-09-05T00:06:36,12.995961,79.134682,"No parking sign has been completely spray painted over by vandals, totally unreadable now.",normal_road,15,images/noise_03.jpg
+R-2340,2026-09-05T00:08:19,12.949954,79.17497,A slow underground leak is making the street surface slippery. The damp patch has been visible since Sunday and hasn't dried at all.,pipe_leak,50,images/trickle_04.jpg
+R-2341,2026-09-05T00:15:32,12.94999,79.175041,Water is slowly seeping out from under the curb and pooling in the gutter. It has been doing this since yesterday morning despite the dry weather.,pipe_leak,56,images/trickle_03.jpg
+R-2342,2026-09-05T00:16:08,12.955494,79.137235,"Large chunks of asphalt missing around the manhole cover on 5th avenue, rattling loudly when cars drive over.",normal_road,15,images/noise_05.jpg
+R-2343,2026-09-05T00:21:49,12.990034,79.160028,The asphalt patch near the intersection is always wet lately. A tiny trickle has been coming up from underneath for the past two days.,pipe_leak,57,images/trickle_02.jpg
+R-2344,2026-09-05T00:36:26,12.994657,79.171996,Weird soapy moisture slick stretching across the asphalt near the car wash exit on Miller Road.,normal_road,12,images/noise_04.jpg
+R-2345,2026-09-05T00:46:17,12.989998,79.159989,There is a persistent little puddle that stays filled right by my driveway. It has been leaking slowly out of the ground since Saturday night.,pipe_leak,62,images/trickle_05.jpg
+R-2346,2026-09-05T00:54:19,12.995334,79.184927,Foul smelling waste water is flooding the street from an unsealed manhole. Awful stench.,sewer_overflow,69,images/drain_06.jpg
+R-2347,2026-09-05T01:13:11,12.955153,79.135044,Dark contaminated water is gushing out of the sewer manhole and spreading down the block.,sewer_overflow,64,images/drain_05.jpg
+R-2348,2026-09-05T01:15:41,12.949972,79.175023,A tiny stream of water has been creeping across the sidewalk since yesterday afternoon. There has been no rain at all so it has to be a slow pipe leak underneath.,pipe_leak,48,images/trickle_05.jpg
+R-2349,2026-09-05T01:22:10,12.964357,79.130519,"Pothole patch job from last month has already caved back in, deeper than it was before.",normal_road,14,images/noise_05.jpg
+R-2350,2026-09-05T01:26:33,12.949893,79.174982,The pavement in front of my house has a damp circle that never goes away. It has been weeping water slowly for almost forty eight hours now.,pipe_leak,55,images/trickle_02.jpg
+R-2351,2026-09-05T01:35:50,12.97501,79.155149,Sewage is spilling over the rim of the manhole cover and pooling in the bike lane.,sewer_overflow,56,images/drain_03.jpg
+R-2352,2026-09-05T01:37:31,12.945136,79.144894,Blocked storm drain on chestnut street needs attention. Water is backing up over the curb and flooding the grass.,drain_blockage,76,images/drain_02.jpg
+R-2353,2026-09-05T01:39:19,12.994994,79.185129,The catch basin is totally covered by a pile of discarded cardboard. Dirty water is pooling near the pedestrian ramp.,drain_blockage,54,images/drain_05.jpg
+R-2354,2026-09-05T01:40:46,12.949946,79.175078,Ground near the telephone pole is squishy and soaked. A slow trickle has been pooling there since Saturday with no storms in the forecast.,pipe_leak,47,images/trickle_04.jpg
+R-2355,2026-09-05T01:53:00,12.949961,79.175141,Water keeps bubbling up in microscopic amounts through a crack in the street. It has formed a small persistent puddle that refuses to dry up.,pipe_leak,53,images/trickle_04.jpg
+R-2356,2026-09-05T02:16:34,12.989978,79.159999,The grassy median on 4th street is completely waterlogged. It has been oozing water steadily since Sunday morning even though it is bone dry outside.,pipe_leak,62,images/trickle_04.jpg
+R-2357,2026-09-05T02:19:54,12.954993,79.134886,Disgusting brown waste water backing up onto the sidewalk. The odor is extremely potent.,sewer_overflow,72,images/drain_06.jpg
+R-2358,2026-09-05T02:23:13,12.992909,79.170766,Shattered beer bottles strewn across the sidewalk right outside the community center playground.,normal_road,10,images/noise_03.jpg
+R-2359,2026-09-05T02:33:35,12.955142,79.135141,Drain grate is blocked with mud and old leaves. Water is backing up in the street and splashing cars.,drain_blockage,60,images/drain_03.jpg
+R-2360,2026-09-05T02:46:13,12.99514,79.184924,Manhole is overflowing with foul liquid near the gas station. Needs immediate attention.,sewer_overflow,61,images/drain_01.jpg
+R-2361,2026-09-05T02:50:34,13.003311,79.146443,Friendly but lost looking beagle wandering around the strip mall parking lot without tags.,normal_road,18,images/noise_03.jpg
+R-2362,2026-09-05T02:56:48,12.947203,79.185299,Children at play sign is twisted backwards so drivers coming from the north cant see it at all.,normal_road,23,images/noise_01.jpg
+R-2363,2026-09-05T02:58:09,12.999165,79.174862,"Subterranean pipe fracture on Broadway, heavy flows of water are rushing across the tarmac and destroying the street integrity.",water_main_leak,77,images/burst_01.jpg
+R-2364,2026-09-05T02:58:39,13.000567,79.181213,Jagged crater in the asphalt right outside the library drop box needs to be filled before someone twists an ankle.,normal_road,12,images/noise_02.jpg
+R-2365,2026-09-05T02:58:56,12.990054,79.160081,A very faint stream is running down the curb line consistently. It started sometime yesterday and the weather has been completely clear.,pipe_leak,57,images/trickle_06.jpg
+R-2366,2026-09-05T03:08:04,12.974593,79.176411,The bulb on pole number 14 has been dark for a week making the walkway super sketchy at night.,normal_road,17,images/noise_03.jpg
+R-2367,2026-09-05T03:11:17,12.995094,79.185035,Dirty black water is coming up through the street drain and filling the air with a terrible stench.,sewer_overflow,66,images/drain_03.jpg
+R-2368,2026-09-05T03:11:30,12.998971,79.175071,"hey hurry up and get out here, a main broke and its gushing so much water the whole block is starting to float away.",water_main_leak,82,images/burst_08.jpg
+R-2369,2026-09-05T03:12:49,12.999002,79.174965,Severe underground pipe burst on Belmont Ave. Water is gushing fiercely from a split in the road and pooling up deep.,pipe_leak,76,images/burst_07.jpg
+R-2370,2026-09-05T03:13:35,12.999137,79.174911,Emergency alert: Catastrophic underground pipe failure sending pressurized water skyward while the concrete roadway buckles and breaks.,water_main_leak,79,images/burst_07.jpg
+R-2371,2026-09-05T03:14:40,12.999323,79.175012,"A huge water main has ruptured beneath the intersection on 3rd street, sending torrential streams across all lanes and cracking the pavement.",water_main_leak,83,images/burst_08.jpg
+R-2372,2026-09-05T03:15:49,12.998988,79.174943,omg a pipe totally blew up right in front of my house and water is shooting out like a geyser while the street cracks open.,water_main_leak,80,images/burst_03.jpg
+R-2373,2026-09-05T03:16:52,12.998883,79.175109,Immediate dispatch needed: Severe water main break producing an unchecked flow that is actively tearing up the asphalt roadway.,water_main_leak,77,images/burst_08.jpg
+R-2374,2026-09-05T03:27:34,13.000291,79.179507,Someone dumped an entire set of kitchen cabinets right on the curb next to the mailboxes on 9th street.,normal_road,23,images/noise_02.jpg
+R-2375,2026-09-05T03:27:46,12.998932,79.174825,"Water is gushing out of a massive split in the road surface on 7th street, forming a deep pool that is trapping morning drivers.",water_main_leak,82,images/burst_07.jpg
+R-2376,2026-09-05T03:29:55,12.999034,79.175049,"yo there is a crazy leak by the park, water is bubbling up super fast and the pavement is totally cracking apart.",water_main_leak,78,images/burst_04.jpg
+R-2377,2026-09-05T03:30:05,12.999016,79.175099,Critical water main breach resulting in a heavy gushing flow that is rapidly submerging the road and fracturing the infrastructure.,water_main_leak,76,images/burst_03.jpg
+R-2378,2026-09-05T03:31:14,12.999077,79.175042,Severe underground pipe break unleashing a massive water fountain that is tearing up the tarmac and flooding the neighborhood.,water_main_leak,80,images/burst_02.jpg
+R-2379,2026-09-05T03:36:57,12.949943,79.174984,The asphalt stays dark and glistening right over the utility line. This slow leak has been active for over a day without any precipitation.,pipe_leak,59,images/trickle_05.jpg
+R-2380,2026-09-05T03:39:22,12.998969,79.175077,"URGENT EMERGENCY: Water line busted open on 19th street. Water is blasting out of the asphalt with massive pressure, cars can't pass.",pipe_leak,78,images/burst_08.jpg
+R-2381,2026-09-05T03:42:20,13.006025,79.146752,Large orange tabby cat keeps darting out into traffic near the commercial strip on Broadway.,normal_road,17,images/noise_01.jpg
+R-2382,2026-09-05T03:55:06,12.99912,79.174929,"Massive water main blew out near the stadium, shooting a powerful jet of water fifty feet into the air and shattering the asphalt.",water_main_leak,75,images/burst_01.jpg
+R-2383,2026-09-05T04:00:35,12.998957,79.174837,Pipe broke beneath the road surface on Jefferson Boulevard. Water is gushing out rapidly and threatening nearby basements.,pipe_leak,77,images/burst_01.jpg
+R-2384,2026-09-05T04:11:43,12.998986,79.174783,bro an underground pipe just snapped right by my drive way and water is bubbling up so hard the whole street is lifting.,water_main_leak,79,images/burst_04.jpg
+R-2385,2026-09-05T04:18:42,12.989957,79.160016,A little puddle by the pedestrian crossing is not evaporating. It has been fed by a constant underground trickle for the past two days.,pipe_leak,55,images/trickle_04.jpg
+R-2386,2026-09-05T04:20:00,12.965002,79.150033,Dirt around the manhole cover is turned into thick mud. Water has been slowly seeping up through the soil since yesterday evening.,pipe_leak,61,images/trickle_02.jpg
+R-2387,2026-09-05T04:21:44,12.998953,79.175024,Help fast! Water main just popped on Abbott St. Water is shooting right out of the pavement and flooding everything in sight.,pipe_leak,76,images/burst_04.jpg
+R-2388,2026-09-05T04:27:42,12.975044,79.154884,Raw sewage leak is flooding the corner with foul smelling waste water and debris.,sewer_overflow,58,images/drain_01.jpg
+R-2389,2026-09-05T04:32:52,12.98697,79.189138,Street sign for Harrison Avenue is hanging sideways by just one bolt and looks like it's about to fall down.,normal_road,6,images/noise_02.jpg
+R-2390,2026-09-05T04:33:55,12.998925,79.175028,Critical water main failure on Meadow Lane. High pressure water is gushing out of the ground like a broken fire hydrant.,pipe_leak,78,images/burst_04.jpg
+R-2391,2026-09-05T04:34:53,12.99874,79.174846,"Critical infrastructure failure: A major water line has ruptured, sending a violent torrent across the lanes and destroying the road.",water_main_leak,80,images/burst_06.jpg
+R-2392,2026-09-05T04:41:09,12.989675,79.145545,Tree roots lifted the concrete panels on the west side of the square so badly that wheelchairs cant get through.,normal_road,12,images/noise_03.jpg
+R-2393,2026-09-05T04:42:58,12.999243,79.175223,"Water is gushing out of giant cracks in the pavement on 5th Avenue, flooding the intersection and creating a massive hazard.",water_main_leak,77,images/burst_07.jpg
+R-2394,2026-09-05T04:45:24,12.999177,79.175147,Urgent dispatch needed for a busted water main on Broadway. Water is rushing out with tremendous force and flooding the intersection.,pipe_leak,76,images/burst_04.jpg
+R-2395,2026-09-05T04:50:09,12.95507,79.134832,Stagnant water is pooling around the storm drain cover outside the library. The grates are completely clogged with pine needles.,drain_blockage,67,images/drain_05.jpg
+R-2396,2026-09-05T04:54:06,12.99889,79.175058,hey sumone needs to call the city asap because a big pipe broke and water is shooting right up out of the blacktop.,water_main_leak,79,images/burst_04.jpg
+R-2397,2026-09-05T04:58:47,12.949569,79.169286,Strange dark damp puddle in the middle of the bus lane that never dries up no matter how sunny it is.,normal_road,11,images/noise_06.jpg
+R-2398,2026-09-05T04:59:17,12.998886,79.1751,Massive underground water pipe blew apart on 6th Ave. Water is shooting through road cracks and causing a flash flood.,pipe_leak,84,images/burst_03.jpg
+R-2399,2026-09-05T05:04:46,12.949935,79.175066,There is a minor continuous leak trickling into the street gutter. It has been running at the exact same slow pace since Saturday night.,pipe_leak,61,images/trickle_02.jpg
+R-2400,2026-09-05T05:05:47,12.948081,79.139977,Emergency alert: water pipe burst under the street on Cambridge Road. Gushing water is pooling rapidly and blocking traffic.,pipe_leak,75,images/burst_04.jpg
+R-2401,2026-09-05T05:06:22,12.964948,79.150064,The pavement joint is leaking a tiny bit of clear water. It forms a small standing pool that stays there all day and night.,pipe_leak,51,images/trickle_03.jpg
+R-2402,2026-09-05T05:07:02,12.947839,79.140071,"Urgent emergency report: Severe subterranean pipe break causing a heavy, uncontrolled flow that is rapidly eroding the roadway.",water_main_leak,78,images/burst_02.jpg
+R-2403,2026-09-05T05:07:05,12.94812,79.140047,Yo there is a huge water main break on 11th street. Water is blasting out of the asphalt with crazy pressure and flooding curbs.,pipe_leak,78,images/burst_04.jpg
+R-2404,2026-09-05T05:07:29,12.947942,79.139962,Urgent situation on Harrison Ave where an underground pipe just exploded. Water is gushing out in heavy torrents across the road.,pipe_leak,77,images/burst_02.jpg
+R-2405,2026-09-05T05:08:55,12.989987,79.160034,A soft soggy patch has formed right beside our walkway. Water has been slowly weeping from the ground for more than a day.,pipe_leak,52,images/trickle_01.jpg
+R-2406,2026-09-05T05:13:18,12.999026,79.174952,"A huge water main collapsed underneath the industrial park, sending torrential streams of water across the tarmac and breaking it apart.",water_main_leak,77,images/burst_05.jpg
+R-2407,2026-09-05T05:13:29,12.944833,79.145248,The storm drain on 10th is jammed with litter. Water is backing up and making it impossible to cross the street without getting soaked.,drain_blockage,54,images/drain_03.jpg
+R-2408,2026-09-05T05:15:32,12.965012,79.149962,The shoulder of the road is damp and slick from a slow underground leak. It has been damp continuously since Sunday afternoon with zero rain.,pipe_leak,51,images/trickle_03.jpg
+R-2409,2026-09-05T05:16:36,12.998918,79.174812,Severe pipe rupture on Miller St near the park. Water is shooting up straight from the pavement and flooding the walkways.,pipe_leak,76,images/burst_03.jpg
+R-2410,2026-09-05T05:21:58,12.949983,79.175032,A thin sheet of water is sliding down the street edge. It looks like a slow pipe leak that has been going on for over twenty four hours.,pipe_leak,53,images/trickle_03.jpg
+R-2411,2026-09-05T05:23:58,12.944947,79.145062,"That sewer cap on 8th is totally overwhelmed, dark filthy water is rushing out onto the tarmac.",sewer_overflow,64,images/drain_04.jpg
+R-2412,2026-09-05T05:24:37,12.964874,79.150038,The ground near the corner store is mushy and water is pooling. It has been like this since yesterday with no rain involved.,pipe_leak,57,images/trickle_06.jpg
+R-2413,2026-09-05T05:24:41,12.998843,79.17506,omg the street is literally turning into a swimming pool cuz a water pipe broke and water is gushing out everywhere super fast.,water_main_leak,90,images/burst_04.jpg
+R-2414,2026-09-05T05:27:38,12.999191,79.175033,High priority incident: Subterranean main fracture producing a high velocity geyser that is aggressively breaking up the pavement.,water_main_leak,84,images/burst_02.jpg
+R-2415,2026-09-05T05:28:22,12.947888,79.140093,CRITICAL: Water main just gave way on 7th Ave. High pressure water is gushing out of the ground and creating a massive flood.,pipe_leak,80,images/burst_07.jpg
+R-2416,2026-09-05T05:34:12,12.999154,79.174875,"Water is bubbling up aggressively through splitting concrete on Pine Street, indicating a catastrophic underground pipe failure.",water_main_leak,85,images/burst_01.jpg
+R-2417,2026-09-05T05:35:24,12.947985,79.140057,Emergency at the corner of 2nd and State: underground water line busted. Water is blasting out of the asphalt like an absolute geyser.,pipe_leak,76,images/burst_06.jpg
+R-2418,2026-09-05T05:37:43,12.947759,79.139881,dude a water main totally busted near the corner and water is shooting up like crazy while the road cracks wide open.,water_main_leak,83,images/burst_02.jpg
+R-2419,2026-09-05T05:42:39,12.948039,79.139826,"Urgent help needed on Wilson Road. A water pipe exploded underneath, and water is rushing out rapidly, flooding driveways.",pipe_leak,81,images/burst_02.jpg
+R-2420,2026-09-05T05:43:06,12.990069,79.16003,A tiny constant trickle is coming up from underneath the asphalt. The puddle has been sitting there for two full days without drying.,pipe_leak,55,images/trickle_03.jpg
+R-2421,2026-09-05T05:47:16,12.948066,79.140056,Immediate dispatch required: Massive water line rupture unleashing an overwhelming volume of water that is tearing the road apart.,water_main_leak,78,images/burst_05.jpg
+R-2422,2026-09-05T05:49:31,12.999054,79.175056,Major water main rupture on Howard St. Water is gushing out with intense pressure through a massive crack in the street.,pipe_leak,86,images/burst_08.jpg
+R-2423,2026-09-05T05:52:09,12.948024,79.140103,"A major water main has split open near the station, causing heavy sheets of water to rush across the lanes and flood the block.",water_main_leak,76,images/burst_03.jpg
+R-2424,2026-09-05T05:56:11,12.949975,79.175103,The grass strip beside the driveway is soaked through. Water has been slowly bubbling up from the dirt since Saturday morning.,pipe_leak,41,images/trickle_03.jpg
+R-2425,2026-09-05T05:58:41,12.999222,79.175028,Emergency! A huge water pipe ruptured beneath the pavement on 22nd Street. Water is shooting up like a fountain and flooding the block instantly.,pipe_leak,89,images/burst_03.jpg
+R-2426,2026-09-05T06:00:00,12.96504,79.149966,A minor leak is keeping a section of the road permanently wet. It has been trickling slowly for a day and a half with sunny skies.,pipe_leak,62,images/trickle_05.jpg
+R-2427,2026-09-05T06:00:34,12.998999,79.175148,"URGENT: Water main blew right open on 15th Ave. The pressure is insane, water is blasting through the asphalt and cars are stalling out in the flood.",pipe_leak,93,images/burst_05.jpg
+R-2428,2026-09-05T06:01:51,12.98999,79.159962,Water is seeping out from under the concrete slab near the curb. It has formed a small steady puddle that won't evaporate.,pipe_leak,63,images/trickle_05.jpg
+R-2429,2026-09-05T06:08:23,12.999067,79.174994,"yo hurry up and send help, a pipe blew out under the road and its gushing so much water the whole intersection is flooded.",water_main_leak,86,images/burst_06.jpg
+R-2430,2026-09-05T06:09:00,12.940019,79.131393,Series of small potholes bunched together right at the entrance of the shopping center parking lot.,normal_road,17,images/noise_02.jpg
+R-2431,2026-09-05T06:09:13,12.998925,79.17494,Critical emergency: Severe underground pipe explosion generating an intense water fountain that is rapidly fracturing the pavement.,water_main_leak,93,images/burst_08.jpg
+R-2432,2026-09-05T06:19:32,12.948258,79.140055,"Water is shooting straight out of deep fissures in the street surface on Oak Road, washing away the asphalt in thick streams.",water_main_leak,84,images/burst_01.jpg
+R-2433,2026-09-05T06:24:19,12.948056,79.139963,man a huge water line broke right by the school and water is bubbling up through the cracks like a boiling spring.,water_main_leak,86,images/burst_06.jpg
+R-2434,2026-09-05T06:26:01,12.94788,79.140058,Urgent alert: Major water main breach creating a torrential overflow that is aggressively tearing up the asphalt roadway.,water_main_leak,76,images/burst_07.jpg
+R-2435,2026-09-05T06:27:38,13.005093,79.164915,"Yall need to come look at this manhole on chestnut, black stinky water is pooling everywhere.",sewer_overflow,75,images/drain_01.jpg
+R-2436,2026-09-05T06:27:44,12.948029,79.140122,"Subterranean pipe fracture on 11th street, heavy flows of water are rushing across the tarmac and destroying the road integrity.",water_main_leak,81,images/burst_06.jpg
+R-2437,2026-09-05T06:29:38,12.990095,79.159938,The dirt patch around the water valve box is completely saturated. It has been holding standing water since Sunday without any rain.,pipe_leak,47,images/trickle_02.jpg
+R-2438,2026-09-05T06:33:26,12.947995,79.140058,"hey u gotta get out here fast, a main busted and its shooting water like a geyser while the pavement cracks in half.",water_main_leak,76,images/burst_02.jpg
+R-2439,2026-09-05T06:37:49,12.948148,79.136633,"Exposed base of a broken street lamp sticking out of the dirt strip on Mercer street, major safety hazard.",normal_road,21,images/noise_03.jpg
+R-2440,2026-09-05T06:41:15,12.947927,79.139873,Massive underground water line break on Wayne Street. Water is gushing out with fierce pressure and washing away chunks of the road.,pipe_leak,80,images/burst_01.jpg
+R-2441,2026-09-05T06:41:45,12.964929,79.149997,A slow underground leak is feeding a tiny puddle on the blacktop. It has been active continuously for over a day now.,pipe_leak,59,images/trickle_02.jpg
+R-2442,2026-09-05T06:44:25,12.994951,79.184935,Horrible stench of sewage hanging over the neighborhood because the manhole is spitting out dirty waste water.,sewer_overflow,58,images/drain_06.jpg
+R-2443,2026-09-05T06:45:01,12.947965,79.140051,"Help, a pipe just exploded under the blacktop at 5th and Elm. Water is shooting six feet in the air and the intersection is turning into a pond.",pipe_leak,82,images/burst_02.jpg
+R-2444,2026-09-05T06:51:39,12.948021,79.140081,Emergency dispatch needed: Catastrophic underground pipe break resulting in a high-velocity flow that is tearing up the tarmac.,water_main_leak,77,images/burst_05.jpg
+R-2445,2026-09-05T06:52:13,13.004996,79.164931,Brown contaminated water is backing up right onto the sidewalk outside the cafe. Smells like absolute garbage.,sewer_overflow,80,images/drain_02.jpg
+R-2446,2026-09-05T06:54:56,12.999019,79.175094,CRITICAL EMERGENCY: Water main failed on Grant Street near the plaza. Gushing water is flooding nearby basements and pooling rapidly.,pipe_leak,88,images/burst_02.jpg
+R-2447,2026-09-05T06:57:06,12.998866,79.175023,"Yo someone call public works, a water pipe blew underground on 18th. Water is surging out of a massive crack in the street with huge force.",pipe_leak,81,images/burst_04.jpg
+R-2448,2026-09-05T06:59:09,12.998927,79.175065,"Severe water main burst on Marshall Boulevard. High pressure water is blasting out of the road surface, creating an immediate flood hazard.",pipe_leak,89,images/burst_01.jpg
+R-2449,2026-09-05T07:01:36,12.949902,79.175006,The side street pavement is dark and wet in a specific spot. A slow trickle has been oozing up from a crack since yesterday.,pipe_leak,58,images/trickle_05.jpg
+R-2450,2026-09-05T07:04:52,12.948194,79.140036,Urgent alert: underground pipe broke near the library on College St. Water is gushing uncontrollably and spilling across all lanes.,pipe_leak,76,images/burst_06.jpg
+R-2451,2026-09-05T07:06:13,12.950002,79.175055,Water has been gently weeping onto the pathway for two days straight. There has been no rain so it must be a broken pipe below.,pipe_leak,46,images/trickle_04.jpg
+R-2452,2026-09-05T07:10:29,12.998753,79.174985,"A massive water main gave out near the mall, causing water to gush in thick waves and rapidly submerge parked vehicles.",water_main_leak,79,images/burst_02.jpg
+R-2453,2026-09-05T07:10:42,12.999287,79.17498,omg the blacktop just caved in because a heavy flow of water is gushing out from a broken pipe right underneath.,water_main_leak,88,images/burst_03.jpg
+R-2454,2026-09-05T07:13:02,12.99515,79.185168,Street drain is completely clogged and raw sewage is spilling out into traffic lanes. Major hazard.,sewer_overflow,67,images/drain_03.jpg
+R-2455,2026-09-05T07:14:34,12.999154,79.174949,High-priority incident: Severe water main rupture generating a torrential overflow that is actively eroding the road structure.,water_main_leak,83,images/burst_02.jpg
+R-2456,2026-09-05T07:14:52,12.944877,79.145048,An overflowing manhole is sending a stream of foul wastewater down the block. Can smell it from indoors.,sewer_overflow,57,images/drain_03.jpg
+R-2457,2026-09-05T07:17:04,12.998831,79.175019,"Water is bubbling up violently through large cracks in the road near the plaza, signaling a major underground pipe failure.",water_main_leak,82,images/burst_04.jpg
+R-2458,2026-09-05T07:28:53,12.949979,79.174927,A small continuous stream is flowing into the storm drain from the sidewalk. It has been trickling slowly since Saturday afternoon.,pipe_leak,47,images/trickle_03.jpg
+R-2459,2026-09-05T07:48:58,12.975054,79.154911,Dark sludge is bubbling up out of the drainage hole near the corner store. Very strong obnoxious odor.,sewer_overflow,70,images/drain_02.jpg
+R-2460,2026-09-05T07:54:32,12.97505,79.155141,Blocked drain cover on Cypress Ave. Water is pooling across both lanes of traffic due to packed debris.,drain_blockage,71,images/drain_04.jpg
+R-2461,2026-09-05T07:56:54,12.948008,79.13987,"Emergency dispatch: A primary water conduit has fractured near the warehouse, releasing a heavy torrent that is splitting the pavement open.",water_main_leak,81,images/burst_07.jpg
+R-2462,2026-09-05T07:58:19,12.998908,79.175025,yo a big pipe just burst by the gas station and water is shooting way up into the sky while the road completely breaks apart.,water_main_leak,84,images/burst_01.jpg
+R-2463,2026-09-05T08:00:16,12.942548,79.136419,Overflowing public trash can at the corner of 3rd and Main has garbage blowing all over the pavement.,normal_road,17,images/noise_04.jpg
+R-2464,2026-09-05T08:00:25,12.995139,79.185028,Sewage backup is creating a massive puddle of dirty black water right across the pedestrian walkway.,sewer_overflow,65,images/drain_06.jpg
+R-2465,2026-09-05T08:01:01,12.999084,79.174875,"Critical infrastructure failure: Subterranean water main has ruptured, sending high-pressure water upward and flooding the intersection rapidly.",water_main_leak,85,images/burst_06.jpg
+R-2466,2026-09-05T08:02:22,12.947887,79.140115,Urgent alert: Massive underground pipe break creating an aggressive geyser that is washing away the asphalt in thick streams.,water_main_leak,81,images/burst_06.jpg
+R-2467,2026-09-05T08:03:16,12.999084,79.175063,Major blowout on 30th Ave! An underground water pipe snapped and water is shooting right through the pavement like an absolute geyser.,pipe_leak,93,images/burst_08.jpg
+R-2468,2026-09-05T08:06:14,12.999173,79.17491,man the street is totally buckling right now because a water line broke underneath and its gushing like crazy everywhere.,water_main_leak,90,images/burst_08.jpg
+R-2469,2026-09-05T08:08:07,12.99891,79.175191,"Severe main line failure: A massive volume of water is flooding out of deep fissures in the tarmac, causing immediate roadway collapse.",water_main_leak,92,images/burst_03.jpg
+R-2470,2026-09-05T08:13:17,12.99889,79.175117,"Water is shooting straight out of cracked blacktop on Elm Street, forming a dangerous flash flood that is trapping vehicles.",water_main_leak,89,images/burst_04.jpg
+R-2471,2026-09-05T08:15:09,12.998954,79.175127,"hey hurry and send a crew, a pipe blew up right by my apartment and water is bubbling up so hard the whole street is lifting.",water_main_leak,87,images/burst_06.jpg
+R-2472,2026-09-05T08:15:24,12.954965,79.135073,The manhole cover is rattling and disgusting grey water is splashing out onto the street.,sewer_overflow,63,images/drain_04.jpg
+R-2473,2026-09-05T08:15:35,12.965002,79.150023,The soil by the curb is totally muddy and water is standing still. It has been leaking from underneath for nearly forty eight hours.,pipe_leak,59,images/trickle_06.jpg
+R-2474,2026-09-05T08:16:28,12.964987,79.150022,A tiny pool of water has been sitting on the corner asphalt since yesterday. It is fed by a very slow underground trickle and the weather has been totally dry.,pipe_leak,51,images/trickle_06.jpg
+R-2475,2026-09-05T08:18:57,12.950013,79.175004,The dirt near the bus stop is turned into thick mud. Water has been slowly oozing up through the ground for over a day without any rain.,pipe_leak,58,images/trickle_05.jpg
+R-2476,2026-09-05T08:19:28,12.94781,79.14006,Immediate attention required: Catastrophic underground pipe rupture resulting in a high-velocity jet that is tearing up the roadway.,water_main_leak,80,images/burst_01.jpg
+R-2477,2026-09-05T08:27:56,12.949986,79.174964,Pavement near the driveway apron stays dark and damp all day long. A small steady leak has been bubbling up from a tiny crack since Saturday.,pipe_leak,47,images/trickle_06.jpg
+R-2478,2026-09-05T08:28:19,12.947848,79.140078,"A huge water main collapsed beneath the shopping center, causing water to gush in powerful waves and submerge the parking lot.",water_main_leak,81,images/burst_02.jpg
+R-2479,2026-09-05T08:28:51,12.972201,79.138993,Black stray lab mix hanging out around the bleachers at the little league field looking hungry.,normal_road,15,images/noise_03.jpg
+R-2480,2026-09-05T08:31:29,12.950004,79.174861,A faint stream of clean water is sliding down the gutter continuously. It started yesterday afternoon and has been flowing at the same slow rate.,pipe_leak,58,images/trickle_05.jpg
+R-2481,2026-09-05T08:40:37,12.998861,79.175278,omg a water pipe just snapped on maple avenue and its gushing so much water the whole block is turning into a river.,water_main_leak,88,images/burst_02.jpg
+R-2482,2026-09-05T08:41:17,12.948059,79.13996,"Emergency on Taylor Street: water main just ruptured underground. Water is rushing out in heavy torrents, flooding the sidewalks.",pipe_leak,90,images/burst_08.jpg
+R-2483,2026-09-05T08:41:51,12.998952,79.175085,High-priority incident: Severe subterranean pipe break generating a torrential overflow that is aggressively eroding the street structure.,water_main_leak,79,images/burst_04.jpg
+R-2484,2026-09-05T08:41:52,12.975299,79.155002,The drainage grate is choked with dirt and twigs. Water is backing up and forming a large mosquito breeding pool.,drain_blockage,70,images/drain_03.jpg
+R-2485,2026-09-05T08:43:29,12.999121,79.175026,Danger! A water pipe busted underneath the road on 13th St. Water is blasting out with incredible pressure and filling up the street drains.,pipe_leak,96,images/burst_06.jpg
+R-2486,2026-09-05T08:44:00,12.948066,79.139953,"Water is bubbling up violently through splitting concrete near the bus depot, signaling a major underground main failure.",water_main_leak,82,images/burst_04.jpg
+R-2487,2026-09-05T08:56:01,12.999041,79.174936,URGENT: Massive water main break on Johnston Road. Water is gushing fiercely from the asphalt and pooling deep in the driveways.,pipe_leak,90,images/burst_05.jpg
+R-2488,2026-09-05T08:57:10,12.948005,79.140035,Pipe burst under the pavement on 25th Street. High pressure water is shooting straight up into the air and causing a flash flood.,pipe_leak,91,images/burst_02.jpg
+R-2489,2026-09-05T08:57:42,12.949939,79.174899,The grass verge next to the sidewalk is super mushy and soaked. Water has been slowly weeping from the soil there for nearly forty eight hours.,pipe_leak,63,images/trickle_03.jpg
+R-2490,2026-09-05T09:01:17,12.948008,79.139931,"Emergency crew needed ASAP at 3rd and Pine. Underground water line just blew apart, gushing water everywhere.",pipe_leak,84,images/burst_01.jpg
+R-2491,2026-09-05T09:05:46,13.005106,79.16502,Hey the storm drain on Sunset Blvd is clogged with fast food bags. Dirty water is pooling near the bus shelter.,drain_blockage,68,images/drain_04.jpg
+R-2492,2026-09-05T09:09:38,12.949968,79.174973,There is a small perpetual puddle right over the main utility line. It refuses to evaporate even in the sun and has been there since Sunday.,pipe_leak,64,images/trickle_04.jpg
+R-2493,2026-09-05T09:15:17,12.955096,79.135173,The catch basin grate is sealed tight with wet mulch. Water is backing up and spilling onto private property.,drain_blockage,62,images/drain_03.jpg
+R-2494,2026-09-05T09:18:07,12.948076,79.139972,Critical issue on Perry Ave where a water pipe gave way. Water is bursting through the road surface with high pressure and flooding fast.,pipe_leak,89,images/burst_06.jpg
+R-2495,2026-09-05T09:18:44,12.948123,79.140013,Hey a water main just exploded on Mercer Street. Water is shooting out of the cracks in the asphalt and blocking traffic completely.,pipe_leak,87,images/burst_07.jpg
+R-2496,2026-09-05T09:26:10,12.975097,79.155057,Water is pooling deep near the storm drain cover because someone left construction trash right on top of the grates.,drain_blockage,68,images/drain_06.jpg
+R-2497,2026-09-05T09:28:05,12.947844,79.14001,"dude the blacktop just caved in where a heavy flow of water is bursting out from a broken main, flooding everything super fast.",water_main_leak,79,images/burst_08.jpg
+R-2498,2026-09-05T09:30:21,12.94791,79.140114,Urgent dispatch needed for underground pipe failure on 16th Ave. Water is rushing out with tremendous force and flooding the intersection.,pipe_leak,81,images/burst_04.jpg
+R-2499,2026-09-05T09:33:51,12.948074,79.139943,Severe water main rupture on Adams Road. Water is gushing out in a heavy stream and starting to submerge parked cars.,pipe_leak,78,images/burst_03.jpg
+R-2500,2026-09-05T09:40:59,12.954226,79.179916,School crossing sign is completely obscured by overgrown ivy vines coming from the neighbor's fence.,normal_road,24,images/noise_04.jpg
+R-2501,2026-09-05T09:45:30,12.995111,79.184979,There is raw sewage leaking from the storm drain on 12th street. The air quality here is foul right now.,sewer_overflow,62,images/drain_01.jpg
+R-2502,2026-09-05T09:49:05,12.948163,79.139935,Critical emergency: Major water line breach creating a powerful fountain that is breaking up the pavement and flooding nearby lawns.,water_main_leak,89,images/burst_08.jpg
+R-2503,2026-09-05T09:50:51,12.94801,79.139968,Emergency alert: water pipe blew underneath the street on 20th St. Gushing water is pooling rapidly and creating a dangerous driving hazard.,pipe_leak,77,images/burst_03.jpg
+R-2504,2026-09-05T09:51:42,12.948182,79.139961,"Subterranean pipe fracture on 2nd Street, heavy flows of water are rushing across the asphalt and destroying the road integrity.",water_main_leak,81,images/burst_05.jpg
+R-2505,2026-09-05T10:02:07,12.947899,79.139984,"hey u gotta call the city right now, a main broke and its shooting water like a crazy fountain while the pavement cracks.",water_main_leak,90,images/burst_04.jpg
+R-2506,2026-09-05T10:03:10,12.995105,79.18524,Overflowing sewer junction is dumping murky black liquid onto the asphalt. Fix this immediately please.,sewer_overflow,72,images/drain_01.jpg
+R-2507,2026-09-05T10:05:57,12.975031,79.15473,Nasty brown wastewater backing up out of the street grate and stinking up the whole neighborhood.,sewer_overflow,53,images/drain_06.jpg
+R-2508,2026-09-05T10:12:17,12.948087,79.139927,Major underground leak on Webster Ave turned into a full burst. Water is blasting out of the ground with intense pressure.,pipe_leak,89,images/burst_06.jpg
+R-2509,2026-09-05T10:36:26,12.950121,79.174999,A slow underground leak is making the street edge slippery. The damp patch has been visible for a full day and a half with clear skies.,pipe_leak,53,images/trickle_05.jpg
+R-2510,2026-09-05T10:37:55,12.948182,79.140139,Emergency alert: Catastrophic underground pipe failure sending pressurized water skyward while the concrete roadway shatters.,water_main_leak,84,images/burst_06.jpg
+R-2511,2026-09-05T10:52:57,12.947952,79.140068,CRITICAL: Water main cracked wide open on 12th Avenue. Water is shooting through the blacktop like a broken fire hydrant.,pipe_leak,84,images/burst_04.jpg
+R-2512,2026-09-05T11:00:49,12.947983,79.13979,Urgent situation on Monroe Street. A water pipe exploded underground and water is gushing out rapidly across the entire block.,pipe_leak,81,images/burst_05.jpg
+R-2513,2026-09-05T11:07:34,12.948065,79.140004,"A massive water main has ruptured beneath the avenue, sending torrential streams across all lanes and cracking the surface wide open.",water_main_leak,85,images/burst_06.jpg
+R-2514,2026-09-05T11:09:09,13.003981,79.173569,Crumbled sidewalk corner near the pizza parlor leaves a gaping dirt hole right where pedestrians step off.,normal_road,15,images/noise_01.jpg
+R-2515,2026-09-05T11:10:06,12.962391,79.133774,Slick oily residue spread across the turning lane on 22nd street causing bikes to lose traction.,normal_road,17,images/noise_03.jpg
+R-2516,2026-09-05T11:18:46,12.964975,79.149962,Water keeps seeping through the pavement joints near my fence. It forms a minor puddle that stays filled overnight and all through the afternoon.,pipe_leak,53,images/trickle_02.jpg
+R-2517,2026-09-05T11:23:43,12.989977,79.159956,The shoulder of the road has a continuous wet spot that wont dry. It has been trickling slowly since yesterday morning with zero precipitation.,pipe_leak,48,images/trickle_03.jpg
+R-2518,2026-09-05T11:25:27,13.005305,79.158378,Pair of nasty ruts in the dirt shoulder on rural route 4 that are getting wider after every rainstorm.,normal_road,13,images/noise_05.jpg
+R-2519,2026-09-05T11:28:56,12.955188,79.135083,Manhole is overflowing with foul-smelling black sludge right where kids wait for the school bus.,sewer_overflow,67,images/drain_04.jpg
+R-2520,2026-09-05T11:39:34,12.947974,79.140138,omg a pipe totally blew open right in front of the store and water is shooting out like a geyser while the street cracks.,water_main_leak,88,images/burst_06.jpg
+R-2521,2026-09-05T11:39:56,12.964981,79.150012,A tiny constant trickle is coming up from beneath the street. The resulting puddle has been sitting there for two full days without any rain.,pipe_leak,57,images/trickle_05.jpg
+R-2522,2026-09-05T11:40:03,12.975225,79.155024,Disgusting filthy water is gushing from the sewer cap onto the curb. Unbearable stench.,sewer_overflow,58,images/drain_04.jpg
+R-2523,2026-09-05T11:57:59,12.994928,79.184993,The drain is backing up with dark contaminated waste water and spilling across the street.,sewer_overflow,64,images/drain_03.jpg
+R-2524,2026-09-05T12:04:06,12.976118,79.168091,Streetlight fixture is dangling from the wire by the alley behind the pharmacy and sparking a bit.,normal_road,14,images/noise_03.jpg
+R-2525,2026-09-05T12:06:59,12.99326,79.152095,Pile of discarded tires and old car bumpers left behind the municipal storage fence.,normal_road,16,images/noise_06.jpg
+R-2526,2026-09-05T12:16:01,12.948052,79.139993,Immediate dispatch needed: Severe water main break producing an unchecked flow that is actively tearing up the asphalt.,water_main_leak,96,images/burst_04.jpg
+R-2527,2026-09-05T12:18:29,12.950047,79.175,The soil around the metal meter box is completely saturated. Water has been slowly leaking out of the earth for more than a day now.,pipe_leak,41,images/trickle_03.jpg
+R-2528,2026-09-05T12:20:52,12.948098,79.14002,"Help, a water main blew out on 27th St. High pressure water is shooting out of the asphalt and flooding the local storefronts.",pipe_leak,82,images/burst_02.jpg
+R-2529,2026-09-05T12:27:00,13.006726,79.181791,Scruffy terrier running back and forth across the intersection of 10th and Park nearly causing wrecks.,normal_road,14,images/noise_06.jpg
+R-2530,2026-09-05T12:32:59,13.004982,79.165073,Clogged storm drain on Magnolia St. The grates are packed with silt and water is backing up onto the pavement.,drain_blockage,59,images/drain_06.jpg
+R-2531,2026-09-05T12:37:29,12.947851,79.140129,"Water is gushing out of a massive split in the road surface on 22nd Avenue, forming a deep pool that blocks traffic.",water_main_leak,78,images/burst_02.jpg
+R-2532,2026-09-05T12:39:18,12.965014,79.149936,A soft soggy patch has formed right beside our garden wall. Water has been gently weeping from the ground since Saturday night.,pipe_leak,52,images/trickle_06.jpg
+R-2533,2026-09-05T12:44:38,12.977915,79.177652,Do not enter sign is completely bent backwards after getting clipped by a delivery truck.,normal_road,16,images/noise_03.jpg
+R-2534,2026-09-05T12:50:00,12.947912,79.140131,"bro there is a massive leak by the park, water is bubbling up super fast and the pavement is totally cracking apart.",water_main_leak,84,images/burst_07.jpg
+R-2535,2026-09-05T12:52:36,12.980003,79.158744,Severe frost heave on the sidewalk blocks by the community garden gate needs flattening out.,normal_road,9,images/noise_03.jpg
+R-2536,2026-09-05T13:02:25,12.954906,79.135064,Raw sewage is overflowing from the manhole near the library. It smells totally wretched out here.,sewer_overflow,77,images/drain_05.jpg
+R-2537,2026-09-05T13:06:29,12.981979,79.145046,Critical water main breach resulting in a heavy gushing flow that is rapidly submerging the road and fracturing infrastructure.,water_main_leak,78,images/burst_01.jpg
+R-2538,2026-09-05T13:09:40,12.982091,79.144818,Emergency at the corner of 8th and Main: underground water pipe just burst. Water is blasting out of the road surface with extreme force.,pipe_leak,75,images/burst_04.jpg
+R-2539,2026-09-05T13:13:01,12.965171,79.150015,The asphalt by the pedestrian crossing is always wet lately. A tiny trickle has been coming up from underneath for the past two days.,pipe_leak,53,images/trickle_04.jpg
+R-2540,2026-09-05T13:18:06,12.947986,79.139876,Severe underground pipe break unleashing a massive water fountain that is tearing up the tarmac and flooding the whole area.,water_main_leak,90,images/burst_01.jpg
+R-2541,2026-09-05T13:21:05,12.98489,79.169808,Puzzling damp patch on the asphalt near the public bench on Maple avenue that smells slightly swampy.,normal_road,18,images/noise_03.jpg
+R-2542,2026-09-05T13:24:17,12.982053,79.144774,"A primary water line just gave way beneath the intersection, sending a blinding spray of water over twenty feet into the air.",water_main_leak,81,images/burst_07.jpg
+R-2543,2026-09-05T13:27:21,13.004979,79.164806,Black wastewater is bubbling up through the pavement manhole and running down into the gutter.,sewer_overflow,75,images/drain_02.jpg
+R-2544,2026-09-05T13:28:50,12.942768,79.139744,Deep pothole hidden under fallen leaves right on the curve of Highland terrace.,normal_road,12,images/noise_04.jpg
+R-2545,2026-09-05T13:30:13,13.00357,79.18205,Entire decorative streetlamp post is leaning at a 45 degree angle after someone crashed into it last night.,normal_road,15,images/noise_01.jpg
+R-2546,2026-09-05T13:31:07,12.989976,79.159923,There is a minor continuous leak running into the storm drain. It has been trickling at the exact same slow pace since yesterday morning.,pipe_leak,49,images/trickle_01.jpg
+R-2547,2026-09-05T13:42:10,12.989951,79.15993,The dirt patch around the fire hydrant is completely muddy. It has been holding standing water since Sunday without any storms.,pipe_leak,63,images/trickle_01.jpg
+R-2548,2026-09-05T13:48:11,12.947965,79.140278,yo someone messed up cuz a giant pipe broke under the road and water is shooting straight up like a crazy fountain.,water_main_leak,87,images/burst_08.jpg
+R-2549,2026-09-05T13:49:55,13.00495,79.165045,There's a terrible sewer backup on my street with dirty water pooling near every driveway.,sewer_overflow,65,images/drain_02.jpg
+R-2550,2026-09-05T13:50:20,12.964965,79.15008,A thin sheet of water is creeping across the pathway. It started yesterday and has been flowing constantly despite the bone dry weather.,pipe_leak,47,images/trickle_05.jpg
+R-2551,2026-09-05T13:52:49,12.947859,79.140135,"Urgent hazard: Substantial underground pipe rupture flooding the avenue with a heavy, uncontained flow that is cracking the asphalt.",water_main_leak,84,images/burst_08.jpg
+R-2552,2026-09-05T13:53:30,12.94791,79.14,"Water is bubbling up furiously through huge cracks in the concrete on Broadway, creating an instant lake and blocking all traffic.",water_main_leak,90,images/burst_01.jpg
+R-2553,2026-09-05T13:58:40,12.965129,79.149988,The ground near the utility pole is squishy and soaked. A slow underground leak has been pooling there since Saturday afternoon.,pipe_leak,48,images/trickle_02.jpg
+R-2554,2026-09-05T14:01:17,12.987505,79.16561,"Pavement is damp following the storm activity, with occasional water spray from fast drivers.",wet_road,25,images/wetroad_01.jpg
+R-2555,2026-09-05T14:01:45,12.972702,79.175364,Slow drainage means water is just sitting in massive puddles across the road following the heavy thunderstorm.,waterlogging,24,images/waterlog_04.jpg
+R-2556,2026-09-05T14:01:53,12.975811,79.181877,Residual dampness on the roadway from the rain makes the surface look dark and reflective.,wet_road,34,images/wetroad_03.jpg
+R-2557,2026-09-05T14:03:13,12.997327,79.160668,"The street feels a bit damp after the recent precipitation, though traction seems totally normal.",wet_road,31,images/wetroad_02.jpg
+R-2558,2026-09-05T14:03:36,12.982031,79.14491,omg the street literally just exploded open cuz a massive water pipe broke and its gushing everywhere super fast.,water_main_leak,91,images/burst_03.jpg
+R-2559,2026-09-05T14:05:11,12.984037,79.177659,Passing vehicles are creating a mild mist and splash from the damp patches left by the rain.,wet_road,30,images/wetroad_03.jpg
+R-2560,2026-09-05T14:07:34,12.985614,79.157868,"Street flooded from storm runoff, and the heavy rain has created a swampy mess right outside the school gates.",waterlogging,38,images/waterlog_06.jpg
+R-2561,2026-09-05T14:08:55,12.975662,79.165167,Standing puddles across the lane are splashing pedestrians on the sidewalk because the heavy rain overwhelmed the sewers.,waterlogging,30,images/waterlog_07.jpg
+R-2562,2026-09-05T14:09:01,12.954949,79.134936,Manhole cover is lifted and foul murky water is pouring out onto the road. Extreme odor.,sewer_overflow,63,images/drain_02.jpg
+R-2563,2026-09-05T14:09:15,12.98961,79.17671,"Road surface is damp from the passing weather, throwing up some spray behind the tires.",wet_road,36,images/wetroad_02.jpg
+R-2564,2026-09-05T14:12:12,12.999729,79.16157,"A little bit of water accumulation on the asphalt from the rain, causing minor splashing.",wet_road,25,images/wetroad_01.jpg
+R-2565,2026-09-05T14:12:14,12.999287,79.180171,Massive pile of cardboard boxes left stacked illegally next to the recycling corral behind the strip mall.,normal_road,16,images/noise_04.jpg
+R-2566,2026-09-05T14:12:26,12.987826,79.175757,"The road is slightly greasy and damp from the recent rain, just normal wet conditions.",wet_road,43,images/wetroad_03.jpg
+R-2567,2026-09-05T14:12:33,12.982033,79.184589,The heavy rain left behind stubborn stagnant rainwater that refuses to enter the clogged storm drains.,waterlogging,23,images/waterlog_05.jpg
+R-2568,2026-09-05T14:12:58,12.964996,79.150029,Water is slowly seeping out from under the curb and pooling in the street. It has been doing this for over twenty four hours with no rain.,pipe_leak,42,images/trickle_01.jpg
+R-2569,2026-09-05T14:13:08,12.982473,79.180993,Street flooded from storm downpours and water is spilling over the curb because of terrible slow drainage.,waterlogging,32,images/waterlog_06.jpg
+R-2570,2026-09-05T14:13:27,12.978634,79.165615,"Damp street conditions resulting from the morning weather, cars are making a splashing sound.",wet_road,41,images/wetroad_01.jpg
+R-2571,2026-09-05T14:13:30,12.98708,79.185365,"The pavement is still damp after the rain cleared up, generating slight spray from traffic.",wet_road,32,images/wetroad_03.jpg
+R-2572,2026-09-05T14:16:34,12.981654,79.145123,Critical infrastructure failure: Major water main collapse unleashing a high-pressure torrent that is actively tearing the roadway apart.,water_main_leak,83,images/burst_05.jpg
+R-2573,2026-09-05T14:19:30,12.960505,79.176416,Slow drainage is trapping commuters as large standing puddles cover the entire lane after the heavy rain.,waterlogging,43,images/waterlog_04.jpg
+R-2574,2026-09-05T14:19:44,12.978069,79.173389,Stagnant rainwater is pooling deeply in the middle of the block due to the heavy rain and blocked grates.,waterlogging,42,images/waterlog_08.jpg
+R-2575,2026-09-05T14:19:52,12.9819,79.145075,"URGENT: Severe water line failure on Jackson Boulevard. Water is gushing furiously from a split in the street, causing rapid flooding.",pipe_leak,76,images/burst_05.jpg
+R-2576,2026-09-05T14:22:44,12.981545,79.165417,"Just some light moisture on the road surface due to the rain, nothing dangerous at all.",wet_road,25,images/wetroad_04.jpg
+R-2577,2026-09-05T14:23:21,12.949973,79.175026,The pavement in front of the bakery has a damp circle that never goes away. It has been weeping water slowly for almost two days.,pipe_leak,52,images/trickle_02.jpg
+R-2578,2026-09-05T14:25:36,12.954872,79.134854,The drain is blocked by a massive pile of wet leaves. Standing water is pooling right in front of the storefront.,drain_blockage,65,images/drain_03.jpg
+R-2579,2026-09-05T14:28:19,12.944944,79.144915,Blocked storm drain grates on 7th Street are causing filthy water to back up and flood the gutter completely.,drain_blockage,65,images/drain_04.jpg
+R-2580,2026-09-05T14:29:27,12.965117,79.181363,Traffic is splashing through the damp road spots left behind by the recent rain shower.,wet_road,42,images/wetroad_04.jpg
+R-2581,2026-09-05T14:29:37,12.967562,79.184821,Street flooded from storm overflow and the heavy rain left a massive sheet of water across both lanes.,waterlogging,29,images/waterlog_02.jpg
+R-2582,2026-09-05T14:31:45,12.966089,79.174495,"The asphalt is a bit damp from the recent weather pattern, causing minor tire spray.",wet_road,44,images/wetroad_01.jpg
+R-2583,2026-09-05T14:33:23,12.970185,79.187516,Nervous looking stray cat hiding underneath the bleachers near the high school track.,normal_road,13,images/noise_04.jpg
+R-2584,2026-09-05T14:34:09,12.989923,79.160007,A weird little stream of water is trickling down the edge of the road. Looks like a slow pipe leak that began sometime over the weekend.,pipe_leak,49,images/trickle_05.jpg
+R-2585,2026-09-05T14:34:14,12.983039,79.1693,"The pavement is holding onto some damp spots after the recent rain, nothing too slick though.",wet_road,23,images/wetroad_04.jpg
+R-2586,2026-09-05T14:34:24,12.97821,79.187334,Passing cars are kicking up fine mist from the wet road surface left by the storm.,wet_road,34,images/wetroad_01.jpg
+R-2587,2026-09-05T14:35:11,12.981977,79.144979,"Emergency on 14th Street! A major underground water pipe just burst, and water is shooting straight up through the pavement like a geyser.",pipe_leak,76,images/burst_05.jpg
+R-2588,2026-09-05T14:35:48,12.982057,79.144844,URGENT: Water main blew open on Washington Ave. Extreme pressure is causing water to gush out of the asphalt and flood the entire block.,pipe_leak,78,images/burst_08.jpg
+R-2589,2026-09-05T14:37:20,12.982126,79.145176,A severe subterranean pipe fracture near the library is causing thick streams of water to rush across the lanes and wash away the ground.,water_main_leak,91,images/burst_05.jpg
+R-2590,2026-09-05T14:37:28,12.965083,79.17645,"Just a bit of residual dampness on the street from the rain earlier, causing mild tire spray.",wet_road,27,images/wetroad_03.jpg
+R-2591,2026-09-05T14:37:36,12.981814,79.144964,Help! An underground water line snapped on 21st St. Water is blasting out with incredible force and turning the intersection into a lake.,pipe_leak,76,images/burst_08.jpg
+R-2592,2026-09-05T14:38:10,12.985458,79.18182,"The blacktop looks dark and damp from the afternoon rain, with light splashing from traffic.",wet_road,39,images/wetroad_01.jpg
+R-2593,2026-09-05T14:38:31,12.981883,79.145116,dude a water main totally busted right outside my window and water is shooting up so high while the blacktop shatters.,water_main_leak,80,images/burst_04.jpg
+R-2594,2026-09-05T14:39:11,12.982211,79.144874,Emergency response needed immediately: Massive water line breach producing a violent geyser that is fragmenting the pavement.,water_main_leak,82,images/burst_08.jpg
+R-2595,2026-09-05T14:39:19,12.965028,79.149991,The grassy median is totally waterlogged and squishy when stepped on. It has been oozing water steadily since Sunday morning.,pipe_leak,44,images/trickle_05.jpg
+R-2596,2026-09-05T14:41:55,12.981953,79.145073,"Water is gushing from deep fissures in the street surface on 8th Street, rapidly flooding cars and eroding the foundation.",water_main_leak,80,images/burst_04.jpg
+R-2597,2026-09-05T14:42:47,12.989249,79.178262,Standing puddles across the lane are creating a major hazard for delivery riders after the heavy rainfall.,waterlogging,44,images/waterlog_03.jpg
+R-2598,2026-09-05T14:42:56,12.981988,79.145292,man a huge pipe broke under the asphalt by the bridge and water is bubbling up like crazy while the whole road buckles.,water_main_leak,84,images/burst_07.jpg
+R-2599,2026-09-05T14:43:57,12.98837,79.165513,"The heavy storm dumped too much water, and slow drainage is keeping the street flooded near the corner store.",waterlogging,44,images/waterlog_03.jpg
+R-2600,2026-09-05T14:46:01,12.977602,79.183309,"Roads are slightly damp due to the recent weather, making tires swish a bit as cars pass.",wet_road,27,images/wetroad_03.jpg
+R-2601,2026-09-05T14:46:28,12.981731,79.176694,Stagnant rainwater is covering the entire turning circle because the heavy rain overloaded the local drainage network.,waterlogging,43,images/waterlog_02.jpg
+R-2602,2026-09-05T14:47:27,12.964312,79.178695,"Street flooded from storm runoff, leaving standing puddles across the lane that take hours to clear after heavy rain.",waterlogging,42,images/waterlog_03.jpg
+R-2603,2026-09-05T14:47:47,12.98246,79.160371,"Some damp patches remaining on the lane after the rain stopped, traffic is moving fine.",wet_road,37,images/wetroad_03.jpg
+R-2604,2026-09-05T14:47:59,12.994753,79.167595,Slow drainage after the heavy rain has turned our lane into a muddy pond with stagnant water everywhere.,waterlogging,42,images/waterlog_03.jpg
+R-2605,2026-09-05T14:48:38,12.981511,79.159947,"The road surface is a bit slick and damp from the drizzle, just taking it easy on the turns.",wet_road,44,images/wetroad_04.jpg
+R-2606,2026-09-05T14:49:11,12.961145,79.17684,Passing vehicles are throwing up light surface water from the rain we had a while ago.,wet_road,30,images/wetroad_01.jpg
+R-2607,2026-09-05T14:49:42,12.99503,79.185137,Gross sewage water is flooding the sidewalk from an overflowing drainage grate near the plaza.,sewer_overflow,66,images/drain_05.jpg
+R-2608,2026-09-05T14:50:30,12.965755,79.169171,"The street is still drying from the rain, resulting in minor splashing from fast drivers.",wet_road,29,images/wetroad_03.jpg
+R-2609,2026-09-05T14:51:51,12.969332,79.169606,Street flooded from storm runoff and the heavy rain left the gutters completely clogged with debris.,waterlogging,30,images/waterlog_01.jpg
+R-2610,2026-09-05T14:52:25,12.979299,79.19,Stagnant rainwater is sitting in huge circles around the tree pits because of yesterday's heavy rainfall.,waterlogging,42,images/waterlog_06.jpg
+R-2611,2026-09-05T14:59:33,12.995401,79.164618,Slow drainage means murky water is lingering across the entire lane following the severe storm.,waterlogging,23,images/waterlog_01.jpg
+R-2612,2026-09-05T15:00:12,12.983821,79.189665,"Just reporting some damp tarmac following the weather system, completely normal driving conditions.",wet_road,34,images/wetroad_01.jpg
+R-2613,2026-09-05T15:00:27,12.981913,79.144921,CRITICAL EMERGENCY: Water pipe ruptured under the blacktop on Lincoln Road. Gushing water is flooding the street at a terrifying speed.,pipe_leak,76,images/burst_03.jpg
+R-2614,2026-09-05T15:01:20,12.990394,79.17676,Standing puddles across the lane are splashing anyone waiting at the bus stop after the heavy rain.,waterlogging,42,images/waterlog_04.jpg
+R-2615,2026-09-05T15:01:45,12.994367,79.171743,Street flooded from storm water overflow and the heavy rain made the whole block look like a lake.,waterlogging,36,images/waterlog_02.jpg
+R-2616,2026-09-05T15:02:06,12.945032,79.144845,"Dark sludge and wastewater are backing up from the street sewer, creating a major slip hazard and stench.",sewer_overflow,64,images/drain_04.jpg
+R-2617,2026-09-05T15:02:39,12.977025,79.188109,"The heavy rain caused terrible slow drainage, leaving the street flooded near the community center.",waterlogging,32,images/waterlog_07.jpg
+R-2618,2026-09-05T15:02:43,13.001952,79.166457,"The pavement has a thin layer of moisture from the recent rain, causing slight tire spray.",wet_road,28,images/wetroad_01.jpg
+R-2619,2026-09-05T15:03:00,12.941317,79.144544,Terrible sinkhole starting to cave in right in the middle of the bus stop zone on Elm street.,normal_road,24,images/noise_05.jpg
+R-2620,2026-09-05T15:03:46,12.968246,79.165693,Stagnant rainwater has filled the low spots on the pavement since the heavy storm ended this morning.,waterlogging,43,images/waterlog_07.jpg
+R-2621,2026-09-05T15:04:04,12.976029,79.189156,"Streets are somewhat damp due to the morning rain shower, with gentle splashing from cars.",wet_road,32,images/wetroad_04.jpg
+R-2622,2026-09-05T15:04:25,12.990581,79.18002,"The asphalt feels a bit damp and reflective after the storm cleared, everything looks fine.",wet_road,26,images/wetroad_02.jpg
+R-2623,2026-09-05T15:04:38,12.97687,79.177081,Standing puddles across the lane are trapping pedestrians on the corner after the heavy downpour.,waterlogging,33,images/waterlog_01.jpg
+R-2624,2026-09-05T15:07:14,12.975625,79.181248,Street flooded from storm backup and the heavy rain left cars stalled in the middle of the road.,waterlogging,34,images/waterlog_02.jpg
+R-2625,2026-09-05T15:09:29,12.985401,79.17206,Cars driving by are kicking up small amounts of water from the damp road left by the rain.,wet_road,22,images/wetroad_03.jpg
+R-2626,2026-09-05T15:13:39,12.981944,79.189551,Slow drainage is keeping water pooled across the tarmac long after the heavy rain passed over.,waterlogging,31,images/waterlog_01.jpg
+R-2627,2026-09-05T15:14:12,12.981161,79.173831,"Minor dampness on the roadway resulting from the weather, creating a light mist behind vehicles.",wet_road,32,images/wetroad_03.jpg
+R-2628,2026-09-05T15:14:23,12.967018,79.181512,Lightbulb on the second pole down from the community pool keeps flickering on and off constantly.,normal_road,16,images/noise_06.jpg
+R-2629,2026-09-05T15:14:40,12.993296,79.162725,Stagnant rainwater is covering the parking spaces because the heavy rain overwhelmed the local drains.,waterlogging,31,images/waterlog_06.jpg
+R-2630,2026-09-05T15:14:45,12.984694,79.173316,Street flooded from storm surges and the heavy rain created a massive hazard for evening commuters.,waterlogging,44,images/waterlog_01.jpg
+R-2631,2026-09-05T15:17:38,12.949935,79.174845,A small puddle by the signpost has stayed the exact same size for two days. No rain lately so it must be a cracked pipe underneath.,pipe_leak,65,images/trickle_06.jpg
+R-2632,2026-09-05T15:19:13,12.983428,79.185857,"The road is slightly wet from the passing rain cloud, leading to minor splashing from traffic.",wet_road,37,images/wetroad_03.jpg
+R-2633,2026-09-05T15:20:56,12.964412,79.175314,"Just some light moisture on the asphalt due to the recent rain, no real hazards out here.",wet_road,36,images/wetroad_03.jpg
+R-2634,2026-09-05T15:21:40,12.981925,79.145154,High-priority alert: Catastrophic underground main failure generating an overwhelming torrent that is destroying the tarmac.,water_main_leak,76,images/burst_05.jpg
+R-2635,2026-09-05T15:22:05,12.990203,79.161315,"The street surface is damp and shiny from the rain, with cars throwing up soft spray.",wet_road,27,images/wetroad_04.jpg
+R-2636,2026-09-05T15:24:17,12.987986,79.163069,"Residual damp patches on the highway from the rain shower, traffic is flowing smoothly.",wet_road,26,images/wetroad_04.jpg
+R-2637,2026-09-05T15:24:26,12.968976,79.183773,Standing puddles across the lane are hiding deep ruts in the asphalt following the heavy rainstorm.,waterlogging,38,images/waterlog_06.jpg
+R-2638,2026-09-05T15:26:09,12.982067,79.145148,Yo a water main just exploded underneath the road by the gas station on 33rd. Water is surging out of a huge crack with massive pressure.,pipe_leak,78,images/burst_06.jpg
+R-2639,2026-09-05T15:29:20,12.971811,79.167291,"The pavement is damp following today's weather, resulting in quiet splashing from tires.",wet_road,39,images/wetroad_01.jpg
+R-2640,2026-09-05T15:29:41,12.970801,79.18291,Passing auto traffic is creating a light spray from the damp road spots left by the rain.,wet_road,33,images/wetroad_01.jpg
+R-2641,2026-09-05T15:32:00,12.99598,79.181396,"The heavy rain overloaded the sewers, and now stagnant rainwater is backing up into the street.",waterlogging,40,images/waterlog_06.jpg
+R-2642,2026-09-05T15:32:43,12.992455,79.178785,"The road is a bit slick and damp from the precipitation, just standard wet weather stuff.",wet_road,29,images/wetroad_04.jpg
+R-2643,2026-09-05T15:33:08,12.984565,79.19,Slow drainage on the eastern avenue has left the street flooded with water since the heavy rain.,waterlogging,28,images/waterlog_05.jpg
+R-2644,2026-09-05T15:33:09,12.973783,79.182382,"Just a touch of dampness on the ground after the rain, cars are making a splashing sound.",wet_road,28,images/wetroad_01.jpg
+R-2645,2026-09-05T15:33:34,12.982036,79.145036,"Urgent dispatch needed on Roosevelt Ave. Underground water pipe failed completely, sending water gushing across all lanes with high pressure.",pipe_leak,79,images/burst_04.jpg
+R-2646,2026-09-05T15:34:19,12.959793,79.183651,"The blacktop is damp from the recent weather front, with occasional tire spray from vehicles.",wet_road,35,images/wetroad_04.jpg
+R-2647,2026-09-05T15:35:44,12.981956,79.145197,Major blowout on 35th Street! Water is shooting through the road surface and flooding nearby properties instantly.,pipe_leak,82,images/burst_02.jpg
+R-2648,2026-09-05T15:37:15,12.955155,79.135016,Drain cover is buried under trash bags. Water is backing up and creating a huge hazard for drivers turning the corner.,drain_blockage,66,images/drain_05.jpg
+R-2649,2026-09-05T15:37:39,12.963685,79.179225,Street flooded from storm runoff right outside the pharmacy after hours of heavy rain.,waterlogging,33,images/waterlog_02.jpg
+R-2650,2026-09-05T15:40:07,12.980159,79.19,Stagnant rainwater is pooling near the curb because the heavy rain washed trash over the drain grates.,waterlogging,38,images/waterlog_03.jpg
+R-2651,2026-09-05T15:40:23,12.950071,79.174937,Water is bubbling up very slowly through a microscopic hole in the blacktop. It's been flowing continuously since yesterday evening.,pipe_leak,58,images/trickle_03.jpg
+R-2652,2026-09-05T15:40:26,12.965104,79.15003,The side street pavement is dark and soaked in a specific spot. A slow trickle has been oozing up from a crack for nearly forty eight hours.,pipe_leak,63,images/trickle_01.jpg
+R-2653,2026-09-05T15:42:05,12.99727,79.154733,Old mattress and box springs dumped right on the corner grass patch near the park entrance.,normal_road,17,images/noise_03.jpg
+R-2654,2026-09-05T15:42:07,12.987408,79.185525,"Road surface has some lingering wetness from the rain, causing minor splashing as cars go by.",wet_road,44,images/wetroad_03.jpg
+R-2655,2026-09-05T15:42:47,12.976718,79.179313,"The asphalt has some lingering moisture from the rain, causing cars to create a soft hissing sound.",wet_road,21,images/wetroad_03.jpg
+R-2656,2026-09-05T15:42:54,12.962143,79.181871,"Just some damp pavement left behind by the morning storm, with light spray coming off the tires.",wet_road,34,images/wetroad_02.jpg
+R-2657,2026-09-05T15:48:24,12.982083,79.145261,"A massive water main split open near the medical center, causing heavy sheets of water to flood the block and crack the pavement.",water_main_leak,89,images/burst_01.jpg
+R-2658,2026-09-05T15:48:44,12.982105,79.145282,"hey u gotta send a truck fast, a main blew out and its shooting water like mad while the street starts to cave in.",water_main_leak,77,images/burst_04.jpg
+R-2659,2026-09-05T15:49:17,12.975408,79.169654,Standing puddles across the lane are forcing cyclists onto the sidewalk after the heavy rain.,waterlogging,36,images/waterlog_07.jpg
+R-2660,2026-09-05T15:50:17,12.950036,79.17263,Big orange tomcat with a torn ear hanging out near the dumpster behind the seafood restaurant.,normal_road,9,images/noise_05.jpg
+R-2661,2026-09-05T15:51:30,12.989996,79.160082,There is a persistent little puddle that stays filled right by the alleyway. It has been leaking slowly out of the ground since Saturday.,pipe_leak,54,images/trickle_06.jpg
+R-2662,2026-09-05T15:52:02,12.989338,79.183766,"The road surface is slightly damp from the passing weather front, leading to gentle splashing.",wet_road,39,images/wetroad_03.jpg
+R-2663,2026-09-05T15:52:33,12.981448,79.184768,Slow drainage after the heavy rain has turned the alley into a muddy pool of stagnant water.,waterlogging,34,images/waterlog_08.jpg
+R-2664,2026-09-05T15:53:44,12.98192,79.145024,Immediate dispatch: Severe underground pipe rupture creating an intense fountain that is rapidly breaking up the surrounding roadway.,water_main_leak,84,images/burst_04.jpg
+R-2665,2026-09-05T15:55:13,12.970025,79.170876,Street flooded from storm downpours and the heavy rain left water nearly reaching storefront doors.,waterlogging,36,images/waterlog_02.jpg
+R-2666,2026-09-05T15:57:05,12.990009,79.160117,The pavement close to the mailbox has a dark wet spot that remains all day. A tiny leak has been feeding a shallow puddle there since yesterday afternoon with zero rain.,pipe_leak,54,images/trickle_06.jpg
+R-2667,2026-09-05T15:57:20,12.993383,79.175782,The heavy storm left behind deep stagnant rainwater that refuses to recede from the blocked drains.,waterlogging,33,images/waterlog_07.jpg
+R-2668,2026-09-05T15:57:45,12.987192,79.177879,Standing puddles across the lane are soaking delivery bikes after the heavy rain passed through.,waterlogging,31,images/waterlog_01.jpg
+R-2669,2026-09-05T16:00:04,13.001483,79.174404,Street flooded from storm water accumulation and slow drainage keeps the lane underwater following the rain.,waterlogging,39,images/waterlog_06.jpg
+R-2670,2026-09-05T16:01:52,12.982105,79.145042,"Emergency alert: water pipe burst beneath the pavement on Kenwood Road. Water is rushing out uncontrollably, creating a severe flood.",pipe_leak,77,images/burst_06.jpg
+R-2671,2026-09-05T16:02:59,12.998252,79.168092,Stagnant rainwater is spreading across the tarmac because the heavy rain washed mud into the gutters.,waterlogging,49,images/waterlog_02.jpg
+R-2672,2026-09-05T16:04:01,12.993605,79.165807,Slow drainage caused the street to stay flooded for hours after the heavy rain finally stopped.,waterlogging,36,images/waterlog_08.jpg
+R-2673,2026-09-05T16:04:41,12.990052,79.159987,Water has been continuously oozing through a seam in the concrete driveway apron. The resulting little pool has not dried up at all over the past forty eight hours.,pipe_leak,44,images/trickle_06.jpg
+R-2674,2026-09-05T16:04:49,12.979918,79.170321,Passing vehicles are kicking up a fine mist from the wet road spots left by the recent rain.,wet_road,27,images/wetroad_01.jpg
+R-2675,2026-09-05T16:07:09,12.997183,79.160091,"The street is a bit damp after the rain stopped, nothing hazardous but traffic is spraying a little.",wet_road,37,images/wetroad_02.jpg
+R-2676,2026-09-05T16:09:26,12.99206,79.180488,"Just reporting some damp tarmac due to the weather we just had, totally normal conditions.",wet_road,25,images/wetroad_02.jpg
+R-2677,2026-09-05T16:12:21,12.989065,79.17611,"The pavement feels slightly slick and damp from the afternoon rain, cars are splashing mildly.",wet_road,35,images/wetroad_02.jpg
+R-2678,2026-09-05T16:15:48,12.952457,79.144327,Stop sign at the four-way junction of Pine and 4th is completely covered in political stickers.,normal_road,21,images/noise_04.jpg
+R-2679,2026-09-05T16:15:58,12.995037,79.18501,The manhole is spewing foul liquid all over the pavement. The smell is making people turn around.,sewer_overflow,64,images/drain_05.jpg
+R-2680,2026-09-05T16:18:08,12.96498,79.15002,A slow underground leak is causing water to seep past the curb edge. It has been trickling steadily since Saturday morning and the weather is completely bone dry.,pipe_leak,65,images/trickle_06.jpg
+R-2681,2026-09-05T16:19:04,12.981767,79.1452,"Water is shooting directly out of cracked pavement on 4th Avenue, forming a powerful current that is washing away the street.",water_main_leak,89,images/burst_05.jpg
+R-2682,2026-09-05T16:28:08,12.98417,79.181629,Residual dampness on the roadway from the rain shower makes the blacktop look quite dark.,wet_road,23,images/wetroad_04.jpg
+R-2683,2026-09-05T16:28:49,12.981718,79.145014,bro the road is totally lifting up because a water pipe snapped underneath and its gushing out a massive amount of liquid.,water_main_leak,93,images/burst_04.jpg
+R-2684,2026-09-05T16:28:50,12.990362,79.157332,Street flooded from storm surges near the market and the heavy rain left water ankle-deep.,waterlogging,43,images/waterlog_06.jpg
+R-2685,2026-09-05T16:30:37,12.988386,79.16497,"The lane has some light moisture left from the rain, resulting in soft tire spray from passing cars.",wet_road,34,images/wetroad_03.jpg
+R-2686,2026-09-05T16:32:33,12.986126,79.169762,"Streets are somewhat damp right now because of the rain, causing minor splashing from traffic.",wet_road,32,images/wetroad_03.jpg
+R-2687,2026-09-05T16:33:16,12.955089,79.13507,Filthy black water is overflowing from the sewer line on birch road. Please send a crew out.,sewer_overflow,64,images/drain_05.jpg
+R-2688,2026-09-05T16:33:36,13.001683,79.166123,"The road is a bit damp from today's weather system, with occasional spray behind vehicles.",wet_road,34,images/wetroad_01.jpg
+R-2689,2026-09-05T16:35:58,12.965028,79.150008,The earth surrounding the utility box is turned into a muddy patch. It has been holding standing water for more than a day without any recent storms.,pipe_leak,51,images/trickle_04.jpg
+R-2690,2026-09-05T16:39:15,12.950047,79.174901,A very thin stream of clean water is sliding down the road shoulder. This slow trickle started sometime yesterday and has been flowing at a constant low rate.,pipe_leak,61,images/trickle_04.jpg
+R-2691,2026-09-05T16:39:16,12.998403,79.168124,Stagnant rainwater is collecting in a massive pool by the playground because of the heavy rain.,waterlogging,38,images/waterlog_08.jpg
+R-2692,2026-09-05T16:43:01,12.964919,79.149984,The grassy strip near the alley entrance is squishy and soaked through. Water has been slowly weeping from the soil there since Sunday with no precipitation.,pipe_leak,62,images/trickle_02.jpg
+R-2693,2026-09-05T16:43:44,12.981953,79.144737,"Critical emergency: Major subterranean pipe break resulting in an aggressive, heavy flow that is tearing the asphalt to pieces.",water_main_leak,81,images/burst_04.jpg
+R-2694,2026-09-05T16:44:57,12.981782,79.144944,Danger! Water main just ruptured on 10th Ave near the station. High pressure water is blasting right out of the asphalt.,pipe_leak,81,images/burst_03.jpg
+R-2695,2026-09-05T17:00:32,12.982057,79.145106,"Water is bubbling up aggressively through splitting blacktop near the train station, signaling an urgent main failure.",water_main_leak,83,images/burst_08.jpg
+R-2696,2026-09-05T17:04:18,12.987209,79.161082,Slow drainage after the heavy rain means cars are pushing waves of water across the lane.,waterlogging,36,images/waterlog_07.jpg
+R-2697,2026-09-05T17:04:31,12.990028,79.15991,A minor perpetual puddle has formed right on the blacktop over the water line. It refuses to evaporate and has been sitting there continuously for two days.,pipe_leak,48,images/trickle_02.jpg
+R-2698,2026-09-05T17:04:40,12.955054,79.13498,"Severe sewer overflow happening right now, dirty water is spilling into the street and smelling awful.",sewer_overflow,70,images/drain_03.jpg
+R-2699,2026-09-05T17:07:11,13.001777,79.173907,"Just a touch of dampness on the ground after the rain cleared, everything is moving normally.",wet_road,22,images/wetroad_01.jpg
+R-2700,2026-09-05T17:12:33,12.990038,79.160009,The side street asphalt stays glistening and wet in a specific spot. A slow underground leak has been active there since Saturday evening with clear skies.,pipe_leak,48,images/trickle_03.jpg
+R-2701,2026-09-05T17:15:17,12.976592,79.170689,"The asphalt is holding onto some moisture from the rain, causing mild tire swish as cars pass.",wet_road,33,images/wetroad_04.jpg
+R-2702,2026-09-05T17:18:23,12.995962,79.179635,Standing puddles across the lane are masking deep potholes following yesterday's heavy rain.,waterlogging,38,images/waterlog_03.jpg
+R-2703,2026-09-05T17:19:37,12.965025,79.149943,Water keeps bubbling up in tiny amounts through a fracture in the street. It has created a small permanent puddle that will not go away.,pipe_leak,56,images/trickle_06.jpg
+R-2704,2026-09-05T17:20:17,12.989546,79.134104,Cracked pavement on the walking bridge over the creek has sharp edges sticking straight up.,normal_road,14,images/noise_05.jpg
+R-2705,2026-09-05T17:22:14,12.965009,79.150032,The ground by the pedestrian ramp is mushy and water is standing still. It has been leaking from underneath for nearly forty eight hours straight.,pipe_leak,51,images/trickle_06.jpg
+R-2706,2026-09-05T17:26:03,12.985948,79.175363,Street flooded from storm downpours and the heavy rain has trapped residents inside their yards.,waterlogging,44,images/waterlog_04.jpg
+R-2707,2026-09-05T17:31:18,12.98199,79.144953,URGENT: Severe water line explosion on 28th Street. Water is gushing fiercely from the ground and trapping cars in deep water.,pipe_leak,84,images/burst_07.jpg
+R-2708,2026-09-05T17:32:33,12.99039,79.159339,Passing auto traffic is throwing up small amounts of water from the damp road surface.,wet_road,34,images/wetroad_04.jpg
+R-2709,2026-09-05T17:38:48,12.949975,79.174987,A gentle and continuous trickle is running along the gutter line. It began yesterday and has maintained the exact same slow pace despite the sunny weather.,pipe_leak,61,images/trickle_02.jpg
+R-2710,2026-09-05T17:43:19,12.990419,79.171556,"The heavy rain overloaded the local storm drains, leaving stagnant rainwater sitting across the avenue.",waterlogging,39,images/waterlog_03.jpg
+R-2711,2026-09-05T17:44:10,12.996565,79.178434,"The pavement is damp following the recent rain, creating a light mist behind fast drivers.",wet_road,39,images/wetroad_03.jpg
+R-2712,2026-09-05T17:45:26,12.984783,79.157848,Slow drainage is causing the street to stay flooded long after the heavy rain cleared out.,waterlogging,42,images/waterlog_02.jpg
+R-2713,2026-09-05T17:52:03,12.984902,79.175618,Standing puddles across the lane are splashing cyclists as heavy rain runoff refuses to drain.,waterlogging,45,images/waterlog_03.jpg
+R-2714,2026-09-05T17:52:38,12.982161,79.144969,hey the street just cracked in half cuz a big water pipe blew underneath and its shooting water way up in the air.,water_main_leak,88,images/burst_07.jpg
+R-2715,2026-09-05T17:56:01,12.987611,79.164348,"Some damp patches remaining on the street after the weather front, traffic is flowing fine.",wet_road,21,images/wetroad_02.jpg
+R-2716,2026-09-05T17:57:16,12.981158,79.164507,Street flooded from storm backup and the heavy rain left a greasy layer of water everywhere.,waterlogging,30,images/waterlog_05.jpg
+R-2717,2026-09-05T18:04:53,12.981824,79.144993,Urgent notification: Catastrophic water line explosion producing a high-velocity jet that is actively fracturing the road structure.,water_main_leak,83,images/burst_04.jpg
+R-2718,2026-09-05T18:11:39,12.951194,79.188472,Weird dark slime streak across the left lane of Miller avenue right near the bakery.,normal_road,16,images/noise_05.jpg
+R-2719,2026-09-05T18:13:26,12.981893,79.144902,"A huge water main collapsed beneath the downtown square, causing water to gush in heavy waves and submerge the crosswalks.",water_main_leak,93,images/burst_04.jpg
+R-2720,2026-09-05T18:24:08,12.955067,79.134818,The storm drain by the park is plugged with sticks and mud. Dirty water is pooling all over the walking path.,drain_blockage,62,images/drain_04.jpg
+R-2721,2026-09-05T18:24:58,12.982089,79.144902,omg a water pipe just broke on cedar street and its gushing so much water the whole intersection is turning into a river.,water_main_leak,84,images/burst_08.jpg
+R-2722,2026-09-05T18:25:00,12.982106,79.144871,High-priority incident: Severe subterranean pipe rupture generating a torrential overflow that is rapidly eroding the road base.,water_main_leak,88,images/burst_03.jpg
+R-2723,2026-09-05T18:34:50,12.944522,79.154046,Cluster of small jagged potholes forming right where cars turn into the grocery store lot.,normal_road,23,images/noise_03.jpg
+R-2724,2026-09-05T18:35:51,12.981793,79.144859,Help fast! Underground pipe gave way at the corner of 4th and Main. Water is shooting six feet in the air and flooding storefronts.,pipe_leak,83,images/burst_03.jpg
+R-2725,2026-09-05T18:38:28,12.998882,79.156299,Streetlight wire is hanging low out of the cracked base near the elementary school playground.,normal_road,7,images/noise_02.jpg
+R-2726,2026-09-05T18:40:01,12.981839,79.144772,"Water is bubbling up violently through large cracks in the asphalt near the market, indicating a major underground pipe blowout.",water_main_leak,88,images/burst_01.jpg
+R-2727,2026-09-05T18:41:27,12.981929,79.144968,"Critical water main failure on 31st Ave. Water is gushing out with intense pressure, tearing up the asphalt and causing rapid flooding.",pipe_leak,87,images/burst_04.jpg
+R-2728,2026-09-05T18:46:26,12.981959,79.144957,"Critical infrastructure warning: Sub-surface water main has given way, producing an intense vertical jet that is shredding the road surface.",water_main_leak,91,images/burst_07.jpg
+R-2729,2026-09-05T18:51:17,12.981997,79.1452,yo a main pipe literally just imploded by the bank and water is shooting up so high while the blacktop completely fractures.,water_main_leak,89,images/burst_05.jpg
+R-2730,2026-09-05T18:57:17,12.990066,79.159982,The soil beside our front walkway is entirely saturated and soft. Water has been slowly weeping from the ground there for over a day now.,pipe_leak,48,images/trickle_02.jpg
+R-2731,2026-09-05T18:59:51,12.982056,79.144832,Immediate intervention required: Catastrophic underground pipe rupture unleashing a heavy deluge that is swiftly washing away the asphalt.,water_main_leak,89,images/burst_07.jpg
+R-2732,2026-09-05T19:02:15,12.965071,79.14999,A tiny pool of water has been sitting on the intersection corner since Saturday. It is fed by a very slow underground pipe leak with zero rain involved.,pipe_leak,42,images/trickle_02.jpg
+R-2733,2026-09-05T19:02:44,12.981869,79.144894,"Water is bubbling up aggressively through expanding fissures in the street on 14th Street, signaling a severe main line failure.",water_main_leak,89,images/burst_05.jpg
+R-2734,2026-09-05T19:05:20,12.981895,79.144912,man a massive water line burst right outside the school and water is gushing like crazy while the whole road buckles.,water_main_leak,85,images/burst_05.jpg
+R-2735,2026-09-05T19:17:27,12.98999,79.159961,The pavement joint right outside the garage is leaking a little bit of clear water. It forms a small standing pool that stays there day and night.,pipe_leak,44,images/trickle_05.jpg
+R-2736,2026-09-05T19:19:18,12.981808,79.14496,Emergency on Oak Street: a massive water pipe blew apart underground. Water is rushing out in heavy torrents and blocking traffic.,pipe_leak,93,images/burst_03.jpg
+R-2737,2026-09-05T19:22:17,12.982293,79.144719,"Urgent situation on Pinecrest Drive. An underground water main burst open, and water is blasting through the street with tremendous force.",pipe_leak,88,images/burst_05.jpg
+R-2738,2026-09-05T19:25:41,12.949979,79.175001,A slow underground leak is keeping a section of the lane permanently wet. It has been trickling for a day and a half with no storms in the forecast.,pipe_leak,60,images/trickle_02.jpg
+R-2739,2026-09-05T19:30:12,12.949954,79.175065,The dirt patch around the park signpost is completely muddy. It has been holding a shallow puddle since Sunday morning without any rain.,pipe_leak,61,images/trickle_03.jpg
+R-2740,2026-09-05T19:31:15,13.005066,79.164831,Standing water is pooling near the storm drain on Walnut Ave because the grates are jammed with gravel.,drain_blockage,61,images/drain_05.jpg
+R-2741,2026-09-05T19:33:07,13.004958,79.16487,A mix of black waste water and muck is pushing past the manhole cover onto the sidewalk.,sewer_overflow,65,images/drain_05.jpg
+R-2742,2026-09-05T19:34:09,12.953967,79.184227,Trash bags ripped open by raccoons are spilling garbage all over the sidewalk on Cedar street.,normal_road,8,images/noise_02.jpg
+R-2743,2026-09-05T19:35:52,12.982164,79.145003,Severe pipe rupture beneath the road on 17th St. Gushing water is pooling rapidly and threatening to flood basement apartments.,pipe_leak,95,images/burst_01.jpg
+R-2744,2026-09-05T19:45:29,12.982189,79.145094,Emergency dispatch needed: Major subterranean pipe break creating a powerful fountain that is tearing the pavement to pieces.,water_main_leak,83,images/burst_04.jpg
+R-2745,2026-09-05T19:45:39,12.95005,79.174951,Water is slowly seeping out from beneath the concrete slab near the fence. It has formed a steady little puddle that simply refuses to dry.,pipe_leak,40,images/trickle_05.jpg
+R-2746,2026-09-05T19:47:12,12.981762,79.145163,"Water is shooting straight out of cracked tarmac on Pine Road, generating a rapid flash flood that is submerging vehicles.",water_main_leak,83,images/burst_04.jpg
+R-2747,2026-09-05T19:49:05,12.982061,79.145003,CRITICAL: Water main blew right open on 24th Avenue. High pressure water is shooting through the blacktop like a broken fire hydrant.,pipe_leak,91,images/burst_06.jpg
+R-2748,2026-09-05T19:50:48,12.944997,79.145092,The drainage grate is completely blocked with plastic bottles and cups. Water is backing up and flooding the curb.,drain_blockage,59,images/drain_01.jpg
+R-2749,2026-09-05T19:53:41,12.981825,79.14521,"hey someone needs to get out here quick, a big pipe blew under the street and its gushing water everywhere so fast.",water_main_leak,87,images/burst_03.jpg
+R-2750,2026-09-05T19:58:51,12.981819,79.145258,"Severe main line failure: An overwhelming volume of water is flooding out of deep cracks in the ground, causing immediate roadway collapse.",water_main_leak,94,images/burst_08.jpg
+R-2751,2026-09-05T20:00:46,12.975076,79.154845,A manhole is overflowing with black waste water right by the bus stop. The smell is stomach turning.,sewer_overflow,67,images/drain_01.jpg
+R-2752,2026-09-05T20:06:11,12.951813,79.163178,Scared golden retriever puppy wandering without a collar around the municipal parking garage.,normal_road,17,images/noise_01.jpg
+R-2753,2026-09-05T20:26:11,12.954932,79.135161,Clogged storm drain on 14th Ave. Nasty grey water is pooling around the cover and overflowing the gutter.,drain_blockage,72,images/drain_03.jpg
+R-2754,2026-09-05T20:36:13,12.942748,79.131389,Yield sign is spun around backward so incoming traffic has no idea they need to slow down.,normal_road,16,images/noise_02.jpg
+R-2755,2026-09-05T20:39:27,12.990722,79.173065,Uneven paving blocks outside the post office are creating a major trip hazard for visitors.,normal_road,16,images/noise_02.jpg
+R-2756,2026-09-05T20:45:16,13.003664,79.149158,"Slick coolant spill covering half the intersection at Oak and 8th street, getting very slippery.",normal_road,9,images/noise_03.jpg
+R-2757,2026-09-05T20:46:15,12.989985,79.159939,The shoulder of the road has a wet patch that wont dry out at all. A tiny trickle has been coming up from beneath the street since yesterday morning.,pipe_leak,53,images/trickle_02.jpg
+R-2758,2026-09-05T20:53:18,12.965039,79.149941,A faint stream of water is creeping across the sidewalk flags. It has been flowing constantly since Saturday afternoon despite the completely dry air.,pipe_leak,43,images/trickle_05.jpg
+R-2759,2026-09-05T20:55:47,12.950055,79.175103,The ground near the telephone pole is totally waterlogged. A slow leak has been pooling there for over twenty four hours with no rain in sight.,pipe_leak,62,images/trickle_04.jpg
+R-2760,2026-09-05T21:08:08,12.990028,79.160004,Water has been gently weeping onto the pathway for two full days now. There has been no rain so it has to be a minor pipe break below.,pipe_leak,54,images/trickle_03.jpg
+R-2761,2026-09-05T21:22:53,12.964316,79.133472,Couple of deep ruts in the gravel alley behind Market street popping tires on delivery vans.,normal_road,7,images/noise_06.jpg
+R-2762,2026-09-05T21:26:27,12.945006,79.14506,The storm drain grate is choked with garden waste. Water is backing up and creating a deep puddle in the alley.,drain_blockage,64,images/drain_06.jpg
+R-2763,2026-09-05T21:30:29,12.990011,79.160023,A small continuous stream is flowing into the storm drain from the curb. It has been trickling slowly since yesterday with clear skies overhead.,pipe_leak,60,images/trickle_04.jpg
+R-2764,2026-09-05T21:31:47,13.003925,79.169511,Decorative globe light on the pedestrian pathway is completely shattered with glass on the ground.,normal_road,25,images/noise_05.jpg
+R-2765,2026-09-05T21:36:12,12.955119,79.135073,Disgusting foul smelling sludge is backing up onto the pavement from a loose sewer cap.,sewer_overflow,78,images/drain_06.jpg
+R-2766,2026-09-05T21:55:34,12.968228,79.170848,Pile of cut tree limbs left blocking nearly the entire width of the footpath on 14th street.,normal_road,8,images/noise_01.jpg
+R-2767,2026-09-05T21:58:33,13.009647,79.16,Little black chihuahua running loose through traffic near the highway offramp on Broad street.,normal_road,9,images/noise_04.jpg
+R-2768,2026-09-05T22:07:12,12.990124,79.159903,The asphalt in front of the convenience store has a damp circle that stays. It has been weeping water slowly for almost forty eight hours.,pipe_leak,43,images/trickle_06.jpg
+R-2769,2026-09-05T22:16:24,12.994941,79.184971,Dark contaminated water is flooding the gutter from the manhole near my apartment. Smells terrible.,sewer_overflow,65,images/drain_04.jpg
+R-2770,2026-09-05T22:21:43,13.004576,79.176804,Speed limit sign is dangling by a single rusted screw and swaying heavily in the wind.,normal_road,24,images/noise_06.jpg
+R-2771,2026-09-05T22:24:48,12.942302,79.177917,Big jagged crater in the tarmac right by the storm drain on 6th avenue needs patching.,normal_road,16,images/noise_04.jpg
+R-2772,2026-09-05T22:35:42,12.955,79.135208,"The storm drain near the community center is choked with old newspapers and plastic cups, causing a nasty puddle of grey water to form.",drain_blockage,56,images/drain_05.jpg
+R-2773,2026-09-05T22:38:54,12.946554,79.140266,Unexplained damp patch on the brick walkway by the cafe stays wet even during dry spells.,normal_road,13,images/noise_01.jpg
+R-2774,2026-09-05T22:39:28,13.001797,79.169863,Bad patch job on the roadway near the roundabout is already crumbling back into gravel.,normal_road,15,images/noise_01.jpg
+R-2775,2026-09-05T22:49:19,12.975276,79.154881,Water is backing up onto the sidewalk because the drainage grate is completely blocked by hardened clay and weeds.,drain_blockage,77,images/drain_05.jpg
+R-2776,2026-09-05T22:51:14,12.994944,79.18495,"A pile of discarded lumber is sitting directly on top of the storm drain on 2nd Street, and dirty water is pooling everywhere.",drain_blockage,59,images/drain_02.jpg
+R-2777,2026-09-05T22:57:08,12.992408,79.1588,Broken glass from a car window spread all over the sidewalk outside the community theater.,normal_road,24,images/noise_02.jpg
+R-2778,2026-09-05T23:08:18,12.965049,79.150092,A tiny constant trickle is coming up from underneath the road surface. The puddle has been sitting there since Saturday without evaporating.,pipe_leak,53,images/trickle_04.jpg
+R-2779,2026-09-05T23:15:32,12.964982,79.149983,The side street curb is slick and wet from a slow underground leak. It has been damp continuously since Sunday afternoon with zero precipitation.,pipe_leak,59,images/trickle_06.jpg
+R-2780,2026-09-05T23:24:00,13.004973,79.164835,"The catch basin on Miller Ave has its grates jammed with broken glass and trash, and water won't go down.",drain_blockage,56,images/drain_05.jpg
+R-2781,2026-09-05T23:25:06,13.001047,79.174735,Hungry looking calico cat hanging around the benches at the bus terminal every morning.,normal_road,25,images/noise_05.jpg
+R-2782,2026-09-05T23:26:52,12.990036,79.159946,A quiet little pool of water has just been sitting on the blacktop for over a day. There hasnt been any rain so it must be a slow underground pipe leak.,pipe_leak,46,images/trickle_01.jpg
+R-2783,2026-09-05T23:33:51,12.964956,79.149996,Water keeps bubbling up ever so slightly right by the edge of the driveway. The resulting puddle hasn't dried up once since yesterday morning.,pipe_leak,56,images/trickle_04.jpg
+R-2784,2026-09-05T23:36:54,12.974929,79.155089,Standing water is accumulating around the clogged storm drain cover on Broadway. The slots are packed with thick mud.,drain_blockage,55,images/drain_01.jpg
+R-2785,2026-09-05T23:57:33,12.96502,79.149869,The grassy patch next to the municipal sign is completely soaked through. A tiny trickle has been oozing from the ground there for nearly two days straight.,pipe_leak,59,images/trickle_03.jpg
+R-2786,2026-09-06T00:05:51,12.989964,79.159977,A faint thread of clear water is sliding down the street gutter continuously. It started around Saturday noon and hasn't stopped despite the hot sun.,pipe_leak,56,images/trickle_01.jpg
+R-2787,2026-09-06T00:15:48,12.99525,79.15787,One way arrow sign is completely twisted around and pointing the wrong direction on 1st street.,normal_road,14,images/noise_03.jpg
+R-2788,2026-09-06T00:25:19,12.945005,79.145002,Raw sewage is bubbling over the edge of the street drain and running across the crosswalk.,sewer_overflow,63,images/drain_05.jpg
+R-2789,2026-09-06T00:30:27,12.976889,79.184913,An annoying depression in the road surface near the postal box keeps collecting standing water and splashing pedestrians.,normal_road,18,images/noise_05.jpg
+R-2790,2026-09-06T00:38:58,12.995064,79.184987,Hey the drain on 16th is blocked solid with autumn foliage. Filthy water is backing up into the bike lane.,drain_blockage,73,images/drain_01.jpg
+R-2791,2026-09-06T00:43:28,13.00489,79.165004,There is a massive sewer overflow spilling filthy black liquid onto the intersection. Awful odor.,sewer_overflow,63,images/drain_02.jpg
+R-2792,2026-09-06T00:47:57,12.965032,79.149869,The soil around the curb stop box is super mushy and full of standing water. It has been like this for over twenty four hours with zero precipitation.,pipe_leak,51,images/trickle_03.jpg
+R-2793,2026-09-06T00:50:56,12.965034,79.150036,An annoying little wet spot on the asphalt refuses to evaporate. A slow underground leak has been feeding it since Sunday afternoon without any storms.,pipe_leak,50,images/trickle_02.jpg
+R-2794,2026-09-06T01:02:34,13.005481,79.172116,The overhead luminaire above the park pathway has been dead for weeks leaving the whole area pitch black.,normal_road,20,images/noise_02.jpg
+R-2795,2026-09-06T01:05:04,12.964987,79.14999,Water is slowly weeping past the concrete seam near the crosswalk. This minor trickle has been active for a full day and a half in completely dry weather.,pipe_leak,47,images/trickle_03.jpg
+R-2796,2026-09-06T01:09:44,12.974492,79.136762,Someone dumped a rusted bicycle and busted lawnmower right on the parkway strip along Elmwood.,normal_road,9,images/noise_02.jpg
+R-2797,2026-09-06T01:11:06,13.00503,79.165009,The drainage grate near the coffee shop is sealed shut with silt and coffee grounds. Water is pooling right by the door.,drain_blockage,77,images/drain_01.jpg
+R-2798,2026-09-06T01:11:17,12.954956,79.134962,Storm drain on Riverside Drive is plugged with driftwood and river silt. Water is backing up over the curb.,drain_blockage,68,images/drain_02.jpg
+R-2799,2026-09-06T01:22:18,12.994992,79.184979,Manhole is literally vomiting dark waste water onto the street. Needs an emergency crew.,sewer_overflow,65,images/drain_05.jpg
+R-2800,2026-09-06T01:25:26,12.989984,79.16011,The earth right outside the park gate is turned into a muddy little marsh. It has been holding standing water since Saturday with no rain at all.,pipe_leak,41,images/trickle_01.jpg
+R-2801,2026-09-06T01:27:32,12.964993,79.149939,A very thin stream of water is creeping across the pedestrian walkway. It began flowing yesterday and keeps going at the exact same slow pace.,pipe_leak,47,images/trickle_05.jpg
+R-2802,2026-09-06T01:33:27,12.964938,79.149937,The shoulder of the road stays dark and damp right over the main utility line. A slow pipe leak has been keeping that spot wet since Sunday.,pipe_leak,47,images/trickle_02.jpg
+R-2803,2026-09-06T01:40:32,13.00497,79.165132,Gross sewage backup is pooling on the sidewalk outside our building. Stinks to high heaven.,sewer_overflow,73,images/drain_05.jpg
+R-2804,2026-09-06T01:48:50,12.955068,79.135033,Dirty brown wastewater is gushing out of the storm drain and spreading across the parking lot.,sewer_overflow,70,images/drain_01.jpg
+R-2805,2026-09-06T01:53:32,12.975147,79.155018,Dirty water is pooling near the storm drain cover outside the gym because the grates are choked with discarded towels and wrappers.,drain_blockage,67,images/drain_06.jpg
+R-2806,2026-09-06T02:02:25,12.963244,79.143592,Large German shepherd roaming around the school zone off 5th without a leash looking lost.,normal_road,17,images/noise_05.jpg
+R-2807,2026-09-06T02:06:09,12.964997,79.150046,A tiny constant trickle is coming up through a crack in the side street. The resulting puddle has been sitting there for two full days without any rain.,pipe_leak,57,images/trickle_04.jpg
+R-2808,2026-09-06T02:10:14,12.944836,79.145004,The catch basin is completely hidden under a heap of wet cardboard. Standing water is backing up into the street.,drain_blockage,63,images/drain_03.jpg
+R-2809,2026-09-06T02:18:23,12.954726,79.135003,An overflowing manhole on 4th street is sending foul smelling sludge right into traffic.,sewer_overflow,70,images/drain_03.jpg
+R-2810,2026-09-06T02:24:31,12.990049,79.159874,The ground near the utility pole is squishy and soaked with clean water. A slow underground leak has been pooling there since Saturday evening.,pipe_leak,49,images/trickle_02.jpg
+R-2811,2026-09-06T02:29:21,12.94498,79.144995,Blocked storm drain on 3rd Avenue. Nasty water is pooling near the crosswalk and splashing pedestrians.,drain_blockage,54,images/drain_05.jpg
+R-2812,2026-09-06T02:34:06,12.965027,79.150109,Water has been gently oozing from beneath the curb for over a day now. The weather is bone dry so it is definitely a minor underground leak.,pipe_leak,46,images/trickle_01.jpg
+R-2813,2026-09-06T02:44:23,12.967382,79.150273,The parking directional arrow sign is knocked completely flat against the metal post.,normal_road,11,images/noise_04.jpg
+R-2814,2026-09-06T02:44:54,12.981479,79.151818,Heaved concrete slabs near the bus shelter entrance are causing people with strollers to trip.,normal_road,17,images/noise_03.jpg
+R-2815,2026-09-06T02:53:36,13.003421,79.165379,Strange slick puddle of unknown fluid right in the center of the turning lane by the car wash.,normal_road,22,images/noise_05.jpg
+R-2816,2026-09-06T02:55:30,12.99486,79.184976,Black sludge and contaminated water are backing up through the grate. The stench is unbearable.,sewer_overflow,75,images/drain_05.jpg
+R-2817,2026-09-06T03:04:52,12.995019,79.184982,The sewer main is overflowing and pushing dirty water out onto the pedestrian path.,sewer_overflow,65,images/drain_04.jpg
+R-2818,2026-09-06T03:17:42,12.945086,79.144992,The drain grate is jammed with gravel and asphalt bits from road work. Water is backing up and creating a huge puddle.,drain_blockage,57,images/drain_05.jpg
+R-2819,2026-09-06T03:18:45,12.96502,79.150024,The asphalt in front of the community center has a damp circle that never leaves. It has been weeping water slowly for almost forty eight hours.,pipe_leak,45,images/trickle_03.jpg
+R-2820,2026-09-06T03:27:12,13.00814,79.167548,Three jagged holes clustered together right at the exit of the municipal pool parking lot.,normal_road,6,images/noise_03.jpg
+R-2821,2026-09-06T03:47:14,12.989985,79.160086,A weird little stream of water is trickling down the edge of the lane. Looks like a slow pipe leak that began sometime over the weekend.,pipe_leak,41,images/trickle_02.jpg
+R-2822,2026-09-06T03:49:13,12.98661,79.18828,Exposed electrical wires dangling from the base of a downed street sign on Washington boulevard.,normal_road,19,images/noise_01.jpg
+R-2823,2026-09-06T03:50:19,12.95503,79.134909,Raw sewage leak is flooding the curb with foul waste water and making the whole block smell.,sewer_overflow,76,images/drain_05.jpg
+R-2824,2026-09-06T03:56:41,12.974039,79.169421,Dumpster overflow at the alley behind the bakery is spilling food waste all over the walkway.,normal_road,12,images/noise_05.jpg
+R-2825,2026-09-06T03:58:35,12.954961,79.134995,There is a clogged storm drain on Spruce Street. The grates are plugged with pine needles and stagnant water is pooling.,drain_blockage,60,images/drain_06.jpg
+R-2826,2026-09-06T03:59:39,12.974013,79.178131,White terrier mix running frantically through traffic near the freeway entrance ramp.,normal_road,11,images/noise_06.jpg
+R-2827,2026-09-06T04:13:48,12.974854,79.155039,Drain cover on 9th St is buried under trash. Water is backing up and flooding the entire intersection edge.,drain_blockage,61,images/drain_02.jpg
+R-2828,2026-09-06T04:21:04,12.995013,79.185204,Manhole cover popped off and dark filthy water is rushing out onto the tarmac.,sewer_overflow,79,images/drain_01.jpg
+R-2829,2026-09-06T04:30:15,12.989959,79.160026,The grassy median is totally waterlogged and squishy under foot. It has been oozing water steadily since Sunday morning with no rain.,pipe_leak,52,images/trickle_01.jpg
+R-2830,2026-09-06T04:30:57,12.955007,79.134892,The storm drain by the fire hydrant is plugged with thick mud and leaves. Dirty water is pooling near the curb.,drain_blockage,79,images/drain_01.jpg
+R-2831,2026-09-06T04:39:00,12.956906,79.169027,Street name plaque for Lincoln way is completely obscured by overgrown maple branches.,normal_road,14,images/noise_02.jpg
+R-2832,2026-09-06T04:49:35,12.964938,79.150037,A small puddle by the postal box has stayed the exact same size for two days. No rain lately so it must be a cracked pipe underneath the pavement.,pipe_leak,59,images/trickle_06.jpg
+R-2833,2026-09-06T05:01:26,13.004765,79.165204,Water is pooling deep around the storm drain cover because the slots are jammed with Styrofoam containers.,drain_blockage,62,images/drain_04.jpg
+R-2834,2026-09-06T05:07:23,12.940845,79.147296,Badly crumbled edge of the asphalt near the curb leaves a dangerous drop-off for cyclists.,normal_road,15,images/noise_02.jpg
+R-2835,2026-09-06T05:07:24,12.990834,79.153054,Greasy fluid stain spread across the right lane of 4th street making tires slip.,normal_road,15,images/noise_05.jpg
+R-2836,2026-09-06T05:24:26,12.945095,79.145183,Disgusting sewage water is backing up onto the sidewalk near the park entrance. Very strong odor.,sewer_overflow,61,images/drain_06.jpg
+R-2837,2026-09-06T05:52:35,12.998425,79.140804,Deep tire ruts carved into the unpaved shoulder of farm road 12 after yesterday's delivery trucks.,normal_road,23,images/noise_03.jpg
+R-2838,2026-09-06T05:53:04,12.986191,79.177349,Streetlight fixture is hanging completely sideways by its power cord over the sidewalk.,normal_road,18,images/noise_05.jpg
+R-2839,2026-09-06T06:13:02,12.989578,79.15133,Abandoned sofa left right on the grassy verge outside the apartment complex.,normal_road,19,images/noise_06.jpg
+R-2840,2026-09-06T06:13:08,12.954816,79.13517,Clogged storm drain on Horizon Blvd. The grates are packed with weeds and water is backing up onto the path.,drain_blockage,79,images/drain_04.jpg
+R-2841,2026-09-06T06:15:14,12.97484,79.155022,The drainage grate is choked with dirt and plastic bags. Water is backing up and forming a large mosquito breeding puddle.,drain_blockage,68,images/drain_06.jpg
+R-2842,2026-09-06T06:19:53,12.945029,79.145052,Overflowing drainage system is dumping murky black liquid onto the road. Please dispatch someone.,sewer_overflow,72,images/drain_06.jpg
+R-2843,2026-09-06T06:27:20,12.990046,79.160023,Water is bubbling up very slowly through a microscopic hole in the street. It has been flowing continuously since yesterday evening in dry weather.,pipe_leak,53,images/trickle_04.jpg
+R-2844,2026-09-06T06:46:36,12.944953,79.145014,Hey there is a blocked storm drain on King Street with water backing up into the parking spots.,drain_blockage,67,images/drain_03.jpg
+R-2845,2026-09-06T07:16:23,12.989985,79.160101,The side street pavement is dark and soaked in one specific spot. A slow trickle has been oozing up from a crack for nearly forty eight hours.,pipe_leak,55,images/trickle_02.jpg
+R-2846,2026-09-06T07:24:03,12.957276,79.170647,Agitated stray pitbull pacing back and forth near the playground swings on Cedar lane.,normal_road,17,images/noise_03.jpg
+R-2847,2026-09-06T07:39:12,12.965039,79.15008,There is a persistent little puddle that stays filled right by the alley entrance. It has been leaking slowly out of the ground since Saturday.,pipe_leak,56,images/trickle_05.jpg
+R-2848,2026-09-06T07:39:23,12.952956,79.135511,Pedestrian crossing sign is bent in half after apparently being clipped by a van.,normal_road,6,images/noise_04.jpg
+R-2849,2026-09-06T07:47:02,12.989901,79.159915,The dirt patch near the fire hydrant is completely muddy and waterlogged. It has been holding standing water since Sunday without any storms.,pipe_leak,54,images/trickle_01.jpg
+R-2850,2026-09-06T07:50:38,12.975033,79.154991,The catch basin grate is sealed tight with packed mulch. Water is pooling right in front of the driveway.,drain_blockage,69,images/drain_01.jpg
+R-2851,2026-09-06T08:00:26,12.964922,79.149974,A soft soggy patch has formed right beside our apartment complex wall. Water has been gently weeping from the ground there since Saturday night.,pipe_leak,42,images/trickle_03.jpg
+R-2852,2026-09-06T08:01:36,12.989997,79.159904,The asphalt by the school crossing is always wet lately. A tiny trickle has been coming up from underneath for the past two days with clear skies.,pipe_leak,55,images/trickle_05.jpg
+R-2853,2026-09-06T08:07:38,12.990039,79.160047,There is a minor continuous leak running slowly into the storm drain. It has been trickling at the exact same slow pace since yesterday morning.,pipe_leak,51,images/trickle_04.jpg
+R-2854,2026-09-06T08:19:17,12.965264,79.188435,Severe frost heave on the walking path behind the library needs immediate leveling.,normal_road,10,images/noise_02.jpg
+R-2855,2026-09-06T08:21:51,13.005056,79.16493,Water is pooling near the storm drain on Union Ave because someone dumped yard waste right over the grates.,drain_blockage,73,images/drain_01.jpg
+R-2856,2026-09-06T08:27:54,12.985435,79.178296,Weird swampy damp patch on the pavement next to the city bench that smells stale.,normal_road,20,images/noise_05.jpg
+R-2857,2026-09-06T08:31:09,12.954957,79.135099,Street manhole is bubbling over with foul smelling wastewater. It is making people gag.,sewer_overflow,73,images/drain_04.jpg
+R-2858,2026-09-06T08:40:39,12.944953,79.144898,Dark contaminated water is spilling out of the sewer cap and pooling by the storefronts.,sewer_overflow,61,images/drain_01.jpg
+R-2859,2026-09-06T08:43:24,12.978734,79.130783,Large pothole hidden beneath a pile of wet leaves right on the curve of Oakridge drive.,normal_road,21,images/noise_01.jpg
+R-2860,2026-09-06T08:48:27,12.944935,79.145056,The storm drain grate on 11th Street is covered in soda cans and bags. Filthy water is backing up into the lane.,drain_blockage,66,images/drain_02.jpg
+R-2861,2026-09-06T09:02:11,12.944964,79.14515,Blocked drain cover on Fox Road. Stagnant water is pooling all over the sidewalk and smelling foul.,drain_blockage,62,images/drain_03.jpg
+R-2862,2026-09-06T09:21:08,12.973816,79.158153,Decorative lamppost is leaning precariously after a minor fender bender in the cul-de-sac.,normal_road,15,images/noise_05.jpg
+R-2863,2026-09-06T09:21:50,12.99001,79.160038,The pavement close to the corner store has a dark wet spot that remains all day. A tiny leak has been feeding a shallow puddle there since yesterday.,pipe_leak,45,images/trickle_03.jpg
+R-2864,2026-09-06T09:37:27,12.955121,79.134938,"Severe sewage backup on elm street, dirty black water is running down the gutter.",sewer_overflow,63,images/drain_06.jpg
+R-2865,2026-09-06T09:41:00,12.989998,79.160005,A very thin stream of clean water has been sliding down the alley shoulder for over a day. The weather is totally bone dry so it must be a slow pipe leak.,pipe_leak,40,images/trickle_06.jpg
+R-2866,2026-09-06T09:46:19,12.95496,79.135243,Manhole is spewing foul liquid across the pavement. The odor is drifting for blocks.,sewer_overflow,52,images/drain_04.jpg
+R-2867,2026-09-06T09:51:47,13.003517,79.136159,Huge stack of broken wooden pallets dumped illegally beside the community center fence.,normal_road,8,images/noise_03.jpg
+R-2868,2026-09-06T10:01:00,13.004865,79.164826,There is a clogged storm drain near the hospital entrance. Grates are plugged with dirt and water is pooling.,drain_blockage,58,images/drain_03.jpg
+R-2869,2026-09-06T10:08:08,12.994113,79.132279,Skinny orange stray cat hanging out by the recycling bins behind the diner.,normal_road,7,images/noise_03.jpg
+R-2870,2026-09-06T10:10:26,12.99519,79.185134,Standing water is pooling right over the drain cover because the slots are jammed with heavy silt.,drain_blockage,73,images/drain_05.jpg
+R-2871,2026-09-06T10:33:02,12.994943,79.185053,Filthy grey waste water is overflowing from the street drain and creating a nasty hazard.,sewer_overflow,73,images/drain_01.jpg
+R-2872,2026-09-06T10:44:50,12.964966,79.150045,The grassy strip near the neighborhood sign is completely saturated and squishy. Water has been slowly weeping from the ground there since Sunday with zero rain.,pipe_leak,59,images/trickle_02.jpg
+R-2873,2026-09-06T11:42:40,12.965027,79.150041,A minor perpetual puddle has formed right on the blacktop above the main utility line. It refuses to evaporate and has been sitting there continuously for two days.,pipe_leak,60,images/trickle_01.jpg
+R-2874,2026-09-06T12:15:24,12.989996,79.160085,The side street asphalt stays glistening and wet in one exact spot. A slow underground leak has been active there since Saturday evening with completely clear skies.,pipe_leak,53,images/trickle_03.jpg
+R-2875,2026-09-06T12:17:17,12.965078,79.150043,Water keeps bubbling up in tiny amounts through a small fracture in the street. It has created a permanent puddle that will not go away despite the warm weather.,pipe_leak,59,images/trickle_06.jpg
+R-2876,2026-09-06T12:38:22,13.005139,79.165047,Raw sewage is gushing from the manhole near the alley. Smells like total garbage out here.,sewer_overflow,62,images/drain_03.jpg
+R-2877,2026-09-06T12:45:49,12.989919,79.160063,The ground by the neighborhood bus stop is super mushy and water is standing still. It has been leaking from underneath for nearly forty eight hours straight.,pipe_leak,49,images/trickle_05.jpg
+R-2878,2026-09-06T12:46:20,13.005183,79.164984,The drain on Oxford Street is stuffed with old clothing items. Nasty water is pooling near the curb and spilling onto the road.,drain_blockage,55,images/drain_06.jpg
+R-2879,2026-09-06T12:48:01,12.975104,79.155125,Standing water is pooling around the storm drain cover by the stadium because the slots are jammed with crushed stone.,drain_blockage,76,images/drain_01.jpg
+R-2880,2026-09-06T12:49:44,12.995094,79.184971,Black wastewater is backing up onto the road surface from a blocked drainage line.,sewer_overflow,66,images/drain_03.jpg
+R-2881,2026-09-06T12:50:20,12.986924,79.163928,A deep crater formed in the asphalt right by the entrance of the hardware store parking lot.,normal_road,21,images/noise_05.jpg
+R-2882,2026-09-06T12:55:21,12.964972,79.150147,A gentle and continuous trickle is running along the curb line. It began yesterday and has maintained the exact same slow pace without any rain falling.,pipe_leak,51,images/trickle_03.jpg
+R-2883,2026-09-06T13:16:23,13.004828,79.164968,Clogged storm drain on 18th Ave. The grates are packed with dead grass and water is backing up onto the pavement.,drain_blockage,69,images/drain_05.jpg
+R-2884,2026-09-06T13:19:54,12.945178,79.144938,The drainage grate is completely blocked with foam takeout boxes. Water is backing up and flooding the pedestrian walkway.,drain_blockage,66,images/drain_01.jpg
+R-2885,2026-09-06T13:23:47,12.96509,79.149954,The soil beside our front hedge is entirely soaked and soft to the touch. Water has been slowly weeping from the ground there for over a full day now.,pipe_leak,49,images/trickle_04.jpg
+R-2886,2026-09-06T13:26:21,12.990035,79.160108,A tiny pool of water has been sitting on the intersection corner since Saturday. It is fed by a very slow underground pipe leak with zero precipitation involved.,pipe_leak,56,images/trickle_02.jpg
+R-2887,2026-09-06T13:27:40,12.948026,79.187299,The streetlamp over the crosswalk on Maple street has been flickering rapidly every evening.,normal_road,14,images/noise_04.jpg
+R-2888,2026-09-06T13:28:08,13.005013,79.164911,Hey the storm drain on 5th is plugged with branches and mud. Dirty water is pooling near the bus stop.,drain_blockage,63,images/drain_06.jpg
+R-2889,2026-09-06T13:41:20,12.965772,79.160685,Several bags of household trash were dumped on the grass median outside the public library.,normal_road,17,images/noise_06.jpg
+R-2890,2026-09-06T13:44:59,13.004929,79.164962,The sewer cap is overwhelmed and dirty water is flooding the sidewalk. Extremely gross.,sewer_overflow,59,images/drain_01.jpg
+R-2891,2026-09-06T13:56:03,12.990047,79.160015,The pavement joint right outside the plaza entrance is leaking a little bit of clear water. It forms a small standing pool that stays there day and night.,pipe_leak,45,images/trickle_04.jpg
+R-2892,2026-09-06T13:59:56,12.96504,79.149997,A slow underground leak is keeping a specific section of the residential lane permanently wet. It has been trickling for a day and a half with no storms in the forecast.,pipe_leak,51,images/trickle_05.jpg
+R-2893,2026-09-06T14:09:53,12.986798,79.150993,A frightened husky mix is wandering loose through the intersection of 7th and Cherry.,normal_road,16,images/noise_02.jpg
+R-2894,2026-09-06T14:14:46,12.989965,79.160036,The dirt patch around the community park signpost is completely muddy. It has been holding a shallow puddle since Sunday morning without a single drop of rain.,pipe_leak,55,images/trickle_02.jpg
+R-2895,2026-09-06T14:27:55,12.955021,79.134988,An overflowing manhole is sending a river of foul sludge across the bike path.,sewer_overflow,59,images/drain_05.jpg
+R-2896,2026-09-06T14:36:45,12.964967,79.149998,Water is slowly seeping out from beneath the concrete slab near the fence. It has formed a steady little puddle that simply refuses to dry up in the sun.,pipe_leak,52,images/trickle_05.jpg
+R-2897,2026-09-06T14:36:53,12.974982,79.155136,Dark murky waste water is bubbling up through the pavement and stinking up the neighborhood.,sewer_overflow,65,images/drain_01.jpg
+R-2898,2026-09-06T14:42:13,12.995078,79.18503,The catch basin grate is sealed tight with thick silt. Water is backing up and spilling over the sidewalk edge.,drain_blockage,67,images/drain_03.jpg
+R-2899,2026-09-06T14:42:49,12.94487,79.145112,Water is pooling deep near the storm drain cover because someone left a bag of mulch right on top of the grates.,drain_blockage,74,images/drain_03.jpg
+R-2900,2026-09-06T14:56:46,12.964974,79.150046,The shoulder of the road has a wet patch that won't dry out at all. A tiny trickle has been coming up from beneath the street since yesterday morning.,pipe_leak,53,images/trickle_06.jpg
+R-2901,2026-09-06T14:57:48,12.965065,79.149977,A faint stream of water is creeping across the sidewalk flags. It has been flowing constantly since Saturday afternoon despite the completely dry air.,pipe_leak,60,images/trickle_04.jpg
+R-2902,2026-09-06T15:04:04,12.991672,79.160444,The street name sign at the corner of Broadway is completely bent backwards and illegible.,normal_road,11,images/noise_06.jpg
+R-2903,2026-09-06T15:10:28,13.004986,79.164776,"That sewer cap on maple is totally overwhelmed, dark filthy water is rushing out onto the pavement.",sewer_overflow,65,images/drain_05.jpg
+R-2904,2026-09-06T15:12:47,12.964882,79.149998,The ground near the telephone pole is totally waterlogged and soft. A slow leak has been pooling there for over twenty four hours with no rain in sight.,pipe_leak,57,images/trickle_06.jpg
+R-2905,2026-09-06T15:25:59,12.995105,79.184745,Blocked storm drain on Franklin St. Filthy water is backing up and flooding the bike lane completely.,drain_blockage,66,images/drain_05.jpg
+R-2906,2026-09-06T15:33:00,12.968354,79.138386,Raised tree roots have pushed up the concrete sidewalk slabs creating a severe tripping hazard.,normal_road,21,images/noise_06.jpg
+R-2907,2026-09-06T15:42:47,12.955027,79.135072,"Yall need to come look at this manhole on pine, black stinky water is pooling everywhere.",sewer_overflow,64,images/drain_05.jpg
+R-2908,2026-09-06T15:56:03,13.004913,79.164979,Horrible stench of sewage hanging over the apartment complex because the manhole is spitting out dirty waste water.,sewer_overflow,60,images/drain_06.jpg
+R-2909,2026-09-06T16:08:46,12.974992,79.154946,Brown contaminated water is backing up right onto the sidewalk outside the bakery. Smells like absolute garbage.,sewer_overflow,67,images/drain_01.jpg
+R-2910,2026-09-06T16:10:42,12.963889,79.163511,Stagnant rainwater is breeding mosquitoes in the ruts after the heavy rain hit the unpaved road.,waterlogging,40,images/waterlog_06.jpg
+R-2911,2026-09-06T16:11:04,12.940915,79.180287,"The road surface is slightly wet and reflective from the rain, with gentle splashing from tires.",wet_road,44,images/wetroad_03.jpg
+R-2912,2026-09-06T16:11:39,12.95655,79.172813,Slow drainage on the south block has left huge standing puddles across the lane from the heavy rain.,waterlogging,48,images/waterlog_03.jpg
+R-2913,2026-09-06T16:12:05,12.956008,79.142584,"The heavy rain caused terrible slow drainage, keeping the street flooded near the bakery entrance.",waterlogging,22,images/waterlog_04.jpg
+R-2914,2026-09-06T16:12:36,12.99005,79.160042,Water has been gently weeping onto the bike pathway for two full days now. There has been no rain so it has to be a minor pipe break below the asphalt.,pipe_leak,53,images/trickle_03.jpg
+R-2915,2026-09-06T16:12:36,12.960657,79.156598,Standing puddles across the lane are soaking pedestrians waiting for the morning bus in the heavy rain.,waterlogging,44,images/waterlog_06.jpg
+R-2916,2026-09-06T16:14:31,12.94,79.157421,"Street flooded from storm runoff, and the heavy rain has turned the intersection into a duck pond.",waterlogging,32,images/waterlog_07.jpg
+R-2917,2026-09-06T16:16:53,12.947703,79.15076,Stagnant rainwater is pooling across the driveway because the heavy rain clogged the drain pipes.,waterlogging,39,images/waterlog_01.jpg
+R-2918,2026-09-06T16:18:25,12.94,79.163652,"Just some light moisture on the asphalt due to the rain we had earlier, no real issues.",wet_road,40,images/wetroad_01.jpg
+R-2919,2026-09-06T16:19:07,12.94,79.177715,"The street is damp from the passing rain cloud, resulting in quiet splashing from vehicles.",wet_road,26,images/wetroad_02.jpg
+R-2920,2026-09-06T16:20:44,12.943891,79.174046,"Residual damp patches on the highway from the rain shower, vehicles are kicking up fine spray.",wet_road,41,images/wetroad_01.jpg
+R-2921,2026-09-06T16:25:41,12.94,79.14641,Slow drainage means murky water is sitting in stagnant puddles across the lane after the heavy rain.,waterlogging,47,images/waterlog_05.jpg
+R-2922,2026-09-06T16:26:15,12.974807,79.15495,The drain is blocked by a massive heap of pine cones. Standing water is pooling right in front of the bakery.,drain_blockage,56,images/drain_04.jpg
+R-2923,2026-09-06T16:27:34,12.965044,79.150009,A small continuous stream is flowing into the storm drain from the curb. It has been trickling slowly since yesterday with completely clear skies overhead.,pipe_leak,61,images/trickle_03.jpg
+R-2924,2026-09-06T16:28:17,12.955422,79.173457,Street flooded from storm overflow and the heavy rain washed debris straight over the drain grates.,waterlogging,39,images/waterlog_04.jpg
+R-2925,2026-09-06T16:36:37,12.94,79.157785,"The blacktop is damp following today's precipitation, causing minor splashing as cars go by.",wet_road,22,images/wetroad_04.jpg
+R-2926,2026-09-06T16:38:22,12.945682,79.173718,The heavy rainstorm left behind deep stagnant rainwater that refuses to enter the blocked gutters.,waterlogging,31,images/waterlog_05.jpg
+R-2927,2026-09-06T16:40:09,12.94,79.144154,Standing puddles across the lane are making driving impossible after today's heavy rain.,waterlogging,38,images/waterlog_01.jpg
+R-2928,2026-09-06T16:40:22,12.94,79.179358,Street flooded from storm water piling up because slow drainage followed the heavy rain.,waterlogging,33,images/waterlog_06.jpg
+R-2929,2026-09-06T16:41:16,12.946752,79.148566,Passing vehicles are creating a mild mist from the damp spots left behind by the storm.,wet_road,30,images/wetroad_02.jpg
+R-2930,2026-09-06T16:43:26,12.946056,79.159567,"The road is a bit slick and damp from the recent weather pattern, just standard wet conditions.",wet_road,31,images/wetroad_04.jpg
+R-2931,2026-09-06T16:44:04,12.963396,79.149189,Stagnant rainwater is covering the footpath as heavy rain continues to back up the local sewers.,waterlogging,36,images/waterlog_03.jpg
+R-2932,2026-09-06T16:44:59,12.989959,79.160022,The asphalt in front of the local diner has a damp circle that stays all day. It has been weeping water slowly for almost forty eight hours in dry conditions.,pipe_leak,61,images/trickle_02.jpg
+R-2933,2026-09-06T16:46:38,13.005119,79.165211,Drain cover on 12th St is buried under discarded cardboard boxes. Water is backing up and creating a hazard for turning cars.,drain_blockage,54,images/drain_02.jpg
+R-2934,2026-09-06T16:48:03,12.995177,79.185085,Street drain is completely clogged and raw sewage is spilling out into the bike lanes. Major hazard.,sewer_overflow,53,images/drain_01.jpg
+R-2935,2026-09-06T16:49:39,12.946524,79.177983,"Just a bit of moisture on the road surface due to the rain, cars are making a light splashing noise.",wet_road,31,images/wetroad_04.jpg
+R-2936,2026-09-06T16:51:26,12.943257,79.172559,Slow drainage is trapping commuters in waist-deep water after the heavy rainstorm hit downtown.,waterlogging,42,images/waterlog_08.jpg
+R-2937,2026-09-06T16:52:09,12.94982,79.146325,"The pavement is still damp after the rain cleared up, generating slight tire spray from traffic.",wet_road,26,images/wetroad_03.jpg
+R-2938,2026-09-06T16:52:44,12.94,79.162444,"The roadway is showing some moisture from the recent rain, creating tiny splashes as cars drive by.",wet_road,34,images/wetroad_01.jpg
+R-2939,2026-09-06T16:52:57,12.952292,79.139019,Street flooded from storm surges and the heavy rain left large floating debris across the roadway.,waterlogging,50,images/waterlog_03.jpg
+R-2940,2026-09-06T16:53:16,12.94,79.164981,"Just noticed the asphalt is a bit damp from today's weather, with light tire spray on the curves.",wet_road,33,images/wetroad_04.jpg
+R-2941,2026-09-06T16:56:28,12.94,79.166931,"The street has some lingering damp patches after the rain shower, causing mild water displacement from traffic.",wet_road,24,images/wetroad_04.jpg
+R-2942,2026-09-06T16:57:47,12.949362,79.179537,Standing puddles across the lane are hiding sharp rocks washed onto the road by the heavy rain.,waterlogging,42,images/waterlog_04.jpg
+R-2943,2026-09-06T17:00:20,12.941638,79.18061,"Pavement is somewhat moist due to the rain that just passed, leading to a gentle hissing sound from tires.",wet_road,31,images/wetroad_01.jpg
+R-2944,2026-09-06T17:00:59,12.959818,79.168471,"The heavy rain caused slow drainage, leaving the street flooded with dirty brown water for hours.",waterlogging,32,images/waterlog_06.jpg
+R-2945,2026-09-06T17:09:45,12.949188,79.143969,"A light sheen of dampness remains on the blacktop from the weather system, kicking up small mists.",wet_road,31,images/wetroad_04.jpg
+R-2946,2026-09-06T17:14:31,12.949172,79.166173,"The road surface feels slightly slick from the rain earlier, nothing major though cars are spraying a bit.",wet_road,33,images/wetroad_01.jpg
+R-2947,2026-09-06T17:15:43,12.956282,79.177689,Massive puddles left behind by the heavy rain are taking forever to drain into the blocked sewer.,waterlogging,24,images/waterlog_08.jpg
+R-2948,2026-09-06T17:16:07,13.00507,79.173524,A mysterious oily slick covers the left lane of Jefferson avenue near the industrial park.,normal_road,17,images/noise_02.jpg
+R-2949,2026-09-06T17:16:29,12.946887,79.174116,Water logging on the main avenue is terrible right now due to slow drainage after last night's heavy rain.,waterlogging,42,images/waterlog_06.jpg
+R-2950,2026-09-06T17:17:58,12.950597,79.159118,"The heavy rain caused severe street flooding near the park entrance, trapping cars in knee-deep water.",waterlogging,42,images/waterlog_03.jpg
+R-2951,2026-09-06T17:20:57,13.005078,79.165227,The storm drain by the playground is plugged with sand and sticks. Dirty water is pooling all over the swing area.,drain_blockage,70,images/drain_04.jpg
+R-2952,2026-09-06T17:26:03,12.969909,79.178869,Multiple small potholes have clustered together near the bus stop on 9th street.,normal_road,14,images/noise_06.jpg
+R-2953,2026-09-06T17:27:30,12.954686,79.175125,"Just some residual dampness on the lane following the rain, with soft splashing from passing automobiles.",wet_road,32,images/wetroad_01.jpg
+R-2954,2026-09-06T17:28:30,12.995036,79.185133,Standing water is pooling near the storm drain on Cedar Ave because the grates are jammed with gravel from the shoulder.,drain_blockage,69,images/drain_03.jpg
+R-2955,2026-09-06T17:29:52,12.9565,79.130394,Electrical access panel is missing from the base of the traffic light pole on 3rd avenue.,normal_road,12,images/noise_05.jpg
+R-2956,2026-09-06T17:30:46,12.94,79.147975,"The street looks dark and damp from the recent storm activity, producing minor tire mist behind vehicles.",wet_road,45,images/wetroad_02.jpg
+R-2957,2026-09-06T17:31:31,12.953097,79.18127,Nasty stagnant rainwater has been sitting in the alleyway since the heavy rain storm passed through.,waterlogging,33,images/waterlog_03.jpg
+R-2958,2026-09-06T17:33:03,12.941709,79.14633,"Because of poor drainage from the heavy rain, water is pooled across the entire residential lane.",waterlogging,44,images/waterlog_05.jpg
+R-2959,2026-09-06T17:36:59,12.946006,79.174836,"The heavy rain overloaded the drainage system, leaving stagnant rainwater all over the pavement.",waterlogging,38,images/waterlog_07.jpg
+R-2960,2026-09-06T17:37:48,12.94,79.16067,"Asphalt is holding onto some damp spots after the weather front cleared, causing faint splashing.",wet_road,21,images/wetroad_02.jpg
+R-2961,2026-09-06T17:37:49,12.95391,79.144764,Standing water covers the road completely because the heavy rain caused severe street flooding.,waterlogging,47,images/waterlog_05.jpg
+R-2962,2026-09-06T17:38:19,12.94,79.158053,Slow drainage after the heavy rain has turned this block into a massive pool of muddy water.,waterlogging,48,images/waterlog_06.jpg
+R-2963,2026-09-06T17:39:41,12.944952,79.145475,"Roads are a little damp from the morning rain, generating light water spray as traffic moves along.",wet_road,26,images/wetroad_02.jpg
+R-2964,2026-09-06T17:45:51,12.97521,79.184537,Cardboard boxes and packing peanuts are blowing all over the sidewalk from an overfilled public bin.,normal_road,22,images/noise_01.jpg
+R-2965,2026-09-06T17:50:10,12.94,79.168396,Stagnant rainwater is collecting in deep trenches on the side street following the heavy rain storm.,waterlogging,50,images/waterlog_07.jpg
+R-2966,2026-09-06T17:51:11,12.992709,79.14114,An aggressive stray terrier is barking at pedestrians near the community garden entrance.,normal_road,18,images/noise_05.jpg
+R-2967,2026-09-06T17:53:24,12.959249,79.159865,"The pavement has thin damp patches due to the recent rain, with cars throwing up tiny amounts of water.",wet_road,32,images/wetroad_02.jpg
+R-2968,2026-09-06T17:53:55,12.940075,79.148158,"Just reporting some mild road moisture left over from the rain, traffic is kicking up a small spray.",wet_road,28,images/wetroad_01.jpg
+R-2969,2026-09-06T17:54:18,12.952614,79.151502,"The street surface is damp following the precipitation, leading to gentle splashing noises from cars.",wet_road,23,images/wetroad_04.jpg
+R-2970,2026-09-06T17:55:06,12.962437,79.160928,The street is flooded from storm runoff after the heavy rain completely overwhelmed the local grates.,waterlogging,23,images/waterlog_01.jpg
+R-2971,2026-09-06T17:58:04,13.00103,79.167415,The pedestrian yield sign is completely obscured by dense bushes growing over the fence.,normal_road,23,images/noise_05.jpg
+R-2972,2026-09-06T17:59:20,12.959565,79.143777,Standing puddles across the lane are splashing pedestrians as heavy rain runoff refuses to recede.,waterlogging,28,images/waterlog_02.jpg
+R-2973,2026-09-06T17:59:32,12.94,79.150674,"Heavy rain caused awful slow drainage, leaving large patches of stagnant rainwater by the corner store.",waterlogging,26,images/waterlog_06.jpg
+R-2974,2026-09-06T18:08:33,12.965531,79.161083,Crumbling concrete steps leading up to the overpass are missing a chunk on the edge.,normal_road,14,images/noise_03.jpg
+R-2975,2026-09-06T18:30:15,12.990144,79.159981,A tiny constant trickle is coming up from underneath the road surface. The resulting puddle has been sitting there since Saturday without ever evaporating.,pipe_leak,64,images/trickle_03.jpg
+R-2976,2026-09-06T18:33:10,13.004995,79.164984,An overflowing manhole is sending a stream of foul wastewater down the alley. Can smell it from indoors.,sewer_overflow,70,images/drain_02.jpg
+R-2977,2026-09-06T19:12:00,12.997486,79.182953,Dark grease puddle sitting right in the middle of the delivery alley behind Main street.,normal_road,13,images/noise_04.jpg
+R-2978,2026-09-06T19:27:14,12.990002,79.16013,The side street curb is slick and wet from a slow underground leak. It has been damp continuously since Sunday afternoon with zero precipitation anywhere.,pipe_leak,54,images/trickle_01.jpg
+R-2979,2026-09-06T19:33:53,12.974972,79.154892,The drainage grate is totally choked with plastic grocery bags. Water is backing up and creating a deep puddle.,drain_blockage,69,images/drain_04.jpg
+R-2980,2026-09-06T20:00:42,12.965886,79.150557,A series of sharp ruts in the dirt shoulder of county road 5 is threatening car bumpers.,normal_road,8,images/noise_02.jpg
+R-2981,2026-09-06T20:08:38,12.994936,79.184976,Dark sludge is bubbling up out of the drainage hole near the gas station. Very strong obnoxious odor.,sewer_overflow,66,images/drain_02.jpg
+R-2982,2026-09-06T20:15:46,12.989989,79.160011,A quiet little pool of water has just been sitting on the blacktop for over a day. There hasn't been any rain so it must be a slow underground pipe leak.,pipe_leak,57,images/trickle_05.jpg
+R-2983,2026-09-06T20:20:39,12.969968,79.154068,Glass globe of the pedestrian walkway light is completely smashed with shards on the ground.,normal_road,19,images/noise_05.jpg
+R-2984,2026-09-06T20:29:00,12.989974,79.159899,Water keeps bubbling up ever so slightly right by the edge of our driveway. The resulting puddle hasn't dried up once since yesterday morning.,pipe_leak,43,images/trickle_02.jpg
+R-2985,2026-09-06T20:45:26,12.990096,79.159948,The grassy patch next to the municipal billboard is completely soaked through. A tiny trickle has been oozing from the ground there for nearly two days straight.,pipe_leak,51,images/trickle_04.jpg
+R-2986,2026-09-06T20:52:45,13.005146,79.165028,Sewage backup is creating a massive puddle of dirty black water right across the jogging path.,sewer_overflow,63,images/drain_03.jpg
+R-2987,2026-09-06T20:59:08,12.952473,79.151985,Heavy tree branches from the storm are resting right across the bike lane on 12th street.,normal_road,19,images/noise_02.jpg
+R-2988,2026-09-06T21:11:47,12.978564,79.154354,A stray black cat has taken up residence underneath the bench at the transit terminal.,normal_road,5,images/noise_03.jpg
+R-2989,2026-09-06T21:23:31,12.990001,79.159933,A faint thread of clear water is sliding down the street gutter continuously. It started around Saturday noon and hasn't stopped despite the hot afternoon sun.,pipe_leak,59,images/trickle_06.jpg
+R-2990,2026-09-06T21:34:17,12.956382,79.165128,The do not enter sign is dangling dangerously by a single top bolt.,normal_road,15,images/noise_01.jpg
+R-2991,2026-09-06T22:16:16,12.955155,79.134997,The manhole cover is rattling and disgusting grey water is splashing out onto the asphalt.,sewer_overflow,64,images/drain_06.jpg
+R-2992,2026-09-06T22:18:41,12.966999,79.166572,A wide depression in the macadam near the postal drop box fills up with murky water.,normal_road,7,images/noise_05.jpg
+R-2993,2026-09-06T22:20:20,12.975,79.155199,There is raw sewage leaking from the storm drain on 9th street. The air quality here is foul right now.,sewer_overflow,61,images/drain_04.jpg
+R-2994,2026-09-06T22:37:41,12.981846,79.141855,A persistent damp patch on the pedestrian mall bricks feels spongy when walked upon.,normal_road,5,images/noise_04.jpg
+R-2995,2026-09-06T22:39:23,12.962286,79.169036,The recent asphalt patch on the neighborhood speed bump is already breaking apart.,normal_road,13,images/noise_01.jpg
+R-2996,2026-09-06T23:11:35,12.960922,79.131842,Shattered beverage bottles are strewn across the bike path near the high school stadium.,normal_road,15,images/noise_03.jpg
+R-2997,2026-09-06T23:21:36,12.994854,79.185125,Clogged storm drain on Victoria Blvd. Nasty green water is pooling around the cover and overflowing the gutter.,drain_blockage,54,images/drain_05.jpg
+R-2998,2026-09-06T23:32:54,12.974966,79.155105,The storm drain grate is choked with weed trimmings. Water is backing up and creating a wide puddle in the driveway.,drain_blockage,68,images/drain_04.jpg
+R-2999,2026-09-06T23:51:05,12.949641,79.156615,A spotted hound dog is wandering around the perimeter fence of the elementary school.,normal_road,8,images/noise_05.jpg
+R-3000,2026-09-06T23:51:12,12.956198,79.146161,The parking restriction sign is twisted completely sideways and facing inward toward the property.,normal_road,12,images/noise_04.jpg

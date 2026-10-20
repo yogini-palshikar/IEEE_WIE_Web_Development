@@ -1,0 +1,7 @@
+crew_id,name,capability,latitude,longitude,available
+C-01,Water Main Rapid Team A,water_main_leak,12.973000,79.156000,True
+C-02,Emergency Main Repair Team B,water_main_leak,12.969500,79.162000,True
+C-03,Underground Distribution Unit 1,slow_pipe_leak,12.977500,79.163000,True
+C-04,Drainage & Sewer Response Squad,sewer_overflow,12.981000,79.154000,True
+C-05,Municipal Pumping Unit (Flood/Drain),waterlogging,12.962000,79.148000,True
+C-06,General Maintenance Crew C,non_water_issue,12.968000,79.155000,False

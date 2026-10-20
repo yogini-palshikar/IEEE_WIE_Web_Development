@@ -1,0 +1,142 @@
+[
+    {
+        "incident_id": "INC-1007",
+        "latitude": 12.971593,
+        "longitude": 79.158502,
+        "total_reports": 50,
+        "dominant_category": "water_main_leak",
+        "max_severity": 83,
+        "priority_score": 89,
+        "recommended_action": "DISPATCH CREW IMMEDIATELY"
+    },
+    {
+        "incident_id": "INC-1008",
+        "latitude": 12.954992,
+        "longitude": 79.169959,
+        "total_reports": 50,
+        "dominant_category": "water_main_leak",
+        "max_severity": 83,
+        "priority_score": 89,
+        "recommended_action": "DISPATCH CREW IMMEDIATELY"
+    },
+    {
+        "incident_id": "INC-1010",
+        "latitude": 12.999012,
+        "longitude": 79.175012,
+        "total_reports": 50,
+        "dominant_category": "water_main_leak",
+        "max_severity": 83,
+        "priority_score": 89,
+        "recommended_action": "DISPATCH CREW IMMEDIATELY"
+    },
+    {
+        "incident_id": "INC-1012",
+        "latitude": 12.947998,
+        "longitude": 79.140018,
+        "total_reports": 50,
+        "dominant_category": "water_main_leak",
+        "max_severity": 83,
+        "priority_score": 89,
+        "recommended_action": "DISPATCH CREW IMMEDIATELY"
+    },
+    {
+        "incident_id": "INC-1013",
+        "latitude": 12.981968,
+        "longitude": 79.14501,
+        "total_reports": 50,
+        "dominant_category": "water_main_leak",
+        "max_severity": 83,
+        "priority_score": 89,
+        "recommended_action": "DISPATCH CREW IMMEDIATELY"
+    },
+    {
+        "incident_id": "INC-1002",
+        "latitude": 12.949988,
+        "longitude": 79.174995,
+        "total_reports": 50,
+        "dominant_category": "pipe_leak",
+        "max_severity": 59,
+        "priority_score": 75,
+        "recommended_action": "DISPATCH CREW IMMEDIATELY"
+    },
+    {
+        "incident_id": "INC-1009",
+        "latitude": 12.990009,
+        "longitude": 79.160003,
+        "total_reports": 50,
+        "dominant_category": "pipe_leak",
+        "max_severity": 59,
+        "priority_score": 75,
+        "recommended_action": "DISPATCH CREW IMMEDIATELY"
+    },
+    {
+        "incident_id": "INC-1011",
+        "latitude": 12.965005,
+        "longitude": 79.150006,
+        "total_reports": 50,
+        "dominant_category": "pipe_leak",
+        "max_severity": 59,
+        "priority_score": 75,
+        "recommended_action": "DISPATCH CREW IMMEDIATELY"
+    },
+    {
+        "incident_id": "INC-1003",
+        "latitude": 12.944985,
+        "longitude": 79.145028,
+        "total_reports": 41,
+        "dominant_category": "sewer_overflow",
+        "max_severity": 59,
+        "priority_score": 68,
+        "recommended_action": "SCHEDULE FIELD INSPECTION"
+    },
+    {
+        "incident_id": "INC-1001",
+        "latitude": 13.005005,
+        "longitude": 79.164979,
+        "total_reports": 40,
+        "dominant_category": "drain_blockage",
+        "max_severity": 59,
+        "priority_score": 67,
+        "recommended_action": "SCHEDULE FIELD INSPECTION"
+    },
+    {
+        "incident_id": "INC-1004",
+        "latitude": 12.955021,
+        "longitude": 79.134998,
+        "total_reports": 40,
+        "dominant_category": "sewer_overflow",
+        "max_severity": 59,
+        "priority_score": 67,
+        "recommended_action": "SCHEDULE FIELD INSPECTION"
+    },
+    {
+        "incident_id": "INC-1005",
+        "latitude": 12.995029,
+        "longitude": 79.185016,
+        "total_reports": 40,
+        "dominant_category": "drain_blockage",
+        "max_severity": 59,
+        "priority_score": 67,
+        "recommended_action": "SCHEDULE FIELD INSPECTION"
+    },
+    {
+        "incident_id": "INC-1006",
+        "latitude": 12.975019,
+        "longitude": 79.154992,
+        "total_reports": 40,
+        "dominant_category": "drain_blockage",
+        "max_severity": 59,
+        "priority_score": 67,
+        "recommended_action": "SCHEDULE FIELD INSPECTION"
+    },
+    {
+        "incident_id": "INC-1014",
+        "latitude": 12.94,
+        "longitude": 79.157753,
+        "total_reports": 3,
+        "dominant_category": "waterlogging",
+        "max_severity": 65,
+        "priority_score": 41,
+        "recommended_action": "SCHEDULE FIELD INSPECTION"
+    }
+]

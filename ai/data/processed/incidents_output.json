@@ -1,0 +1,35 @@
+[
+    {
+        "incident_id": "INC-100",
+        "latitude": 12.978195,
+        "longitude": 79.164823,
+        "report_count": 15,
+        "duration_hours": 26.7,
+        "leak_probability": 0.44,
+        "severity": 92,
+        "priority": 86,
+        "recommended_action": "DISPATCH EMERGENCY WATER MAIN TEAM"
+    },
+    {
+        "incident_id": "INC-101",
+        "latitude": 12.971616,
+        "longitude": 79.158489,
+        "report_count": 30,
+        "duration_hours": 5.9,
+        "leak_probability": 0.5,
+        "severity": 93,
+        "priority": 100,
+        "recommended_action": "DISPATCH EMERGENCY WATER MAIN TEAM"
+    },
+    {
+        "incident_id": "INC-102",
+        "latitude": 12.983516,
+        "longitude": 79.151976,
+        "report_count": 15,
+        "duration_hours": 5.5,
+        "leak_probability": 0.45,
+        "severity": 60,
+        "priority": 64,
+        "recommended_action": "SCHEDULE INSPECTION"
+    }
+]
